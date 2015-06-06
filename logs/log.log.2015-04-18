@@ -1,0 +1,360 @@
+2015-04-18 11:23:39  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-18 11:24:05  [ main:25752 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-04; To be processed date no.:2245
+2015-04-18 11:24:21  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-18 11:24:21  [ main:120 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:123 ] - [ INFO ]  Processed ROI:ld0; pending: 184
+2015-04-18 11:24:21  [ main:138 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:141 ] - [ INFO ]  Processed ROI:ld7; pending: 183
+2015-04-18 11:24:21  [ main:155 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:158 ] - [ INFO ]  Processed ROI:ld30; pending: 182
+2015-04-18 11:24:21  [ main:174 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:183 ] - [ INFO ]  Processed ROI:ld90; pending: 181
+2015-04-18 11:24:21  [ main:197 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:208 ] - [ INFO ]  Processed ROI:ld180; pending: 180
+2015-04-18 11:24:21  [ main:222 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:246 ] - [ INFO ]  Processed ROI:ly1; pending: 179
+2015-04-18 11:24:21  [ main:264 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:288 ] - [ INFO ]  Processed ROI:y2006; pending: 178
+2015-04-18 11:24:21  [ main:301 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:309 ] - [ INFO ]  Processed ROI:y2006q1; pending: 177
+2015-04-18 11:24:21  [ main:322 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:329 ] - [ INFO ]  Processed ROI:y2006q2; pending: 176
+2015-04-18 11:24:21  [ main:342 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:349 ] - [ INFO ]  Processed ROI:y2006q3; pending: 175
+2015-04-18 11:24:21  [ main:363 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:366 ] - [ INFO ]  Processed ROI:y2006q4; pending: 174
+2015-04-18 11:24:21  [ main:379 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:380 ] - [ INFO ]  Processed ROI:l2006m1; pending: 173
+2015-04-18 11:24:21  [ main:397 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:399 ] - [ INFO ]  Processed ROI:l2006m2; pending: 172
+2015-04-18 11:24:21  [ main:420 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:421 ] - [ INFO ]  Processed ROI:l2006m3; pending: 171
+2015-04-18 11:24:21  [ main:435 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:436 ] - [ INFO ]  Processed ROI:l2006m4; pending: 170
+2015-04-18 11:24:21  [ main:450 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:452 ] - [ INFO ]  Processed ROI:l2006m5; pending: 169
+2015-04-18 11:24:21  [ main:469 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:470 ] - [ INFO ]  Processed ROI:l2006m6; pending: 168
+2015-04-18 11:24:21  [ main:489 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:490 ] - [ INFO ]  Processed ROI:l2006m7; pending: 167
+2015-04-18 11:24:21  [ main:505 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:507 ] - [ INFO ]  Processed ROI:l2006m8; pending: 166
+2015-04-18 11:24:21  [ main:521 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:522 ] - [ INFO ]  Processed ROI:l2006m9; pending: 165
+2015-04-18 11:24:21  [ main:537 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:539 ] - [ INFO ]  Processed ROI:l2006m10; pending: 164
+2015-04-18 11:24:21  [ main:552 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:554 ] - [ INFO ]  Processed ROI:l2006m11; pending: 163
+2015-04-18 11:24:21  [ main:567 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:569 ] - [ INFO ]  Processed ROI:l2006m12; pending: 162
+2015-04-18 11:24:21  [ main:582 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:593 ] - [ INFO ]  Processed ROI:ly2; pending: 161
+2015-04-18 11:24:21  [ main:608 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:614 ] - [ INFO ]  Processed ROI:y2007; pending: 160
+2015-04-18 11:24:21  [ main:627 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:630 ] - [ INFO ]  Processed ROI:y2007q1; pending: 159
+2015-04-18 11:24:21  [ main:644 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:646 ] - [ INFO ]  Processed ROI:y2007q2; pending: 158
+2015-04-18 11:24:21  [ main:661 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:664 ] - [ INFO ]  Processed ROI:y2007q3; pending: 157
+2015-04-18 11:24:21  [ main:677 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:680 ] - [ INFO ]  Processed ROI:y2007q4; pending: 156
+2015-04-18 11:24:21  [ main:693 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:695 ] - [ INFO ]  Processed ROI:l2007m1; pending: 155
+2015-04-18 11:24:21  [ main:709 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:710 ] - [ INFO ]  Processed ROI:l2007m2; pending: 154
+2015-04-18 11:24:21  [ main:724 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:726 ] - [ INFO ]  Processed ROI:l2007m3; pending: 153
+2015-04-18 11:24:21  [ main:739 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:740 ] - [ INFO ]  Processed ROI:l2007m4; pending: 152
+2015-04-18 11:24:21  [ main:757 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:21  [ main:759 ] - [ INFO ]  Processed ROI:l2007m5; pending: 151
+2015-04-18 11:24:22  [ main:776 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:778 ] - [ INFO ]  Processed ROI:l2007m6; pending: 150
+2015-04-18 11:24:22  [ main:793 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:795 ] - [ INFO ]  Processed ROI:l2007m7; pending: 149
+2015-04-18 11:24:22  [ main:808 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:810 ] - [ INFO ]  Processed ROI:l2007m8; pending: 148
+2015-04-18 11:24:22  [ main:824 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:826 ] - [ INFO ]  Processed ROI:l2007m9; pending: 147
+2015-04-18 11:24:22  [ main:840 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:841 ] - [ INFO ]  Processed ROI:l2007m10; pending: 146
+2015-04-18 11:24:22  [ main:854 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:856 ] - [ INFO ]  Processed ROI:l2007m11; pending: 145
+2015-04-18 11:24:22  [ main:874 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:876 ] - [ INFO ]  Processed ROI:l2007m12; pending: 144
+2015-04-18 11:24:22  [ main:891 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:912 ] - [ INFO ]  Processed ROI:ly3; pending: 143
+2015-04-18 11:24:22  [ main:927 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:936 ] - [ INFO ]  Processed ROI:y2008; pending: 142
+2015-04-18 11:24:22  [ main:950 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:952 ] - [ INFO ]  Processed ROI:y2008q1; pending: 141
+2015-04-18 11:24:22  [ main:987 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:988 ] - [ INFO ]  Processed ROI:y2008q2; pending: 140
+2015-04-18 11:24:22  [ main:1006 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1007 ] - [ INFO ]  Processed ROI:y2008q3; pending: 139
+2015-04-18 11:24:22  [ main:1024 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1025 ] - [ INFO ]  Processed ROI:y2008q4; pending: 138
+2015-04-18 11:24:22  [ main:1039 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1039 ] - [ INFO ]  Processed ROI:l2008m1; pending: 137
+2015-04-18 11:24:22  [ main:1054 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1055 ] - [ INFO ]  Processed ROI:l2008m2; pending: 136
+2015-04-18 11:24:22  [ main:1071 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1072 ] - [ INFO ]  Processed ROI:l2008m3; pending: 135
+2015-04-18 11:24:22  [ main:1086 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1088 ] - [ INFO ]  Processed ROI:l2008m4; pending: 134
+2015-04-18 11:24:22  [ main:1101 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1102 ] - [ INFO ]  Processed ROI:l2008m5; pending: 133
+2015-04-18 11:24:22  [ main:1115 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1116 ] - [ INFO ]  Processed ROI:l2008m6; pending: 132
+2015-04-18 11:24:22  [ main:1129 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1131 ] - [ INFO ]  Processed ROI:l2008m7; pending: 131
+2015-04-18 11:24:22  [ main:1144 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1145 ] - [ INFO ]  Processed ROI:l2008m8; pending: 130
+2015-04-18 11:24:22  [ main:1159 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1161 ] - [ INFO ]  Processed ROI:l2008m9; pending: 129
+2015-04-18 11:24:22  [ main:1179 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1181 ] - [ INFO ]  Processed ROI:l2008m10; pending: 128
+2015-04-18 11:24:22  [ main:1195 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1197 ] - [ INFO ]  Processed ROI:l2008m11; pending: 127
+2015-04-18 11:24:22  [ main:1210 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1211 ] - [ INFO ]  Processed ROI:l2008m12; pending: 126
+2015-04-18 11:24:22  [ main:1224 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1227 ] - [ INFO ]  Processed ROI:ly4; pending: 125
+2015-04-18 11:24:22  [ main:1240 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1242 ] - [ INFO ]  Processed ROI:y2009; pending: 124
+2015-04-18 11:24:22  [ main:1255 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1256 ] - [ INFO ]  Processed ROI:y2009q1; pending: 123
+2015-04-18 11:24:22  [ main:1269 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1270 ] - [ INFO ]  Processed ROI:y2009q2; pending: 122
+2015-04-18 11:24:22  [ main:1288 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1288 ] - [ INFO ]  Processed ROI:y2009q3; pending: 121
+2015-04-18 11:24:22  [ main:1305 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1306 ] - [ INFO ]  Processed ROI:y2009q4; pending: 120
+2015-04-18 11:24:22  [ main:1320 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1321 ] - [ INFO ]  Processed ROI:l2009m1; pending: 119
+2015-04-18 11:24:22  [ main:1335 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1336 ] - [ INFO ]  Processed ROI:l2009m2; pending: 118
+2015-04-18 11:24:22  [ main:1351 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1352 ] - [ INFO ]  Processed ROI:l2009m3; pending: 117
+2015-04-18 11:24:22  [ main:1365 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1366 ] - [ INFO ]  Processed ROI:l2009m4; pending: 116
+2015-04-18 11:24:22  [ main:1381 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1382 ] - [ INFO ]  Processed ROI:l2009m5; pending: 115
+2015-04-18 11:24:22  [ main:1396 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1397 ] - [ INFO ]  Processed ROI:l2009m6; pending: 114
+2015-04-18 11:24:22  [ main:1414 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1416 ] - [ INFO ]  Processed ROI:l2009m7; pending: 113
+2015-04-18 11:24:22  [ main:1429 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1430 ] - [ INFO ]  Processed ROI:l2009m8; pending: 112
+2015-04-18 11:24:22  [ main:1444 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1446 ] - [ INFO ]  Processed ROI:l2009m9; pending: 111
+2015-04-18 11:24:22  [ main:1462 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1463 ] - [ INFO ]  Processed ROI:l2009m10; pending: 110
+2015-04-18 11:24:22  [ main:1480 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1481 ] - [ INFO ]  Processed ROI:l2009m11; pending: 109
+2015-04-18 11:24:22  [ main:1494 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1495 ] - [ INFO ]  Processed ROI:l2009m12; pending: 108
+2015-04-18 11:24:22  [ main:1510 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1517 ] - [ INFO ]  Processed ROI:ly5; pending: 107
+2015-04-18 11:24:22  [ main:1530 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1532 ] - [ INFO ]  Processed ROI:y2010; pending: 106
+2015-04-18 11:24:22  [ main:1545 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1546 ] - [ INFO ]  Processed ROI:y2010q1; pending: 105
+2015-04-18 11:24:22  [ main:1559 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1560 ] - [ INFO ]  Processed ROI:y2010q2; pending: 104
+2015-04-18 11:24:22  [ main:1576 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1577 ] - [ INFO ]  Processed ROI:y2010q3; pending: 103
+2015-04-18 11:24:22  [ main:1591 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1592 ] - [ INFO ]  Processed ROI:y2010q4; pending: 102
+2015-04-18 11:24:22  [ main:1605 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1606 ] - [ INFO ]  Processed ROI:l2010m1; pending: 101
+2015-04-18 11:24:22  [ main:1619 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1620 ] - [ INFO ]  Processed ROI:l2010m2; pending: 100
+2015-04-18 11:24:22  [ main:1633 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1634 ] - [ INFO ]  Processed ROI:l2010m3; pending: 99
+2015-04-18 11:24:22  [ main:1647 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1648 ] - [ INFO ]  Processed ROI:l2010m4; pending: 98
+2015-04-18 11:24:22  [ main:1661 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1663 ] - [ INFO ]  Processed ROI:l2010m5; pending: 97
+2015-04-18 11:24:22  [ main:1678 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1679 ] - [ INFO ]  Processed ROI:l2010m6; pending: 96
+2015-04-18 11:24:22  [ main:1698 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1699 ] - [ INFO ]  Processed ROI:l2010m7; pending: 95
+2015-04-18 11:24:22  [ main:1715 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1716 ] - [ INFO ]  Processed ROI:l2010m8; pending: 94
+2015-04-18 11:24:22  [ main:1730 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1731 ] - [ INFO ]  Processed ROI:l2010m9; pending: 93
+2015-04-18 11:24:22  [ main:1745 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1746 ] - [ INFO ]  Processed ROI:l2010m10; pending: 92
+2015-04-18 11:24:22  [ main:1759 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1759 ] - [ INFO ]  Processed ROI:l2010m11; pending: 91
+2015-04-18 11:24:22  [ main:1773 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:22  [ main:1774 ] - [ INFO ]  Processed ROI:l2010m12; pending: 90
+2015-04-18 11:24:23  [ main:1787 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:1790 ] - [ INFO ]  Processed ROI:ly6; pending: 89
+2015-04-18 11:24:23  [ main:1803 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:1805 ] - [ INFO ]  Processed ROI:y2011; pending: 88
+2015-04-18 11:24:23  [ main:1817 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:1818 ] - [ INFO ]  Processed ROI:y2011q1; pending: 87
+2015-04-18 11:24:23  [ main:1832 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:1833 ] - [ INFO ]  Processed ROI:y2011q2; pending: 86
+2015-04-18 11:24:23  [ main:1846 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:1847 ] - [ INFO ]  Processed ROI:y2011q3; pending: 85
+2015-04-18 11:24:23  [ main:1863 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:1864 ] - [ INFO ]  Processed ROI:y2011q4; pending: 84
+2015-04-18 11:24:23  [ main:1878 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:1879 ] - [ INFO ]  Processed ROI:l2011m1; pending: 83
+2015-04-18 11:24:23  [ main:1895 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:1896 ] - [ INFO ]  Processed ROI:l2011m2; pending: 82
+2015-04-18 11:24:23  [ main:1909 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:1911 ] - [ INFO ]  Processed ROI:l2011m3; pending: 81
+2015-04-18 11:24:23  [ main:1924 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:1925 ] - [ INFO ]  Processed ROI:l2011m4; pending: 80
+2015-04-18 11:24:23  [ main:1939 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:1940 ] - [ INFO ]  Processed ROI:l2011m5; pending: 79
+2015-04-18 11:24:23  [ main:1953 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:1954 ] - [ INFO ]  Processed ROI:l2011m6; pending: 78
+2015-04-18 11:24:23  [ main:1968 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:1969 ] - [ INFO ]  Processed ROI:l2011m7; pending: 77
+2015-04-18 11:24:23  [ main:1982 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:1983 ] - [ INFO ]  Processed ROI:l2011m8; pending: 76
+2015-04-18 11:24:23  [ main:1999 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:2000 ] - [ INFO ]  Processed ROI:l2011m9; pending: 75
+2015-04-18 11:24:23  [ main:2013 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:2014 ] - [ INFO ]  Processed ROI:l2011m10; pending: 74
+2015-04-18 11:24:23  [ main:2028 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:2030 ] - [ INFO ]  Processed ROI:l2011m11; pending: 73
+2015-04-18 11:24:23  [ main:2044 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:2045 ] - [ INFO ]  Processed ROI:l2011m12; pending: 72
+2015-04-18 11:24:23  [ main:2058 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:2063 ] - [ INFO ]  Processed ROI:ly7; pending: 71
+2015-04-18 11:24:23  [ main:2078 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-18 11:24:23  [ main:2081 ] - [ INFO ]  Processed ROI:y2012; pending: 70
+2015-04-18 11:48:05  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-18 11:48:05  [ main:101 ] - [ INFO ]  Processed ROI:ld0; pending: 184
+2015-04-18 11:48:05  [ main:119 ] - [ INFO ]  Processed ROI:ld7; pending: 183
+2015-04-18 11:48:05  [ main:136 ] - [ INFO ]  Processed ROI:ld30; pending: 182
+2015-04-18 11:48:05  [ main:159 ] - [ INFO ]  Processed ROI:ld90; pending: 181
+2015-04-18 11:48:05  [ main:185 ] - [ INFO ]  Processed ROI:ld180; pending: 180
+2015-04-18 11:48:05  [ main:224 ] - [ INFO ]  Processed ROI:ly1; pending: 179
+2015-04-18 11:48:17  [ main:11784 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:11809 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:11829 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:11857 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:11879 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:11906 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:11926 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:11945 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:11964 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:11990 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12016 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12036 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12058 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12086 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12115 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12149 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12184 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12223 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12286 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12355 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12388 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12438 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12460 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12489 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12510 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12525 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12558 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12587 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12621 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12644 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:17  [ main:12660 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:12678 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:12696 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:12723 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:12776 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:12795 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:12817 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:12832 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:12851 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:12884 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:12912 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:12929 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:12945 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:12968 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:12984 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13007 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13026 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13046 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13065 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13081 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13099 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13119 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13144 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13162 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13179 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13197 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13219 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13235 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13252 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13269 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13284 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13302 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13316 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13337 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13354 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13370 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13393 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13413 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13433 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13452 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13469 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13491 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13510 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13526 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13541 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13559 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13574 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:48:18  [ main:13591 ] - [ ERROR ]  Get Latet Specific Stock Data from MySQL Exception
+2015-04-18 11:53:07  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-18 11:53:07  [ main:88 ] - [ INFO ]  Processed ROI:ld0; pending: 184
+2015-04-18 11:53:07  [ main:104 ] - [ INFO ]  Processed ROI:ld7; pending: 183
+2015-04-18 11:53:07  [ main:121 ] - [ INFO ]  Processed ROI:ld30; pending: 182
+2015-04-18 11:53:08  [ main:148 ] - [ INFO ]  Processed ROI:ld90; pending: 181
+2015-04-18 11:53:08  [ main:176 ] - [ INFO ]  Processed ROI:ld180; pending: 180
+2015-04-18 11:53:08  [ main:213 ] - [ INFO ]  Processed ROI:ly1; pending: 179
+2015-04-18 11:53:31  [ main:24087 ] - [ INFO ]  Processed ROI:y2006; pending: 178
+2015-04-18 14:38:17  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-18 14:44:56  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-18 14:45:17  [ main:20415 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-04; To be processed date no.:2245
+2015-04-18 14:45:37  [ main:40096 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-05; To be processed date no.:2244
+2015-04-18 14:45:57  [ main:60371 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-06; To be processed date no.:2243
+2015-04-18 14:46:45  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-18 14:47:04  [ main:18800 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-04; To be processed date no.:2245
+2015-04-18 14:47:24  [ main:38451 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-05; To be processed date no.:2244
+2015-04-18 14:47:43  [ main:58270 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-06; To be processed date no.:2243
+2015-04-18 14:48:03  [ main:77849 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-09; To be processed date no.:2242
+2015-04-18 14:48:23  [ main:97480 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-10; To be processed date no.:2241
+2015-04-18 14:48:42  [ main:117065 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-11; To be processed date no.:2240
+2015-04-18 14:49:02  [ main:136732 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-12; To be processed date no.:2239
+2015-04-18 14:49:21  [ main:156273 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-13; To be processed date no.:2238
+2015-04-18 14:49:41  [ main:175605 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-16; To be processed date no.:2237
+2015-04-18 14:50:01  [ main:195447 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-17; To be processed date no.:2236
+2015-04-18 14:50:20  [ main:214866 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-18; To be processed date no.:2235
+2015-04-18 14:50:40  [ main:234701 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-19; To be processed date no.:2234
+2015-04-18 14:51:00  [ main:254392 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-20; To be processed date no.:2233
+2015-04-18 14:51:18  [ main:273260 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-23; To be processed date no.:2232
+2015-04-18 14:51:38  [ main:292598 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-24; To be processed date no.:2231
+2015-04-18 14:51:57  [ main:312040 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-25; To be processed date no.:2230
+2015-04-18 14:53:02  [ main:376418 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-02-06; To be processed date no.:2229
+2015-04-18 14:53:52  [ main:426627 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-02-07; To be processed date no.:2228
+2015-04-18 14:54:35  [ main:470016 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-02-08; To be processed date no.:2227
+2015-04-18 14:55:01  [ main:495588 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-02-09; To be processed date no.:2226
+2015-04-18 14:55:20  [ main:515228 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-02-10; To be processed date no.:2225
+2015-04-18 14:55:40  [ main:534427 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-02-13; To be processed date no.:2224
+2015-04-18 14:55:59  [ main:553800 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-02-14; To be processed date no.:2223
+2015-04-18 14:56:18  [ main:573185 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-02-15; To be processed date no.:2222
+2015-04-18 20:15:35  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-18 20:15:35  [ main:111 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-18 20:15:35  [ main:112 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2015-01-31 order by stock_date asc' at line 1
+2015-04-18 20:16:27  [ main:0 ] - [ INFO ]  DB Connection created

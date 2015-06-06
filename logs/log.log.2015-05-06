@@ -1,0 +1,354 @@
+2015-05-06 23:35:45  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-06 23:35:50  [ main:5050 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5051 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5062 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5063 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5073 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5073 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5084 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5085 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5094 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5094 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5104 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5104 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5113 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5114 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5127 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5130 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5139 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5139 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5147 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5148 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5156 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5156 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5165 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5165 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5174 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5175 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5189 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5189 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5200 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5201 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5213 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5213 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5224 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5224 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5237 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5237 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5247 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5247 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5256 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5256 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5266 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5266 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5275 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5275 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5284 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5284 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5293 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5294 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5303 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5303 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5314 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5314 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5326 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5326 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5337 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5337 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5344 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5345 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5355 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5355 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5364 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5364 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5372 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5372 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5383 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5383 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5392 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5393 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5402 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5402 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5410 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5410 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5419 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5419 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5429 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5429 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5439 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5439 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5448 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5448 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5457 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5457 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5466 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5466 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5475 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5476 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5485 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5485 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5495 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5495 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5504 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5504 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5512 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5513 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5521 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5522 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5531 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5532 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5541 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5542 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5550 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5550 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5560 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5560 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5569 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5569 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5578 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5578 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5590 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5590 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5600 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5600 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5609 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5609 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5618 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5618 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5627 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5627 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5637 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5637 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5645 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5646 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5654 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5654 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5662 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5662 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5671 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5671 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5680 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5680 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5689 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5690 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5699 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5699 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5707 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5707 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5716 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5716 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5725 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5725 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5736 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5736 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5747 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5747 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5755 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5756 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5765 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5765 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5774 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5774 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5784 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5784 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5794 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5794 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5802 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5802 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5811 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5811 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:50  [ main:5819 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:50  [ main:5819 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5828 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5828 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5838 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5838 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5849 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5849 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5858 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5858 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5867 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5867 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5876 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5876 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5885 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5885 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5894 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5894 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5902 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5902 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5910 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5910 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5918 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5918 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5928 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5928 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5939 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5939 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5948 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5949 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5958 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5958 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5969 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5970 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5978 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5978 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5987 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5987 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:5999 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:5999 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6008 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6008 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6016 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6017 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6026 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6026 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6034 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6035 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6050 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6050 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6060 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6060 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6068 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6069 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6077 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6077 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6085 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6086 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6094 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6094 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6102 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6102 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6111 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6111 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6119 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6120 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6128 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6128 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6137 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6137 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6147 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6148 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6156 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6156 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6165 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6165 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6175 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6175 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6184 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6184 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6192 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6192 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6203 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6204 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6212 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6212 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6221 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6221 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6229 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6229 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6238 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6238 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6248 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6248 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6258 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6258 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6266 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6266 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6276 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6277 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6285 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6286 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6294 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6294 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6306 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6306 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6314 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6314 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6323 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6323 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6331 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6331 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6339 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6340 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6348 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6348 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6357 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6357 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6365 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6365 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6374 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6374 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6382 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6383 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6391 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6392 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6400 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6400 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6409 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6409 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6418 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6418 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6426 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6426 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6435 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6435 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6443 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6444 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6452 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6452 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6463 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6463 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6484 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6484 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6493 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6493 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6501 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6502 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6512 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6512 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6521 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6521 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6529 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6529 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6537 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6537 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6546 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6546 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6554 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6555 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6566 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6566 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6575 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6575 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6583 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6583 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6592 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6592 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6601 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6601 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6610 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6610 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6619 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6620 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6628 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6628 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6637 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6637 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6645 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6646 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6655 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6655 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6664 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6664 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6674 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6674 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:35:51  [ main:6686 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-06 23:35:51  [ main:6686 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-05-06 23:38:26  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-06 23:41:13  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-06 23:41:53  [ main:39425 ] - [ INFO ]  Full Stock Low Estimated Cost Calculation - complete:overall; pending: 2660
+2015-05-06 23:42:34  [ main:81153 ] - [ INFO ]  Full Stock Low Estimated Cost Calculation - complete:sh600000; pending: 2659
+2015-05-06 23:45:31  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-06 23:46:10  [ main:39104 ] - [ INFO ]  Full Stock Low Estimated Cost Calculation - complete:overall; pending: 2660
+2015-05-06 23:46:53  [ main:82002 ] - [ INFO ]  Full Stock Low Estimated Cost Calculation - complete:sh600000; pending: 2659

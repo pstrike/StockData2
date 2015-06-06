@@ -1,0 +1,2 @@
+2015-05-31 00:44:04  [ main:3488 ] - [ ERROR ]  Full Fund ROI Calculation Exception
+2015-05-31 00:44:04  [ main:3489 ] - [ ERROR ]  java.lang.ArithmeticException: / by zero

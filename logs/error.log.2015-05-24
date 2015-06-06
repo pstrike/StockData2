@@ -1,0 +1,1182 @@
+2015-05-24 20:32:18  [ main:15902 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 20:32:18  [ main:15903 ] - [ ERROR ]  java.sql.SQLException: Field 'fund_finalize' doesn't have a default value
+2015-05-24 20:32:19  [ main:17315 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 20:32:19  [ main:17316 ] - [ ERROR ]  java.sql.SQLException: Field 'fund_finalize' doesn't have a default value
+2015-05-24 20:32:20  [ main:17904 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 20:32:20  [ main:17905 ] - [ ERROR ]  java.sql.SQLException: Field 'fund_finalize' doesn't have a default value
+2015-05-24 20:32:20  [ main:18500 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 20:32:20  [ main:18500 ] - [ ERROR ]  java.sql.SQLException: Field 'fund_finalize' doesn't have a default value
+2015-05-24 20:40:24  [ main:474 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:474 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160220'' at line 1
+2015-05-24 20:40:24  [ main:494 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:494 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160717'' at line 1
+2015-05-24 20:40:24  [ main:510 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:511 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161610'' at line 1
+2015-05-24 20:40:24  [ main:530 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:530 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160706'' at line 1
+2015-05-24 20:40:24  [ main:548 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:549 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '162703'' at line 1
+2015-05-24 20:40:24  [ main:566 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:566 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160505'' at line 1
+2015-05-24 20:40:24  [ main:583 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:583 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160610'' at line 1
+2015-05-24 20:40:24  [ main:600 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:601 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160916'' at line 1
+2015-05-24 20:40:24  [ main:617 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:617 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160716'' at line 1
+2015-05-24 20:40:24  [ main:635 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:636 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161706'' at line 1
+2015-05-24 20:40:24  [ main:654 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:654 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160607'' at line 1
+2015-05-24 20:40:24  [ main:678 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:678 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160512'' at line 1
+2015-05-24 20:40:24  [ main:710 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:711 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160311'' at line 1
+2015-05-24 20:40:24  [ main:727 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:727 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160119'' at line 1
+2015-05-24 20:40:24  [ main:745 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:745 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160216'' at line 1
+2015-05-24 20:40:24  [ main:767 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:768 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163503'' at line 1
+2015-05-24 20:40:24  [ main:782 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:783 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '162605'' at line 1
+2015-05-24 20:40:24  [ main:800 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:801 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160314'' at line 1
+2015-05-24 20:40:24  [ main:816 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:816 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163801'' at line 1
+2015-05-24 20:40:24  [ main:838 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:24  [ main:838 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163402'' at line 1
+2015-05-24 20:40:25  [ main:858 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:859 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '162607'' at line 1
+2015-05-24 20:40:25  [ main:875 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:875 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '166011'' at line 1
+2015-05-24 20:40:25  [ main:890 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:890 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '164815'' at line 1
+2015-05-24 20:40:25  [ main:907 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:908 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '166009'' at line 1
+2015-05-24 20:40:25  [ main:922 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:923 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161005'' at line 1
+2015-05-24 20:40:25  [ main:942 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:943 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '165313'' at line 1
+2015-05-24 20:40:25  [ main:962 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:962 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160611'' at line 1
+2015-05-24 20:40:25  [ main:977 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:978 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160106'' at line 1
+2015-05-24 20:40:25  [ main:993 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:994 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161607'' at line 1
+2015-05-24 20:40:25  [ main:1010 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1010 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160910'' at line 1
+2015-05-24 20:40:25  [ main:1026 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1026 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '166001'' at line 1
+2015-05-24 20:40:25  [ main:1042 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1042 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163412'' at line 1
+2015-05-24 20:40:25  [ main:1060 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1061 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160211'' at line 1
+2015-05-24 20:40:25  [ main:1077 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1077 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '166006'' at line 1
+2015-05-24 20:40:25  [ main:1094 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1095 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163302'' at line 1
+2015-05-24 20:40:25  [ main:1112 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1112 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161217'' at line 1
+2015-05-24 20:40:25  [ main:1127 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1127 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '162207'' at line 1
+2015-05-24 20:40:25  [ main:1146 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1146 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '165508'' at line 1
+2015-05-24 20:40:25  [ main:1166 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1167 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160805'' at line 1
+2015-05-24 20:40:25  [ main:1182 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1182 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '162711'' at line 1
+2015-05-24 20:40:25  [ main:1200 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1200 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161810'' at line 1
+2015-05-24 20:40:25  [ main:1215 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1215 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '162307'' at line 1
+2015-05-24 20:40:25  [ main:1230 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1230 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160616'' at line 1
+2015-05-24 20:40:25  [ main:1247 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1247 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160105'' at line 1
+2015-05-24 20:40:25  [ main:1266 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1266 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163409'' at line 1
+2015-05-24 20:40:25  [ main:1280 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1281 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161903'' at line 1
+2015-05-24 20:40:25  [ main:1298 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1299 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160212'' at line 1
+2015-05-24 20:40:25  [ main:1313 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1314 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '165516'' at line 1
+2015-05-24 20:40:25  [ main:1333 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1333 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '162006'' at line 1
+2015-05-24 20:40:25  [ main:1350 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1350 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163407'' at line 1
+2015-05-24 20:40:25  [ main:1368 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1368 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163415'' at line 1
+2015-05-24 20:40:25  [ main:1383 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1383 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160615'' at line 1
+2015-05-24 20:40:25  [ main:1404 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1405 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '162510'' at line 1
+2015-05-24 20:40:25  [ main:1425 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1425 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160613'' at line 1
+2015-05-24 20:40:25  [ main:1441 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1441 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160215'' at line 1
+2015-05-24 20:40:25  [ main:1461 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1461 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161017'' at line 1
+2015-05-24 20:40:25  [ main:1483 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1483 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '165309'' at line 1
+2015-05-24 20:40:25  [ main:1498 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1498 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161219'' at line 1
+2015-05-24 20:40:25  [ main:1518 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1518 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161907'' at line 1
+2015-05-24 20:40:25  [ main:1534 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1535 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '167901'' at line 1
+2015-05-24 20:40:25  [ main:1554 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1555 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '165512'' at line 1
+2015-05-24 20:40:25  [ main:1570 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1570 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160415'' at line 1
+2015-05-24 20:40:25  [ main:1586 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1586 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163110'' at line 1
+2015-05-24 20:40:25  [ main:1601 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1601 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '160807'' at line 1
+2015-05-24 20:40:25  [ main:1618 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1618 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '166007'' at line 1
+2015-05-24 20:40:25  [ main:1633 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1633 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161213'' at line 1
+2015-05-24 20:40:25  [ main:1649 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1650 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163821'' at line 1
+2015-05-24 20:40:25  [ main:1666 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1666 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '165806'' at line 1
+2015-05-24 20:40:25  [ main:1688 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1689 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '167701'' at line 1
+2015-05-24 20:40:25  [ main:1708 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1709 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '166802'' at line 1
+2015-05-24 20:40:25  [ main:1727 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1727 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '166005'' at line 1
+2015-05-24 20:40:25  [ main:1742 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1743 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '166002'' at line 1
+2015-05-24 20:40:25  [ main:1759 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1759 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '165707'' at line 1
+2015-05-24 20:40:25  [ main:1778 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1778 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '165520'' at line 1
+2015-05-24 20:40:25  [ main:1798 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1799 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '165519'' at line 1
+2015-05-24 20:40:25  [ main:1814 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1815 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '165515'' at line 1
+2015-05-24 20:40:25  [ main:1831 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:25  [ main:1831 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '165511'' at line 1
+2015-05-24 20:40:26  [ main:1847 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:1848 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '165312'' at line 1
+2015-05-24 20:40:26  [ main:1868 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:1868 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '165310'' at line 1
+2015-05-24 20:40:26  [ main:1883 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:1884 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '164811'' at line 1
+2015-05-24 20:40:26  [ main:1898 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:1899 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '164809'' at line 1
+2015-05-24 20:40:26  [ main:1917 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:1917 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163810'' at line 1
+2015-05-24 20:40:26  [ main:1932 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:1932 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163809'' at line 1
+2015-05-24 20:40:26  [ main:1947 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:1947 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163808'' at line 1
+2015-05-24 20:40:26  [ main:1964 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:1964 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163807'' at line 1
+2015-05-24 20:40:26  [ main:1979 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:1979 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163805'' at line 1
+2015-05-24 20:40:26  [ main:1994 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:1995 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163804'' at line 1
+2015-05-24 20:40:26  [ main:2010 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2010 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163803'' at line 1
+2015-05-24 20:40:26  [ main:2027 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2027 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163406'' at line 1
+2015-05-24 20:40:26  [ main:2043 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2043 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163209'' at line 1
+2015-05-24 20:40:26  [ main:2061 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2062 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163111'' at line 1
+2015-05-24 20:40:26  [ main:2077 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2077 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '163109'' at line 1
+2015-05-24 20:40:26  [ main:2095 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2096 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '162907'' at line 1
+2015-05-24 20:40:26  [ main:2110 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2111 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '162714'' at line 1
+2015-05-24 20:40:26  [ main:2126 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2126 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '162509'' at line 1
+2015-05-24 20:40:26  [ main:2143 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2143 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '162216'' at line 1
+2015-05-24 20:40:26  [ main:2158 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2158 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '162107'' at line 1
+2015-05-24 20:40:26  [ main:2175 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2175 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '162010'' at line 1
+2015-05-24 20:40:26  [ main:2191 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2192 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161910'' at line 1
+2015-05-24 20:40:26  [ main:2206 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2207 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161826'' at line 1
+2015-05-24 20:40:26  [ main:2224 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2224 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161819'' at line 1
+2015-05-24 20:40:26  [ main:2239 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2240 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161818'' at line 1
+2015-05-24 20:40:26  [ main:2256 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2256 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161816'' at line 1
+2015-05-24 20:40:26  [ main:2273 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:40:26  [ main:2273 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = '161812'' at line 1
+2015-05-24 20:41:31  [ main:613 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:31  [ main:613 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1281' at line 1
+2015-05-24 20:41:31  [ main:629 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:31  [ main:629 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1282' at line 1
+2015-05-24 20:41:31  [ main:645 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:31  [ main:646 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1283' at line 1
+2015-05-24 20:41:31  [ main:673 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:31  [ main:673 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1284' at line 1
+2015-05-24 20:41:31  [ main:690 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:31  [ main:690 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1285' at line 1
+2015-05-24 20:41:32  [ main:709 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:709 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1286' at line 1
+2015-05-24 20:41:32  [ main:724 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:724 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1287' at line 1
+2015-05-24 20:41:32  [ main:739 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:740 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1288' at line 1
+2015-05-24 20:41:32  [ main:755 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:755 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1289' at line 1
+2015-05-24 20:41:32  [ main:771 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:771 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1290' at line 1
+2015-05-24 20:41:32  [ main:795 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:796 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1291' at line 1
+2015-05-24 20:41:32  [ main:812 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:812 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1292' at line 1
+2015-05-24 20:41:32  [ main:827 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:828 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1293' at line 1
+2015-05-24 20:41:32  [ main:843 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:843 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1294' at line 1
+2015-05-24 20:41:32  [ main:869 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:869 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1295' at line 1
+2015-05-24 20:41:32  [ main:889 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:890 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1296' at line 1
+2015-05-24 20:41:32  [ main:905 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:905 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1297' at line 1
+2015-05-24 20:41:32  [ main:921 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:921 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1298' at line 1
+2015-05-24 20:41:32  [ main:936 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:937 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1299' at line 1
+2015-05-24 20:41:32  [ main:957 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:957 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1300' at line 1
+2015-05-24 20:41:32  [ main:973 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:973 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1301' at line 1
+2015-05-24 20:41:32  [ main:990 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:990 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1302' at line 1
+2015-05-24 20:41:32  [ main:1006 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1007 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1303' at line 1
+2015-05-24 20:41:32  [ main:1023 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1024 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1304' at line 1
+2015-05-24 20:41:32  [ main:1040 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1041 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1305' at line 1
+2015-05-24 20:41:32  [ main:1063 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1063 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1306' at line 1
+2015-05-24 20:41:32  [ main:1079 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1080 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1307' at line 1
+2015-05-24 20:41:32  [ main:1101 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1101 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1308' at line 1
+2015-05-24 20:41:32  [ main:1115 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1115 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1309' at line 1
+2015-05-24 20:41:32  [ main:1130 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1130 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1310' at line 1
+2015-05-24 20:41:32  [ main:1152 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1152 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1311' at line 1
+2015-05-24 20:41:32  [ main:1171 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1171 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1312' at line 1
+2015-05-24 20:41:32  [ main:1189 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1189 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1313' at line 1
+2015-05-24 20:41:32  [ main:1203 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1204 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1314' at line 1
+2015-05-24 20:41:32  [ main:1221 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1222 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1315' at line 1
+2015-05-24 20:41:32  [ main:1237 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1237 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1316' at line 1
+2015-05-24 20:41:32  [ main:1252 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1253 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1317' at line 1
+2015-05-24 20:41:32  [ main:1267 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1268 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1318' at line 1
+2015-05-24 20:41:32  [ main:1283 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1283 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1319' at line 1
+2015-05-24 20:41:32  [ main:1300 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1300 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1320' at line 1
+2015-05-24 20:41:32  [ main:1318 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1319 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1321' at line 1
+2015-05-24 20:41:32  [ main:1333 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1334 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1322' at line 1
+2015-05-24 20:41:32  [ main:1349 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1349 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1323' at line 1
+2015-05-24 20:41:32  [ main:1364 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1364 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1324' at line 1
+2015-05-24 20:41:32  [ main:1383 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1384 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1325' at line 1
+2015-05-24 20:41:32  [ main:1405 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1405 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1326' at line 1
+2015-05-24 20:41:32  [ main:1421 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1421 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1327' at line 1
+2015-05-24 20:41:32  [ main:1438 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1438 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1328' at line 1
+2015-05-24 20:41:32  [ main:1454 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1454 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1329' at line 1
+2015-05-24 20:41:32  [ main:1470 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1470 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1330' at line 1
+2015-05-24 20:41:32  [ main:1486 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1487 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1331' at line 1
+2015-05-24 20:41:32  [ main:1507 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1507 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1332' at line 1
+2015-05-24 20:41:32  [ main:1522 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1523 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1333' at line 1
+2015-05-24 20:41:32  [ main:1538 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1538 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1334' at line 1
+2015-05-24 20:41:32  [ main:1553 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1553 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1335' at line 1
+2015-05-24 20:41:32  [ main:1567 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1568 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1336' at line 1
+2015-05-24 20:41:32  [ main:1584 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1585 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1337' at line 1
+2015-05-24 20:41:32  [ main:1602 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1602 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1338' at line 1
+2015-05-24 20:41:32  [ main:1617 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1617 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1339' at line 1
+2015-05-24 20:41:32  [ main:1633 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1633 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1340' at line 1
+2015-05-24 20:41:32  [ main:1648 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1648 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1341' at line 1
+2015-05-24 20:41:32  [ main:1663 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1664 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1342' at line 1
+2015-05-24 20:41:32  [ main:1678 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:32  [ main:1679 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1343' at line 1
+2015-05-24 20:41:33  [ main:1697 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1698 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1344' at line 1
+2015-05-24 20:41:33  [ main:1714 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1714 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1345' at line 1
+2015-05-24 20:41:33  [ main:1729 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1729 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1346' at line 1
+2015-05-24 20:41:33  [ main:1744 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1744 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1347' at line 1
+2015-05-24 20:41:33  [ main:1759 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1759 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1348' at line 1
+2015-05-24 20:41:33  [ main:1774 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1774 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1349' at line 1
+2015-05-24 20:41:33  [ main:1795 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1796 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1350' at line 1
+2015-05-24 20:41:33  [ main:1813 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1813 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1351' at line 1
+2015-05-24 20:41:33  [ main:1827 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1828 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1352' at line 1
+2015-05-24 20:41:33  [ main:1844 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1844 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1353' at line 1
+2015-05-24 20:41:33  [ main:1859 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1859 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1354' at line 1
+2015-05-24 20:41:33  [ main:1874 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1875 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1355' at line 1
+2015-05-24 20:41:33  [ main:1896 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1896 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1356' at line 1
+2015-05-24 20:41:33  [ main:1913 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1913 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1357' at line 1
+2015-05-24 20:41:33  [ main:1928 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1928 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1358' at line 1
+2015-05-24 20:41:33  [ main:1944 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1944 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1359' at line 1
+2015-05-24 20:41:33  [ main:1959 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1959 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1360' at line 1
+2015-05-24 20:41:33  [ main:1975 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1975 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1361' at line 1
+2015-05-24 20:41:33  [ main:1990 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:1991 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1362' at line 1
+2015-05-24 20:41:33  [ main:2005 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2005 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1363' at line 1
+2015-05-24 20:41:33  [ main:2021 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2022 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1364' at line 1
+2015-05-24 20:41:33  [ main:2036 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2036 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1365' at line 1
+2015-05-24 20:41:33  [ main:2051 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2051 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1366' at line 1
+2015-05-24 20:41:33  [ main:2066 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2067 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1367' at line 1
+2015-05-24 20:41:33  [ main:2083 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2083 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1368' at line 1
+2015-05-24 20:41:33  [ main:2100 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2100 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1369' at line 1
+2015-05-24 20:41:33  [ main:2118 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2118 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1370' at line 1
+2015-05-24 20:41:33  [ main:2134 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2134 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1371' at line 1
+2015-05-24 20:41:33  [ main:2149 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2149 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1372' at line 1
+2015-05-24 20:41:33  [ main:2165 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2165 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1373' at line 1
+2015-05-24 20:41:33  [ main:2181 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2182 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1374' at line 1
+2015-05-24 20:41:33  [ main:2197 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2197 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1375' at line 1
+2015-05-24 20:41:33  [ main:2216 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2217 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1376' at line 1
+2015-05-24 20:41:33  [ main:2232 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2232 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1377' at line 1
+2015-05-24 20:41:33  [ main:2249 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2250 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1378' at line 1
+2015-05-24 20:41:33  [ main:2265 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2265 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1379' at line 1
+2015-05-24 20:41:33  [ main:2279 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2280 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1380' at line 1
+2015-05-24 20:41:33  [ main:2296 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2296 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1381' at line 1
+2015-05-24 20:41:33  [ main:2312 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2313 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1382' at line 1
+2015-05-24 20:41:33  [ main:2334 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2334 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1383' at line 1
+2015-05-24 20:41:33  [ main:2352 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2353 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1384' at line 1
+2015-05-24 20:41:33  [ main:2368 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2368 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1385' at line 1
+2015-05-24 20:41:33  [ main:2383 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2384 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1386' at line 1
+2015-05-24 20:41:33  [ main:2400 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-24 20:41:33  [ main:2400 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=1 where id = 1387' at line 1
+2015-05-24 22:09:03  [ main:39545 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:09:03  [ main:39546 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:09:03  [ main:39548 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:09:03  [ main:39548 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:09:03  [ main:39549 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:09:03  [ main:39549 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:09:03  [ main:39550 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:09:03  [ main:39550 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:09:03  [ main:39551 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:09:03  [ main:39551 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:09:03  [ main:39553 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:09:03  [ main:39553 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:09:03  [ main:39769 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:09:03  [ main:39769 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160220', '国泰民益', '2015-05-24 22:08:23', 0.0, 1.223, 1.2234, 0' at line 1
+2015-05-24 22:11:38  [ main:31336 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:11:38  [ main:31336 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:38  [ main:31338 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:11:38  [ main:31338 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:38  [ main:31339 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:11:38  [ main:31340 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:38  [ main:31341 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:11:38  [ main:31341 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:38  [ main:31342 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:11:38  [ main:31342 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:38  [ main:31343 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:11:38  [ main:31343 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:38  [ main:31381 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:38  [ main:31382 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160220', '国泰民益', '2015-05-24 22:11:07', 0.0, 1.223, 1.2234, 0' at line 1
+2015-05-24 22:11:39  [ main:32404 ] - [ ERROR ]  Get Fund From Sina Exception: 160717
+2015-05-24 22:11:39  [ main:32405 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:39  [ main:32406 ] - [ ERROR ]  Get Fund From Sina Exception: 160717
+2015-05-24 22:11:39  [ main:32406 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:39  [ main:32407 ] - [ ERROR ]  Get Fund From Sina Exception: 160717
+2015-05-24 22:11:39  [ main:32408 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:39  [ main:32409 ] - [ ERROR ]  Get Fund From Sina Exception: 160717
+2015-05-24 22:11:39  [ main:32409 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:39  [ main:32410 ] - [ ERROR ]  Get Fund From Sina Exception: 160717
+2015-05-24 22:11:39  [ main:32410 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:39  [ main:32411 ] - [ ERROR ]  Get Fund From Sina Exception: 160717
+2015-05-24 22:11:39  [ main:32411 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:39  [ main:32429 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:39  [ main:32429 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160717', '恒生H股', '2015-05-24 22:11:07', 0.0, 0.0, 0.0, 0.0, 0.0' at line 1
+2015-05-24 22:11:39  [ main:32554 ] - [ ERROR ]  Get Fund From Sina Exception: 161610
+2015-05-24 22:11:39  [ main:32554 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:39  [ main:32556 ] - [ ERROR ]  Get Fund From Sina Exception: 161610
+2015-05-24 22:11:39  [ main:32556 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:39  [ main:32557 ] - [ ERROR ]  Get Fund From Sina Exception: 161610
+2015-05-24 22:11:39  [ main:32557 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:39  [ main:32558 ] - [ ERROR ]  Get Fund From Sina Exception: 161610
+2015-05-24 22:11:39  [ main:32559 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:39  [ main:32560 ] - [ ERROR ]  Get Fund From Sina Exception: 161610
+2015-05-24 22:11:39  [ main:32560 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:39  [ main:32561 ] - [ ERROR ]  Get Fund From Sina Exception: 161610
+2015-05-24 22:11:39  [ main:32561 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:39  [ main:32580 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:39  [ main:32581 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('161610', '融通领先', '2015-05-24 22:11:07', 0.0, 1.941, 1.9549, 0' at line 1
+2015-05-24 22:11:40  [ main:32778 ] - [ ERROR ]  Get Fund From Sina Exception: 160706
+2015-05-24 22:11:40  [ main:32778 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:32780 ] - [ ERROR ]  Get Fund From Sina Exception: 160706
+2015-05-24 22:11:40  [ main:32780 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:32782 ] - [ ERROR ]  Get Fund From Sina Exception: 160706
+2015-05-24 22:11:40  [ main:32782 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:32784 ] - [ ERROR ]  Get Fund From Sina Exception: 160706
+2015-05-24 22:11:40  [ main:32784 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:32785 ] - [ ERROR ]  Get Fund From Sina Exception: 160706
+2015-05-24 22:11:40  [ main:32785 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:32787 ] - [ ERROR ]  Get Fund From Sina Exception: 160706
+2015-05-24 22:11:40  [ main:32787 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:32802 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:40  [ main:32802 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160706', '嘉实 300', '2015-05-24 22:11:07', 0.0, 1.3282, 1.3283, 0.' at line 1
+2015-05-24 22:11:40  [ main:32934 ] - [ ERROR ]  Get Fund From Sina Exception: 162703
+2015-05-24 22:11:40  [ main:32934 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:32935 ] - [ ERROR ]  Get Fund From Sina Exception: 162703
+2015-05-24 22:11:40  [ main:32935 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:32936 ] - [ ERROR ]  Get Fund From Sina Exception: 162703
+2015-05-24 22:11:40  [ main:32937 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:32938 ] - [ ERROR ]  Get Fund From Sina Exception: 162703
+2015-05-24 22:11:40  [ main:32938 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:32939 ] - [ ERROR ]  Get Fund From Sina Exception: 162703
+2015-05-24 22:11:40  [ main:32939 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:32940 ] - [ ERROR ]  Get Fund From Sina Exception: 162703
+2015-05-24 22:11:40  [ main:32941 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:32956 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:40  [ main:32956 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('162703', '广发小盘', '2015-05-24 22:11:07', 0.0, 3.9548, 3.9779, ' at line 1
+2015-05-24 22:11:40  [ main:33102 ] - [ ERROR ]  Get Fund From Sina Exception: 160505
+2015-05-24 22:11:40  [ main:33102 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33104 ] - [ ERROR ]  Get Fund From Sina Exception: 160505
+2015-05-24 22:11:40  [ main:33104 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33105 ] - [ ERROR ]  Get Fund From Sina Exception: 160505
+2015-05-24 22:11:40  [ main:33106 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33107 ] - [ ERROR ]  Get Fund From Sina Exception: 160505
+2015-05-24 22:11:40  [ main:33108 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33109 ] - [ ERROR ]  Get Fund From Sina Exception: 160505
+2015-05-24 22:11:40  [ main:33109 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33110 ] - [ ERROR ]  Get Fund From Sina Exception: 160505
+2015-05-24 22:11:40  [ main:33110 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33135 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:40  [ main:33135 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160505', '博时主题', '2015-05-24 22:11:07', 0.0, 3.599, 3.6267, 0' at line 1
+2015-05-24 22:11:40  [ main:33266 ] - [ ERROR ]  Get Fund From Sina Exception: 160610
+2015-05-24 22:11:40  [ main:33266 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33270 ] - [ ERROR ]  Get Fund From Sina Exception: 160610
+2015-05-24 22:11:40  [ main:33270 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33273 ] - [ ERROR ]  Get Fund From Sina Exception: 160610
+2015-05-24 22:11:40  [ main:33274 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33275 ] - [ ERROR ]  Get Fund From Sina Exception: 160610
+2015-05-24 22:11:40  [ main:33275 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33276 ] - [ ERROR ]  Get Fund From Sina Exception: 160610
+2015-05-24 22:11:40  [ main:33276 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33278 ] - [ ERROR ]  Get Fund From Sina Exception: 160610
+2015-05-24 22:11:40  [ main:33278 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33294 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:40  [ main:33294 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160610', '鹏华动力', '2015-05-24 22:11:07', 0.0, 2.182, 2.1831, 0' at line 1
+2015-05-24 22:11:40  [ main:33534 ] - [ ERROR ]  Get Fund From Sina Exception: 160916
+2015-05-24 22:11:40  [ main:33535 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33536 ] - [ ERROR ]  Get Fund From Sina Exception: 160916
+2015-05-24 22:11:40  [ main:33536 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33537 ] - [ ERROR ]  Get Fund From Sina Exception: 160916
+2015-05-24 22:11:40  [ main:33537 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33538 ] - [ ERROR ]  Get Fund From Sina Exception: 160916
+2015-05-24 22:11:40  [ main:33538 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33539 ] - [ ERROR ]  Get Fund From Sina Exception: 160916
+2015-05-24 22:11:40  [ main:33540 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33540 ] - [ ERROR ]  Get Fund From Sina Exception: 160916
+2015-05-24 22:11:40  [ main:33541 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33557 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:40  [ main:33557 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160916', '优选LOF', '2015-05-24 22:11:07', 0.0, 2.713, 2.7185, 0.0,' at line 1
+2015-05-24 22:11:40  [ main:33677 ] - [ ERROR ]  Get Fund From Sina Exception: 160716
+2015-05-24 22:11:40  [ main:33677 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33678 ] - [ ERROR ]  Get Fund From Sina Exception: 160716
+2015-05-24 22:11:40  [ main:33678 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33679 ] - [ ERROR ]  Get Fund From Sina Exception: 160716
+2015-05-24 22:11:40  [ main:33679 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33680 ] - [ ERROR ]  Get Fund From Sina Exception: 160716
+2015-05-24 22:11:40  [ main:33680 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33681 ] - [ ERROR ]  Get Fund From Sina Exception: 160716
+2015-05-24 22:11:40  [ main:33681 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33682 ] - [ ERROR ]  Get Fund From Sina Exception: 160716
+2015-05-24 22:11:40  [ main:33682 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:40  [ main:33697 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:40  [ main:33697 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160716', '嘉实50', '2015-05-24 22:11:07', 0.0, 1.4333, 1.4321, 0.0,' at line 1
+2015-05-24 22:11:41  [ main:33805 ] - [ ERROR ]  Get Fund From Sina Exception: 161706
+2015-05-24 22:11:41  [ main:33806 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:33806 ] - [ ERROR ]  Get Fund From Sina Exception: 161706
+2015-05-24 22:11:41  [ main:33806 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:33807 ] - [ ERROR ]  Get Fund From Sina Exception: 161706
+2015-05-24 22:11:41  [ main:33807 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:33808 ] - [ ERROR ]  Get Fund From Sina Exception: 161706
+2015-05-24 22:11:41  [ main:33809 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:33810 ] - [ ERROR ]  Get Fund From Sina Exception: 161706
+2015-05-24 22:11:41  [ main:33810 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:33812 ] - [ ERROR ]  Get Fund From Sina Exception: 161706
+2015-05-24 22:11:41  [ main:33812 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:33827 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:41  [ main:33828 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('161706', '招商成长', '2015-05-24 22:11:07', 0.0, 2.5316, 2.5555, ' at line 1
+2015-05-24 22:11:41  [ main:33936 ] - [ ERROR ]  Get Fund From Sina Exception: 160607
+2015-05-24 22:11:41  [ main:33936 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:33938 ] - [ ERROR ]  Get Fund From Sina Exception: 160607
+2015-05-24 22:11:41  [ main:33938 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:33939 ] - [ ERROR ]  Get Fund From Sina Exception: 160607
+2015-05-24 22:11:41  [ main:33939 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:33940 ] - [ ERROR ]  Get Fund From Sina Exception: 160607
+2015-05-24 22:11:41  [ main:33940 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:33941 ] - [ ERROR ]  Get Fund From Sina Exception: 160607
+2015-05-24 22:11:41  [ main:33941 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:33943 ] - [ ERROR ]  Get Fund From Sina Exception: 160607
+2015-05-24 22:11:41  [ main:33943 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:33961 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:41  [ main:33962 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160607', '鹏华价值', '2015-05-24 22:11:07', 0.0, 1.389, 1.3967, 0' at line 1
+2015-05-24 22:11:41  [ main:34083 ] - [ ERROR ]  Get Fund From Sina Exception: 160512
+2015-05-24 22:11:41  [ main:34084 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34086 ] - [ ERROR ]  Get Fund From Sina Exception: 160512
+2015-05-24 22:11:41  [ main:34086 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34087 ] - [ ERROR ]  Get Fund From Sina Exception: 160512
+2015-05-24 22:11:41  [ main:34087 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34089 ] - [ ERROR ]  Get Fund From Sina Exception: 160512
+2015-05-24 22:11:41  [ main:34089 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34090 ] - [ ERROR ]  Get Fund From Sina Exception: 160512
+2015-05-24 22:11:41  [ main:34090 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34091 ] - [ ERROR ]  Get Fund From Sina Exception: 160512
+2015-05-24 22:11:41  [ main:34091 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34106 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:41  [ main:34107 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160512', '博时卓越', '2015-05-24 22:11:07', 0.0, 2.563, 2.5915, 0' at line 1
+2015-05-24 22:11:41  [ main:34203 ] - [ ERROR ]  Get Fund From Sina Exception: 160311
+2015-05-24 22:11:41  [ main:34203 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34204 ] - [ ERROR ]  Get Fund From Sina Exception: 160311
+2015-05-24 22:11:41  [ main:34204 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34205 ] - [ ERROR ]  Get Fund From Sina Exception: 160311
+2015-05-24 22:11:41  [ main:34205 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34206 ] - [ ERROR ]  Get Fund From Sina Exception: 160311
+2015-05-24 22:11:41  [ main:34206 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34207 ] - [ ERROR ]  Get Fund From Sina Exception: 160311
+2015-05-24 22:11:41  [ main:34207 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34208 ] - [ ERROR ]  Get Fund From Sina Exception: 160311
+2015-05-24 22:11:41  [ main:34209 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34226 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:41  [ main:34226 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160311', '华夏蓝筹', '2015-05-24 22:11:07', 0.0, 1.71, 1.7219, 0.' at line 1
+2015-05-24 22:11:41  [ main:34353 ] - [ ERROR ]  Get Fund From Sina Exception: 160119
+2015-05-24 22:11:41  [ main:34354 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34355 ] - [ ERROR ]  Get Fund From Sina Exception: 160119
+2015-05-24 22:11:41  [ main:34355 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34356 ] - [ ERROR ]  Get Fund From Sina Exception: 160119
+2015-05-24 22:11:41  [ main:34356 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34357 ] - [ ERROR ]  Get Fund From Sina Exception: 160119
+2015-05-24 22:11:41  [ main:34358 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34359 ] - [ ERROR ]  Get Fund From Sina Exception: 160119
+2015-05-24 22:11:41  [ main:34359 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34360 ] - [ ERROR ]  Get Fund From Sina Exception: 160119
+2015-05-24 22:11:41  [ main:34360 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:41  [ main:34386 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:41  [ main:34386 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160119', '南方500', '2015-05-24 22:11:07', 0.0, 2.2582, 2.2586, 0.0' at line 1
+2015-05-24 22:11:42  [ main:34712 ] - [ ERROR ]  Get Fund From Sina Exception: 160216
+2015-05-24 22:11:42  [ main:34713 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34714 ] - [ ERROR ]  Get Fund From Sina Exception: 160216
+2015-05-24 22:11:42  [ main:34714 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34715 ] - [ ERROR ]  Get Fund From Sina Exception: 160216
+2015-05-24 22:11:42  [ main:34715 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34716 ] - [ ERROR ]  Get Fund From Sina Exception: 160216
+2015-05-24 22:11:42  [ main:34716 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34717 ] - [ ERROR ]  Get Fund From Sina Exception: 160216
+2015-05-24 22:11:42  [ main:34717 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34718 ] - [ ERROR ]  Get Fund From Sina Exception: 160216
+2015-05-24 22:11:42  [ main:34718 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34733 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:42  [ main:34734 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160216', '国泰商品', '2015-05-24 22:11:07', 0.0, 0.0, 0.0, 0.0, 0' at line 1
+2015-05-24 22:11:42  [ main:34866 ] - [ ERROR ]  Get Fund From Sina Exception: 163503
+2015-05-24 22:11:42  [ main:34866 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34868 ] - [ ERROR ]  Get Fund From Sina Exception: 163503
+2015-05-24 22:11:42  [ main:34868 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34869 ] - [ ERROR ]  Get Fund From Sina Exception: 163503
+2015-05-24 22:11:42  [ main:34869 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34870 ] - [ ERROR ]  Get Fund From Sina Exception: 163503
+2015-05-24 22:11:42  [ main:34871 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34872 ] - [ ERROR ]  Get Fund From Sina Exception: 163503
+2015-05-24 22:11:42  [ main:34872 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34873 ] - [ ERROR ]  Get Fund From Sina Exception: 163503
+2015-05-24 22:11:42  [ main:34873 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34894 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:42  [ main:34894 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('163503', '天治核心', '2015-05-24 22:11:07', 0.0, 1.1023, 1.1137, ' at line 1
+2015-05-24 22:11:42  [ main:34957 ] - [ ERROR ]  Get Fund From Sina Exception: 162605
+2015-05-24 22:11:42  [ main:34957 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34959 ] - [ ERROR ]  Get Fund From Sina Exception: 162605
+2015-05-24 22:11:42  [ main:34959 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34960 ] - [ ERROR ]  Get Fund From Sina Exception: 162605
+2015-05-24 22:11:42  [ main:34961 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34962 ] - [ ERROR ]  Get Fund From Sina Exception: 162605
+2015-05-24 22:11:42  [ main:34962 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34963 ] - [ ERROR ]  Get Fund From Sina Exception: 162605
+2015-05-24 22:11:42  [ main:34963 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34964 ] - [ ERROR ]  Get Fund From Sina Exception: 162605
+2015-05-24 22:11:42  [ main:34965 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:34979 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:42  [ main:34979 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('162605', '景顺鼎益', '2015-05-24 22:11:07', 0.0, 2.161, 2.1716, 0' at line 1
+2015-05-24 22:11:42  [ main:35096 ] - [ ERROR ]  Get Fund From Sina Exception: 160314
+2015-05-24 22:11:42  [ main:35096 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35097 ] - [ ERROR ]  Get Fund From Sina Exception: 160314
+2015-05-24 22:11:42  [ main:35097 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35099 ] - [ ERROR ]  Get Fund From Sina Exception: 160314
+2015-05-24 22:11:42  [ main:35099 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35100 ] - [ ERROR ]  Get Fund From Sina Exception: 160314
+2015-05-24 22:11:42  [ main:35100 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35101 ] - [ ERROR ]  Get Fund From Sina Exception: 160314
+2015-05-24 22:11:42  [ main:35102 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35102 ] - [ ERROR ]  Get Fund From Sina Exception: 160314
+2015-05-24 22:11:42  [ main:35102 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35117 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:42  [ main:35117 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160314', '华夏行业', '2015-05-24 22:11:07', 0.0, 1.801, 1.8085, 0' at line 1
+2015-05-24 22:11:42  [ main:35177 ] - [ ERROR ]  Get Fund From Sina Exception: 163801
+2015-05-24 22:11:42  [ main:35177 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35178 ] - [ ERROR ]  Get Fund From Sina Exception: 163801
+2015-05-24 22:11:42  [ main:35179 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35180 ] - [ ERROR ]  Get Fund From Sina Exception: 163801
+2015-05-24 22:11:42  [ main:35180 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35181 ] - [ ERROR ]  Get Fund From Sina Exception: 163801
+2015-05-24 22:11:42  [ main:35181 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35182 ] - [ ERROR ]  Get Fund From Sina Exception: 163801
+2015-05-24 22:11:42  [ main:35183 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35184 ] - [ ERROR ]  Get Fund From Sina Exception: 163801
+2015-05-24 22:11:42  [ main:35184 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35202 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:42  [ main:35202 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('163801', '中银中国', '2015-05-24 22:11:07', 0.0, 2.3989, 2.411, 0' at line 1
+2015-05-24 22:11:42  [ main:35321 ] - [ ERROR ]  Get Fund From Sina Exception: 163402
+2015-05-24 22:11:42  [ main:35321 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35322 ] - [ ERROR ]  Get Fund From Sina Exception: 163402
+2015-05-24 22:11:42  [ main:35322 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35324 ] - [ ERROR ]  Get Fund From Sina Exception: 163402
+2015-05-24 22:11:42  [ main:35324 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35325 ] - [ ERROR ]  Get Fund From Sina Exception: 163402
+2015-05-24 22:11:42  [ main:35326 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35327 ] - [ ERROR ]  Get Fund From Sina Exception: 163402
+2015-05-24 22:11:42  [ main:35327 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35329 ] - [ ERROR ]  Get Fund From Sina Exception: 163402
+2015-05-24 22:11:42  [ main:35329 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35350 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:42  [ main:35350 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('163402', '兴全趋势', '2015-05-24 22:11:07', 0.0, 1.7034, 1.7215, ' at line 1
+2015-05-24 22:11:42  [ main:35475 ] - [ ERROR ]  Get Fund From Sina Exception: 162607
+2015-05-24 22:11:42  [ main:35475 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35477 ] - [ ERROR ]  Get Fund From Sina Exception: 162607
+2015-05-24 22:11:42  [ main:35477 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35478 ] - [ ERROR ]  Get Fund From Sina Exception: 162607
+2015-05-24 22:11:42  [ main:35479 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35480 ] - [ ERROR ]  Get Fund From Sina Exception: 162607
+2015-05-24 22:11:42  [ main:35480 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35481 ] - [ ERROR ]  Get Fund From Sina Exception: 162607
+2015-05-24 22:11:42  [ main:35481 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35482 ] - [ ERROR ]  Get Fund From Sina Exception: 162607
+2015-05-24 22:11:42  [ main:35482 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35497 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:42  [ main:35497 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('162607', '景顺资源', '2015-05-24 22:11:07', 0.0, 1.416, 1.4194, 0' at line 1
+2015-05-24 22:11:42  [ main:35644 ] - [ ERROR ]  Get Fund From Sina Exception: 166011
+2015-05-24 22:11:42  [ main:35644 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35645 ] - [ ERROR ]  Get Fund From Sina Exception: 166011
+2015-05-24 22:11:42  [ main:35645 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35647 ] - [ ERROR ]  Get Fund From Sina Exception: 166011
+2015-05-24 22:11:42  [ main:35647 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35648 ] - [ ERROR ]  Get Fund From Sina Exception: 166011
+2015-05-24 22:11:42  [ main:35649 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35650 ] - [ ERROR ]  Get Fund From Sina Exception: 166011
+2015-05-24 22:11:42  [ main:35650 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35651 ] - [ ERROR ]  Get Fund From Sina Exception: 166011
+2015-05-24 22:11:42  [ main:35651 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:11:42  [ main:35665 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:11:42  [ main:35666 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('166011', '中欧盛世', '2015-05-24 22:11:07', 0.0, 1.43, 1.4312, 0.' at line 1
+2015-05-24 22:13:44  [ main:18378 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:13:44  [ main:18379 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160220', '国泰民益', '2015-05-24 22:13:26', 1.251, 1.223, 1.2234,' at line 1
+2015-05-24 22:16:37  [ main:27335 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:16:37  [ main:27335 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160220', '国泰民益', '2015-05-24 22:16:09', 1.251, 1.223, 1.2234,' at line 1
+2015-05-24 22:16:38  [ main:28757 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:16:38  [ main:28758 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160717', '恒生H股', '2015-05-24 22:16:09', 0.916, 0.0, 0.0, 0.0250' at line 1
+2015-05-24 22:16:39  [ main:29368 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:16:39  [ main:29368 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('161610', '融通领先', '2015-05-24 22:16:09', 2.452, 1.941, 1.9549,' at line 1
+2015-05-24 22:16:40  [ main:30084 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:16:40  [ main:30085 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160706', '嘉实 300', '2015-05-24 22:16:09', 1.321, 1.3282, 1.3283, ' at line 1
+2015-05-24 22:16:41  [ main:31104 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:16:41  [ main:31104 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('162703', '广发小盘', '2015-05-24 22:16:09', 4.686, 3.9548, 3.9779' at line 1
+2015-05-24 22:16:41  [ main:31692 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:16:41  [ main:31693 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160505', '博时主题', '2015-05-24 22:16:09', 3.62, 3.599, 3.6267, ' at line 1
+2015-05-24 22:16:42  [ main:32436 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:16:42  [ main:32436 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160610', '鹏华动力', '2015-05-24 22:16:09', 2.523, 2.182, 2.1831,' at line 1
+2015-05-24 22:16:43  [ main:33562 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:16:43  [ main:33562 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160916', '优选LOF', '2015-05-24 22:16:09', 2.697, 2.713, 2.7185, 0.' at line 1
+2015-05-24 22:16:44  [ main:34176 ] - [ ERROR ]  Insert Fund Date into MySQL Exception
+2015-05-24 22:16:44  [ main:34177 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('160716', '嘉实50', '2015-05-24 22:16:09', 1.422, 1.4333, 1.4321, 0.' at line 1
+2015-05-24 22:31:25  [ main:30549 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-24 22:31:25  [ main:30549 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:25  [ main:30553 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-24 22:31:25  [ main:30553 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:25  [ main:30557 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-24 22:31:25  [ main:30557 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:25  [ main:30560 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-24 22:31:25  [ main:30560 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:25  [ main:30566 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-24 22:31:25  [ main:30566 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:25  [ main:30573 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-24 22:31:25  [ main:30573 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:26  [ main:31640 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-24 22:31:26  [ main:31642 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:26  [ main:31643 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-24 22:31:26  [ main:31643 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:26  [ main:31645 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-24 22:31:26  [ main:31645 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:26  [ main:31646 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-24 22:31:26  [ main:31646 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:26  [ main:31648 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-24 22:31:26  [ main:31648 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:26  [ main:31650 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-24 22:31:26  [ main:31650 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:26  [ main:32234 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161610
+2015-05-24 22:31:26  [ main:32234 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:26  [ main:32235 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161610
+2015-05-24 22:31:26  [ main:32236 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:26  [ main:32237 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161610
+2015-05-24 22:31:26  [ main:32238 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:26  [ main:32239 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161610
+2015-05-24 22:31:26  [ main:32240 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:26  [ main:32241 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161610
+2015-05-24 22:31:26  [ main:32241 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:26  [ main:32243 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161610
+2015-05-24 22:31:26  [ main:32243 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:27  [ main:32744 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160706
+2015-05-24 22:31:27  [ main:32744 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:27  [ main:32746 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160706
+2015-05-24 22:31:27  [ main:32746 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:27  [ main:32748 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160706
+2015-05-24 22:31:27  [ main:32748 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:27  [ main:32750 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160706
+2015-05-24 22:31:27  [ main:32750 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:27  [ main:32752 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160706
+2015-05-24 22:31:27  [ main:32752 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:27  [ main:32754 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160706
+2015-05-24 22:31:27  [ main:32754 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:27  [ main:33256 ] - [ ERROR ]  Get Fund From TTJJ Exception: 162703
+2015-05-24 22:31:27  [ main:33256 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:27  [ main:33257 ] - [ ERROR ]  Get Fund From TTJJ Exception: 162703
+2015-05-24 22:31:27  [ main:33258 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:27  [ main:33259 ] - [ ERROR ]  Get Fund From TTJJ Exception: 162703
+2015-05-24 22:31:27  [ main:33259 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:27  [ main:33260 ] - [ ERROR ]  Get Fund From TTJJ Exception: 162703
+2015-05-24 22:31:27  [ main:33260 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:27  [ main:33261 ] - [ ERROR ]  Get Fund From TTJJ Exception: 162703
+2015-05-24 22:31:27  [ main:33261 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:27  [ main:33262 ] - [ ERROR ]  Get Fund From TTJJ Exception: 162703
+2015-05-24 22:31:27  [ main:33263 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:28  [ main:33771 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160505
+2015-05-24 22:31:28  [ main:33771 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:28  [ main:33773 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160505
+2015-05-24 22:31:28  [ main:33773 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:28  [ main:33774 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160505
+2015-05-24 22:31:28  [ main:33774 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:28  [ main:33776 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160505
+2015-05-24 22:31:28  [ main:33776 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:28  [ main:33777 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160505
+2015-05-24 22:31:28  [ main:33777 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:28  [ main:33778 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160505
+2015-05-24 22:31:28  [ main:33778 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:28  [ main:34282 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160610
+2015-05-24 22:31:28  [ main:34282 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:28  [ main:34284 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160610
+2015-05-24 22:31:28  [ main:34284 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:28  [ main:34285 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160610
+2015-05-24 22:31:28  [ main:34285 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:28  [ main:34286 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160610
+2015-05-24 22:31:28  [ main:34287 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:28  [ main:34288 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160610
+2015-05-24 22:31:28  [ main:34288 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:28  [ main:34289 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160610
+2015-05-24 22:31:28  [ main:34289 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:29  [ main:34793 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160916
+2015-05-24 22:31:29  [ main:34793 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:29  [ main:34794 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160916
+2015-05-24 22:31:29  [ main:34795 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:29  [ main:34796 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160916
+2015-05-24 22:31:29  [ main:34796 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:29  [ main:34798 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160916
+2015-05-24 22:31:29  [ main:34798 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:29  [ main:34800 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160916
+2015-05-24 22:31:29  [ main:34800 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:29  [ main:34801 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160916
+2015-05-24 22:31:29  [ main:34801 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:29  [ main:35306 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160716
+2015-05-24 22:31:29  [ main:35306 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:29  [ main:35307 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160716
+2015-05-24 22:31:29  [ main:35308 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:30  [ main:35309 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160716
+2015-05-24 22:31:30  [ main:35309 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:30  [ main:35310 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160716
+2015-05-24 22:31:30  [ main:35311 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:30  [ main:35312 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160716
+2015-05-24 22:31:30  [ main:35312 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:30  [ main:35314 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160716
+2015-05-24 22:31:30  [ main:35314 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:30  [ main:35816 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161706
+2015-05-24 22:31:30  [ main:35816 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:30  [ main:35817 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161706
+2015-05-24 22:31:30  [ main:35817 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:30  [ main:35819 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161706
+2015-05-24 22:31:30  [ main:35819 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:30  [ main:35820 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161706
+2015-05-24 22:31:30  [ main:35820 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:30  [ main:35821 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161706
+2015-05-24 22:31:30  [ main:35822 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:30  [ main:35823 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161706
+2015-05-24 22:31:30  [ main:35823 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:31  [ main:36328 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160607
+2015-05-24 22:31:31  [ main:36328 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:31  [ main:36330 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160607
+2015-05-24 22:31:31  [ main:36330 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:31  [ main:36332 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160607
+2015-05-24 22:31:31  [ main:36332 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:31  [ main:36334 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160607
+2015-05-24 22:31:31  [ main:36334 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:31  [ main:36336 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160607
+2015-05-24 22:31:31  [ main:36336 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:31  [ main:36338 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160607
+2015-05-24 22:31:31  [ main:36338 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:31  [ main:36841 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160512
+2015-05-24 22:31:31  [ main:36841 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:31  [ main:36842 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160512
+2015-05-24 22:31:31  [ main:36842 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:31  [ main:36843 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160512
+2015-05-24 22:31:31  [ main:36844 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:31  [ main:36845 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160512
+2015-05-24 22:31:31  [ main:36845 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:31  [ main:36846 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160512
+2015-05-24 22:31:31  [ main:36846 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:31  [ main:36847 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160512
+2015-05-24 22:31:31  [ main:36847 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:32  [ main:37354 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160311
+2015-05-24 22:31:32  [ main:37354 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:32  [ main:37355 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160311
+2015-05-24 22:31:32  [ main:37355 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:32  [ main:37357 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160311
+2015-05-24 22:31:32  [ main:37357 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:32  [ main:37358 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160311
+2015-05-24 22:31:32  [ main:37358 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:32  [ main:37359 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160311
+2015-05-24 22:31:32  [ main:37359 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:31:32  [ main:37360 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160311
+2015-05-24 22:31:32  [ main:37360 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:16  [ main:30623 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-24 22:32:16  [ main:30623 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:16  [ main:30626 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-24 22:32:16  [ main:30627 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:16  [ main:30629 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-24 22:32:16  [ main:30630 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:16  [ main:30632 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-24 22:32:16  [ main:30633 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:16  [ main:30635 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-24 22:32:16  [ main:30636 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:16  [ main:30638 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-24 22:32:16  [ main:30638 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:21  [ main:35031 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-24 22:32:21  [ main:35033 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:21  [ main:35034 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-24 22:32:21  [ main:35034 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:21  [ main:35036 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-24 22:32:21  [ main:35036 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:21  [ main:35038 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-24 22:32:21  [ main:35038 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:21  [ main:35039 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-24 22:32:21  [ main:35040 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:21  [ main:35041 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-24 22:32:21  [ main:35041 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:21  [ main:35499 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161610
+2015-05-24 22:32:21  [ main:35499 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:21  [ main:35501 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161610
+2015-05-24 22:32:21  [ main:35501 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:21  [ main:35503 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161610
+2015-05-24 22:32:21  [ main:35503 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:21  [ main:35505 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161610
+2015-05-24 22:32:21  [ main:35505 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:21  [ main:35507 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161610
+2015-05-24 22:32:21  [ main:35508 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:21  [ main:35509 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161610
+2015-05-24 22:32:21  [ main:35509 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:22  [ main:35963 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160706
+2015-05-24 22:32:22  [ main:35963 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:22  [ main:35965 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160706
+2015-05-24 22:32:22  [ main:35966 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:22  [ main:35968 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160706
+2015-05-24 22:32:22  [ main:35968 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:22  [ main:35969 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160706
+2015-05-24 22:32:22  [ main:35969 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:22  [ main:35971 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160706
+2015-05-24 22:32:22  [ main:35971 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:22  [ main:35973 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160706
+2015-05-24 22:32:22  [ main:35973 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:22  [ main:36528 ] - [ ERROR ]  Get Fund From TTJJ Exception: 162703
+2015-05-24 22:32:22  [ main:36529 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:22  [ main:36530 ] - [ ERROR ]  Get Fund From TTJJ Exception: 162703
+2015-05-24 22:32:22  [ main:36530 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:22  [ main:36531 ] - [ ERROR ]  Get Fund From TTJJ Exception: 162703
+2015-05-24 22:32:22  [ main:36532 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:22  [ main:36533 ] - [ ERROR ]  Get Fund From TTJJ Exception: 162703
+2015-05-24 22:32:22  [ main:36533 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:22  [ main:36534 ] - [ ERROR ]  Get Fund From TTJJ Exception: 162703
+2015-05-24 22:32:22  [ main:36534 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:22  [ main:36536 ] - [ ERROR ]  Get Fund From TTJJ Exception: 162703
+2015-05-24 22:32:22  [ main:36536 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:23  [ main:37058 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160505
+2015-05-24 22:32:23  [ main:37058 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:23  [ main:37060 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160505
+2015-05-24 22:32:23  [ main:37060 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:23  [ main:37061 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160505
+2015-05-24 22:32:23  [ main:37061 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:23  [ main:37062 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160505
+2015-05-24 22:32:23  [ main:37063 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:23  [ main:37064 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160505
+2015-05-24 22:32:23  [ main:37064 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:23  [ main:37065 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160505
+2015-05-24 22:32:23  [ main:37065 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:23  [ main:37525 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160610
+2015-05-24 22:32:23  [ main:37525 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:23  [ main:37527 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160610
+2015-05-24 22:32:23  [ main:37527 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:23  [ main:37528 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160610
+2015-05-24 22:32:23  [ main:37528 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:23  [ main:37529 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160610
+2015-05-24 22:32:23  [ main:37530 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:23  [ main:37531 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160610
+2015-05-24 22:32:23  [ main:37531 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:23  [ main:37532 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160610
+2015-05-24 22:32:23  [ main:37532 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:24  [ main:38080 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160916
+2015-05-24 22:32:24  [ main:38080 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:24  [ main:38081 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160916
+2015-05-24 22:32:24  [ main:38081 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:24  [ main:38082 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160916
+2015-05-24 22:32:24  [ main:38082 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:24  [ main:38084 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160916
+2015-05-24 22:32:24  [ main:38084 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:24  [ main:38085 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160916
+2015-05-24 22:32:24  [ main:38085 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:24  [ main:38086 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160916
+2015-05-24 22:32:24  [ main:38086 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:24  [ main:38597 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160716
+2015-05-24 22:32:24  [ main:38598 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:24  [ main:38599 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160716
+2015-05-24 22:32:24  [ main:38599 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:24  [ main:38600 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160716
+2015-05-24 22:32:24  [ main:38600 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:24  [ main:38602 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160716
+2015-05-24 22:32:24  [ main:38602 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:24  [ main:38604 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160716
+2015-05-24 22:32:24  [ main:38604 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:24  [ main:38605 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160716
+2015-05-24 22:32:24  [ main:38605 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:25  [ main:39103 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161706
+2015-05-24 22:32:25  [ main:39103 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:25  [ main:39104 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161706
+2015-05-24 22:32:25  [ main:39105 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:25  [ main:39106 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161706
+2015-05-24 22:32:25  [ main:39107 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:25  [ main:39108 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161706
+2015-05-24 22:32:25  [ main:39108 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:25  [ main:39109 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161706
+2015-05-24 22:32:25  [ main:39109 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:25  [ main:39110 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161706
+2015-05-24 22:32:25  [ main:39110 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:25  [ main:39569 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160607
+2015-05-24 22:32:25  [ main:39569 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:25  [ main:39571 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160607
+2015-05-24 22:32:25  [ main:39571 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:25  [ main:39573 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160607
+2015-05-24 22:32:25  [ main:39573 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:25  [ main:39575 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160607
+2015-05-24 22:32:25  [ main:39575 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:25  [ main:39577 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160607
+2015-05-24 22:32:25  [ main:39577 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:25  [ main:39578 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160607
+2015-05-24 22:32:25  [ main:39578 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:26  [ main:40033 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160512
+2015-05-24 22:32:26  [ main:40033 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:26  [ main:40035 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160512
+2015-05-24 22:32:26  [ main:40035 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:26  [ main:40036 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160512
+2015-05-24 22:32:26  [ main:40036 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:26  [ main:40037 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160512
+2015-05-24 22:32:26  [ main:40038 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:26  [ main:40039 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160512
+2015-05-24 22:32:26  [ main:40039 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:26  [ main:40040 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160512
+2015-05-24 22:32:26  [ main:40040 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:26  [ main:40539 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160311
+2015-05-24 22:32:26  [ main:40539 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:26  [ main:40540 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160311
+2015-05-24 22:32:26  [ main:40541 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:26  [ main:40542 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160311
+2015-05-24 22:32:26  [ main:40542 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:26  [ main:40543 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160311
+2015-05-24 22:32:26  [ main:40543 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:26  [ main:40544 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160311
+2015-05-24 22:32:26  [ main:40544 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:32:26  [ main:40546 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160311
+2015-05-24 22:32:26  [ main:40546 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-24 22:34:45  [ main:32356 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:34:45  [ main:32356 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:45  [ main:32358 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:34:45  [ main:32359 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:45  [ main:32360 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:34:45  [ main:32360 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:45  [ main:32361 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:34:45  [ main:32361 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:45  [ main:32362 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:34:45  [ main:32362 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:45  [ main:32363 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:34:45  [ main:32364 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33432 ] - [ ERROR ]  Get Fund From Sina Exception: 160717
+2015-05-24 22:34:47  [ main:33435 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33436 ] - [ ERROR ]  Get Fund From Sina Exception: 160717
+2015-05-24 22:34:47  [ main:33436 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33437 ] - [ ERROR ]  Get Fund From Sina Exception: 160717
+2015-05-24 22:34:47  [ main:33437 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33438 ] - [ ERROR ]  Get Fund From Sina Exception: 160717
+2015-05-24 22:34:47  [ main:33439 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33440 ] - [ ERROR ]  Get Fund From Sina Exception: 160717
+2015-05-24 22:34:47  [ main:33440 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33441 ] - [ ERROR ]  Get Fund From Sina Exception: 160717
+2015-05-24 22:34:47  [ main:33441 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33623 ] - [ ERROR ]  Get Fund From Sina Exception: 161610
+2015-05-24 22:34:47  [ main:33623 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33625 ] - [ ERROR ]  Get Fund From Sina Exception: 161610
+2015-05-24 22:34:47  [ main:33625 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33626 ] - [ ERROR ]  Get Fund From Sina Exception: 161610
+2015-05-24 22:34:47  [ main:33626 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33627 ] - [ ERROR ]  Get Fund From Sina Exception: 161610
+2015-05-24 22:34:47  [ main:33627 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33629 ] - [ ERROR ]  Get Fund From Sina Exception: 161610
+2015-05-24 22:34:47  [ main:33629 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33630 ] - [ ERROR ]  Get Fund From Sina Exception: 161610
+2015-05-24 22:34:47  [ main:33630 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33834 ] - [ ERROR ]  Get Fund From Sina Exception: 160706
+2015-05-24 22:34:47  [ main:33834 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33835 ] - [ ERROR ]  Get Fund From Sina Exception: 160706
+2015-05-24 22:34:47  [ main:33835 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33836 ] - [ ERROR ]  Get Fund From Sina Exception: 160706
+2015-05-24 22:34:47  [ main:33836 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33837 ] - [ ERROR ]  Get Fund From Sina Exception: 160706
+2015-05-24 22:34:47  [ main:33837 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33838 ] - [ ERROR ]  Get Fund From Sina Exception: 160706
+2015-05-24 22:34:47  [ main:33838 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:33839 ] - [ ERROR ]  Get Fund From Sina Exception: 160706
+2015-05-24 22:34:47  [ main:33839 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:34045 ] - [ ERROR ]  Get Fund From Sina Exception: 162703
+2015-05-24 22:34:47  [ main:34045 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:34046 ] - [ ERROR ]  Get Fund From Sina Exception: 162703
+2015-05-24 22:34:47  [ main:34046 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:34047 ] - [ ERROR ]  Get Fund From Sina Exception: 162703
+2015-05-24 22:34:47  [ main:34047 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:34048 ] - [ ERROR ]  Get Fund From Sina Exception: 162703
+2015-05-24 22:34:47  [ main:34048 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:34049 ] - [ ERROR ]  Get Fund From Sina Exception: 162703
+2015-05-24 22:34:47  [ main:34049 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:34050 ] - [ ERROR ]  Get Fund From Sina Exception: 162703
+2015-05-24 22:34:47  [ main:34050 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:34206 ] - [ ERROR ]  Get Fund From Sina Exception: 160505
+2015-05-24 22:34:47  [ main:34206 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:34207 ] - [ ERROR ]  Get Fund From Sina Exception: 160505
+2015-05-24 22:34:47  [ main:34207 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:34208 ] - [ ERROR ]  Get Fund From Sina Exception: 160505
+2015-05-24 22:34:47  [ main:34209 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:34210 ] - [ ERROR ]  Get Fund From Sina Exception: 160505
+2015-05-24 22:34:47  [ main:34210 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:34211 ] - [ ERROR ]  Get Fund From Sina Exception: 160505
+2015-05-24 22:34:47  [ main:34211 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:47  [ main:34212 ] - [ ERROR ]  Get Fund From Sina Exception: 160505
+2015-05-24 22:34:47  [ main:34212 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:48  [ main:34403 ] - [ ERROR ]  Get Fund From Sina Exception: 160610
+2015-05-24 22:34:48  [ main:34404 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:48  [ main:34405 ] - [ ERROR ]  Get Fund From Sina Exception: 160610
+2015-05-24 22:34:48  [ main:34405 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:48  [ main:34406 ] - [ ERROR ]  Get Fund From Sina Exception: 160610
+2015-05-24 22:34:48  [ main:34407 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:48  [ main:34408 ] - [ ERROR ]  Get Fund From Sina Exception: 160610
+2015-05-24 22:34:48  [ main:34408 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:48  [ main:34410 ] - [ ERROR ]  Get Fund From Sina Exception: 160610
+2015-05-24 22:34:48  [ main:34411 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:34:48  [ main:34412 ] - [ ERROR ]  Get Fund From Sina Exception: 160610
+2015-05-24 22:34:48  [ main:34412 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:41:52  [ main:516 ] - [ ERROR ]  Get Latest Finalized Fund Data from MySQL Exception
+2015-05-24 22:41:52  [ main:516 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-05-24 22:47:07  [ main:33644 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:47:07  [ main:33644 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:47:07  [ main:33646 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:47:07  [ main:33646 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:47:07  [ main:33647 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:47:07  [ main:33648 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:47:07  [ main:33649 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:47:07  [ main:33649 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:47:07  [ main:33650 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:47:07  [ main:33650 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn
+2015-05-24 22:47:07  [ main:33651 ] - [ ERROR ]  Get Fund From Sina Exception: 160220
+2015-05-24 22:47:07  [ main:33651 ] - [ ERROR ]  java.net.UnknownHostException: hq.sinajs.cn

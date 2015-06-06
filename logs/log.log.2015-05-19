@@ -1,0 +1,155 @@
+2015-05-19 11:05:12  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 11:11:41  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 11:14:29  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 11:14:36  [ main:7078 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 11:14:42  [ main:13177 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 11:14:50  [ main:21143 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 11:19:19  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 11:19:42  [ main:23039 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 11:20:23  [ main:63892 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 11:20:52  [ main:93110 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 11:50:41  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 11:50:48  [ main:6917 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 11:50:48  [ main:6952 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 11:50:48  [ main:6988 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 12:14:42  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 12:14:42  [ main:82 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 12:14:42  [ main:119 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 12:14:42  [ main:154 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 12:15:03  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 12:15:23  [ main:20087 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 12:15:26  [ main:22519 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 12:15:27  [ main:24459 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 12:16:13  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 12:16:22  [ main:9496 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 12:16:29  [ main:15601 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 12:16:33  [ main:19808 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 12:17:40  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 12:17:40  [ main:86 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 12:17:40  [ main:124 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 12:17:40  [ main:160 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 12:18:04  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 12:18:06  [ main:2008 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 12:18:07  [ main:2797 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 12:18:08  [ main:3481 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 12:18:36  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 12:18:44  [ main:8345 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 12:19:02  [ main:26522 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 12:19:09  [ main:33470 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 12:23:36  [ main:299935 ] - [ INFO ]  DB Connection created
+2015-05-19 12:27:12  [ main:516231 ] - [ INFO ]  Processed ROI:ld90; pending: 21
+2015-05-19 15:22:45  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 15:22:46  [ main:110 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 15:22:46  [ main:145 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 15:22:46  [ main:183 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 15:24:55  [ main:130034 ] - [ INFO ]  Processed ROI:ld90; pending: 21
+2015-05-19 15:49:01  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 15:49:18  [ main:17305 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 15:49:37  [ main:36505 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 15:52:15  [ main:194044 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 15:57:29  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 15:59:55  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:00:35  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:00:41  [ main:6360 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:00:50  [ main:15441 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 16:01:01  [ main:26520 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 16:02:48  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:02:50  [ main:2344 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:02:52  [ main:4387 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 16:03:00  [ main:12569 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 16:05:13  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:05:16  [ main:2269 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:05:18  [ main:4518 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 16:05:26  [ main:12732 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 16:06:26  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:06:29  [ main:2720 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:06:34  [ main:8112 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 16:06:47  [ main:20520 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 16:09:14  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:09:20  [ main:5787 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:09:29  [ main:15220 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 16:09:39  [ main:24874 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 16:13:32  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:13:39  [ main:7163 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:18:09  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:18:15  [ main:6225 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:19:35  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:19:38  [ main:2781 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:19:40  [ main:4927 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 16:21:05  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:21:09  [ main:3675 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:21:34  [ main:28935 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 16:23:11  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:23:15  [ main:3381 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:23:48  [ main:36905 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 16:24:26  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:24:30  [ main:4309 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:32:32  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:32:36  [ main:3562 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:32:38  [ main:6335 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 16:33:36  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:35:35  [ main:118976 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:41:39  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:41:44  [ main:4397 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:41:53  [ main:13424 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 16:44:22  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:44:25  [ main:2803 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:44:30  [ main:7797 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 16:52:25  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 16:52:27  [ main:2495 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 16:58:15  [ main:349991 ] - [ INFO ]  DB Connection created
+2015-05-19 17:04:08  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 17:04:10  [ main:1898 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 17:04:27  [ main:19353 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 17:10:41  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 17:10:43  [ main:2001 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 17:10:45  [ main:3277 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 17:14:33  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 17:14:35  [ main:1428 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 17:14:47  [ main:13750 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 17:19:18  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 17:19:22  [ main:3386 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 17:21:10  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 17:21:12  [ main:2089 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 17:21:13  [ main:3099 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 17:22:57  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 17:22:59  [ main:1581 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 17:23:00  [ main:2392 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 17:30:38  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 17:30:41  [ main:2052 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 17:30:42  [ main:3095 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 17:32:47  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 17:32:49  [ main:1654 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 17:32:50  [ main:2465 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 17:33:10  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 17:33:13  [ main:2513 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 17:33:14  [ main:3856 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 17:37:31  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 17:37:33  [ main:1920 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 17:37:34  [ main:2765 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 17:40:18  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 17:40:32  [ main:13878 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 17:42:46  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 17:43:09  [ main:22590 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 17:49:47  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 17:49:48  [ main:1810 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 17:49:50  [ main:3190 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 21:39:46  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 21:39:58  [ main:12473 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 21:40:16  [ main:30280 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 21:41:58  [ main:132104 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 21:51:22  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 21:51:26  [ main:3463 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 21:51:26  [ main:4177 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 21:52:02  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 21:52:07  [ main:4581 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 21:52:08  [ main:5478 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 21:52:09  [ main:6393 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 21:53:52  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 21:53:56  [ main:3755 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 21:53:57  [ main:4903 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 21:53:58  [ main:5585 ] - [ INFO ]  Processed ROI:ld30; pending: 22
+2015-05-19 21:55:31  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-19 21:55:34  [ main:3309 ] - [ INFO ]  Processed ROI:ld0; pending: 24
+2015-05-19 21:55:35  [ main:3974 ] - [ INFO ]  Processed ROI:ld7; pending: 23
+2015-05-19 21:55:35  [ main:4573 ] - [ INFO ]  Processed ROI:ld30; pending: 22

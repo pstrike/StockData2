@@ -1,0 +1,15 @@
+2015-04-21 20:02:09  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-21 20:02:38  [ main:29063 ] - [ INFO ]  Full Stock Transformation Overall Avg Var Runner: processed date:2006-01-04; To be processed date no.:2245
+2015-04-21 20:33:46  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-21 20:52:22  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-21 20:52:49  [ main:27139 ] - [ INFO ]  Full Stock Deal Runner: processed date:2006-01-04; To be processed date no.:2245
+2015-04-21 21:25:53  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-21 21:25:53  [ main:115 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-21 21:25:53  [ main:116 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'deal_buy_date >= '2006-01-01' and deal_buy_date <= '2010-01-01'' at line 1
+2015-04-21 21:26:44  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-21 21:26:44  [ main:119 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-21 21:26:44  [ main:119 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'deal_buy_date >= '2006-01-01' and deal_buy_date <= '2010-01-01'' at line 1
+2015-04-21 21:27:19  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-21 21:27:19  [ main:156 ] - [ ERROR ]  Get Incompleted Stock Deal Base on Stock Buy Price and Sell Type Equal Before Buy Date from MySQL Exception
+2015-04-21 21:27:19  [ main:156 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'deal_buy_date >= '2006-01-01' and deal_buy_date <= '2010-01-01'' at line 1
+2015-04-21 21:28:00  [ main:0 ] - [ INFO ]  DB Connection created

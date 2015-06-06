@@ -1,0 +1,15 @@
+2015-05-13 10:16:53  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-13 10:22:24  [ main:331011 ] - [ INFO ]  Full Stock Wave Calculation - complete:overall; pending: 2660
+2015-05-13 10:25:22  [ main:509343 ] - [ INFO ]  Full Stock Wave Calculation - complete:sh600000; pending: 2659
+2015-05-13 11:01:26  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-13 11:05:23  [ main:236992 ] - [ INFO ]  Full Stock Wave Calculation - complete:overall; pending: 2660
+2015-05-13 11:12:02  [ main:635537 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-13 11:12:02  [ main:635542 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 72,576 milliseconds ago.  The last packet sent successfully to the server was 72,575 milliseconds ago.
+2015-05-13 11:12:26  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-13 11:17:34  [ main:308369 ] - [ INFO ]  Full Stock Wave Calculation - complete:overall; pending: 2660
+2015-05-13 11:22:10  [ main:584241 ] - [ INFO ]  Full Stock Wave Calculation - complete:sh600000; pending: 2659
+2015-05-13 11:29:58  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-13 11:32:42  [ main:163978 ] - [ INFO ]  Full Stock Wave Calculation - complete:overall; pending: 2660
+2015-05-13 11:35:38  [ main:340234 ] - [ INFO ]  Full Stock Wave Calculation - complete:sh600000; pending: 2659

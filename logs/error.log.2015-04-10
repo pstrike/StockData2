@@ -1,0 +1,11 @@
+2015-04-10 22:09:18  [ main:0 ] - [ ERROR ]  Daily Capital Processing Exception
+2015-04-10 22:09:44  [ main:0 ] - [ ERROR ]  Daily Capital Processing Exception
+2015-04-10 22:10:40  [ main:0 ] - [ ERROR ]  Daily Capital Processing Exception
+2015-04-10 22:11:05  [ main:0 ] - [ ERROR ]  Daily Capital Processing Exception
+2015-04-10 22:11:59  [ main:0 ] - [ ERROR ]  Daily Capital Processing Exception
+2015-04-10 22:14:22  [ main:0 ] - [ ERROR ]  Daily Capital Processing Exception
+2015-04-10 22:14:48  [ main:0 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception
+2015-04-10 22:15:22  [ main:0 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception
+2015-04-10 23:55:24  [ main:1645 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150408
+2015-04-10 23:55:24  [ main:1766 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150409
+2015-04-10 23:55:25  [ main:1881 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150410

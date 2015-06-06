@@ -1,0 +1,7 @@
+2015-04-12 15:47:41  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-12 15:48:12  [ main:31552 ] - [ ERROR ]  Insert Raw Stock Data into MySQL Exception
+2015-04-12 15:54:09  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-12 15:54:47  [ main:37470 ] - [ INFO ]  Full Stock Transformation - complete:sh601339; pending: 2659
+2015-04-12 22:11:44  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-12 22:12:04  [ main:20195 ] - [ INFO ]  sh601339:20.286321630208334
+2015-04-12 22:12:16  [ main:31557 ] - [ INFO ]  sh600287:16.417545265894493

@@ -1,0 +1,422 @@
+2015-06-03 00:08:24  [ main:0 ] - [ INFO ]  DB Connection created
+2015-06-03 00:08:24  [ main:105 ] - [ INFO ]  Full Fund ROI Calculation - complete:160220; pending: 120
+2015-06-03 00:08:24  [ main:133 ] - [ INFO ]  Full Fund ROI Calculation - complete:160717; pending: 119
+2015-06-03 00:08:24  [ main:159 ] - [ INFO ]  Full Fund ROI Calculation - complete:161610; pending: 118
+2015-06-03 00:08:24  [ main:185 ] - [ INFO ]  Full Fund ROI Calculation - complete:160706; pending: 117
+2015-06-03 00:08:24  [ main:233 ] - [ INFO ]  Full Fund ROI Calculation - complete:162703; pending: 116
+2015-06-03 00:08:24  [ main:287 ] - [ INFO ]  Full Fund ROI Calculation - complete:160505; pending: 115
+2015-06-03 00:08:24  [ main:324 ] - [ INFO ]  Full Fund ROI Calculation - complete:160610; pending: 114
+2015-06-03 00:08:24  [ main:348 ] - [ INFO ]  Full Fund ROI Calculation - complete:160916; pending: 113
+2015-06-03 00:08:24  [ main:399 ] - [ INFO ]  Full Fund ROI Calculation - complete:160716; pending: 112
+2015-06-03 00:08:24  [ main:422 ] - [ INFO ]  Full Fund ROI Calculation - complete:161706; pending: 111
+2015-06-03 00:08:24  [ main:448 ] - [ INFO ]  Full Fund ROI Calculation - complete:160607; pending: 110
+2015-06-03 00:08:24  [ main:502 ] - [ INFO ]  Full Fund ROI Calculation - complete:160512; pending: 109
+2015-06-03 00:08:24  [ main:523 ] - [ INFO ]  Full Fund ROI Calculation - complete:160311; pending: 108
+2015-06-03 00:08:25  [ main:548 ] - [ INFO ]  Full Fund ROI Calculation - complete:160119; pending: 107
+2015-06-03 00:08:25  [ main:596 ] - [ INFO ]  Full Fund ROI Calculation - complete:160216; pending: 106
+2015-06-03 00:08:25  [ main:623 ] - [ INFO ]  Full Fund ROI Calculation - complete:163503; pending: 105
+2015-06-03 00:08:25  [ main:648 ] - [ INFO ]  Full Fund ROI Calculation - complete:162605; pending: 104
+2015-06-03 00:08:25  [ main:702 ] - [ INFO ]  Full Fund ROI Calculation - complete:160314; pending: 103
+2015-06-03 00:08:25  [ main:727 ] - [ INFO ]  Full Fund ROI Calculation - complete:163801; pending: 102
+2015-06-03 00:08:25  [ main:751 ] - [ INFO ]  Full Fund ROI Calculation - complete:163402; pending: 101
+2015-06-03 00:08:25  [ main:801 ] - [ INFO ]  Full Fund ROI Calculation - complete:162607; pending: 100
+2015-06-03 00:08:25  [ main:823 ] - [ INFO ]  Full Fund ROI Calculation - complete:166011; pending: 99
+2015-06-03 00:08:25  [ main:851 ] - [ INFO ]  Full Fund ROI Calculation - complete:164815; pending: 98
+2015-06-03 00:08:25  [ main:900 ] - [ INFO ]  Full Fund ROI Calculation - complete:166009; pending: 97
+2015-06-03 00:08:25  [ main:924 ] - [ INFO ]  Full Fund ROI Calculation - complete:161005; pending: 96
+2015-06-03 00:08:25  [ main:951 ] - [ INFO ]  Full Fund ROI Calculation - complete:165313; pending: 95
+2015-06-03 00:08:25  [ main:1001 ] - [ INFO ]  Full Fund ROI Calculation - complete:160611; pending: 94
+2015-06-03 00:08:25  [ main:1023 ] - [ INFO ]  Full Fund ROI Calculation - complete:160106; pending: 93
+2015-06-03 00:08:25  [ main:1052 ] - [ INFO ]  Full Fund ROI Calculation - complete:161607; pending: 92
+2015-06-03 00:08:25  [ main:1104 ] - [ INFO ]  Full Fund ROI Calculation - complete:160910; pending: 91
+2015-06-03 00:08:25  [ main:1127 ] - [ INFO ]  Full Fund ROI Calculation - complete:166001; pending: 90
+2015-06-03 00:08:25  [ main:1151 ] - [ INFO ]  Full Fund ROI Calculation - complete:163412; pending: 89
+2015-06-03 00:08:25  [ main:1202 ] - [ INFO ]  Full Fund ROI Calculation - complete:160211; pending: 88
+2015-06-03 00:08:25  [ main:1224 ] - [ INFO ]  Full Fund ROI Calculation - complete:166006; pending: 87
+2015-06-03 00:08:25  [ main:1251 ] - [ INFO ]  Full Fund ROI Calculation - complete:163302; pending: 86
+2015-06-03 00:08:25  [ main:1301 ] - [ INFO ]  Full Fund ROI Calculation - complete:161217; pending: 85
+2015-06-03 00:08:25  [ main:1331 ] - [ INFO ]  Full Fund ROI Calculation - complete:162207; pending: 84
+2015-06-03 00:08:25  [ main:1352 ] - [ INFO ]  Full Fund ROI Calculation - complete:165508; pending: 83
+2015-06-03 00:08:25  [ main:1402 ] - [ INFO ]  Full Fund ROI Calculation - complete:160805; pending: 82
+2015-06-03 00:08:25  [ main:1425 ] - [ INFO ]  Full Fund ROI Calculation - complete:162711; pending: 81
+2015-06-03 00:08:25  [ main:1452 ] - [ INFO ]  Full Fund ROI Calculation - complete:161810; pending: 80
+2015-06-03 00:08:25  [ main:1503 ] - [ INFO ]  Full Fund ROI Calculation - complete:162307; pending: 79
+2015-06-03 00:08:25  [ main:1524 ] - [ INFO ]  Full Fund ROI Calculation - complete:160616; pending: 78
+2015-06-03 00:08:26  [ main:1565 ] - [ INFO ]  Full Fund ROI Calculation - complete:160105; pending: 77
+2015-06-03 00:08:26  [ main:1601 ] - [ INFO ]  Full Fund ROI Calculation - complete:163409; pending: 76
+2015-06-03 00:08:26  [ main:1650 ] - [ INFO ]  Full Fund ROI Calculation - complete:161903; pending: 75
+2015-06-03 00:08:26  [ main:1674 ] - [ INFO ]  Full Fund ROI Calculation - complete:160212; pending: 74
+2015-06-03 00:08:26  [ main:1700 ] - [ INFO ]  Full Fund ROI Calculation - complete:165516; pending: 73
+2015-06-03 00:08:26  [ main:1751 ] - [ INFO ]  Full Fund ROI Calculation - complete:162006; pending: 72
+2015-06-03 00:08:26  [ main:1771 ] - [ INFO ]  Full Fund ROI Calculation - complete:163407; pending: 71
+2015-06-03 00:08:26  [ main:1800 ] - [ INFO ]  Full Fund ROI Calculation - complete:163415; pending: 70
+2015-06-03 00:08:26  [ main:1852 ] - [ INFO ]  Full Fund ROI Calculation - complete:160615; pending: 69
+2015-06-03 00:08:26  [ main:1872 ] - [ INFO ]  Full Fund ROI Calculation - complete:162510; pending: 68
+2015-06-03 00:08:26  [ main:1901 ] - [ INFO ]  Full Fund ROI Calculation - complete:160613; pending: 67
+2015-06-03 00:08:26  [ main:1951 ] - [ INFO ]  Full Fund ROI Calculation - complete:160215; pending: 66
+2015-06-03 00:08:26  [ main:1972 ] - [ INFO ]  Full Fund ROI Calculation - complete:161017; pending: 65
+2015-06-03 00:08:26  [ main:2001 ] - [ INFO ]  Full Fund ROI Calculation - complete:165309; pending: 64
+2015-06-03 00:08:26  [ main:2051 ] - [ INFO ]  Full Fund ROI Calculation - complete:161219; pending: 63
+2015-06-03 00:08:26  [ main:2073 ] - [ INFO ]  Full Fund ROI Calculation - complete:161907; pending: 62
+2015-06-03 00:08:26  [ main:2108 ] - [ INFO ]  Full Fund ROI Calculation - complete:167901; pending: 61
+2015-06-03 00:08:26  [ main:2151 ] - [ INFO ]  Full Fund ROI Calculation - complete:165512; pending: 60
+2015-06-03 00:08:26  [ main:2172 ] - [ INFO ]  Full Fund ROI Calculation - complete:160415; pending: 59
+2015-06-03 00:08:26  [ main:2204 ] - [ INFO ]  Full Fund ROI Calculation - complete:163110; pending: 58
+2015-06-03 00:08:26  [ main:2251 ] - [ INFO ]  Full Fund ROI Calculation - complete:160807; pending: 57
+2015-06-03 00:08:26  [ main:2277 ] - [ INFO ]  Full Fund ROI Calculation - complete:166007; pending: 56
+2015-06-03 00:08:26  [ main:2304 ] - [ INFO ]  Full Fund ROI Calculation - complete:161213; pending: 55
+2015-06-03 00:08:26  [ main:2351 ] - [ INFO ]  Full Fund ROI Calculation - complete:163821; pending: 54
+2015-06-03 00:08:26  [ main:2372 ] - [ INFO ]  Full Fund ROI Calculation - complete:165806; pending: 53
+2015-06-03 00:08:26  [ main:2400 ] - [ INFO ]  Full Fund ROI Calculation - complete:167701; pending: 52
+2015-06-03 00:08:26  [ main:2419 ] - [ INFO ]  Full Fund ROI Calculation - complete:166802; pending: 51
+2015-06-03 00:08:26  [ main:2450 ] - [ INFO ]  Full Fund ROI Calculation - complete:166005; pending: 50
+2015-06-03 00:08:26  [ main:2473 ] - [ INFO ]  Full Fund ROI Calculation - complete:166002; pending: 49
+2015-06-03 00:08:26  [ main:2500 ] - [ INFO ]  Full Fund ROI Calculation - complete:165707; pending: 48
+2015-06-03 00:08:27  [ main:2549 ] - [ INFO ]  Full Fund ROI Calculation - complete:165520; pending: 47
+2015-06-03 00:08:27  [ main:2569 ] - [ INFO ]  Full Fund ROI Calculation - complete:165519; pending: 46
+2015-06-03 00:08:27  [ main:2599 ] - [ INFO ]  Full Fund ROI Calculation - complete:165515; pending: 45
+2015-06-03 00:08:27  [ main:2623 ] - [ INFO ]  Full Fund ROI Calculation - complete:165511; pending: 44
+2015-06-03 00:08:27  [ main:2659 ] - [ INFO ]  Full Fund ROI Calculation - complete:165312; pending: 43
+2015-06-03 00:08:27  [ main:2678 ] - [ INFO ]  Full Fund ROI Calculation - complete:165310; pending: 42
+2015-06-03 00:08:27  [ main:2699 ] - [ INFO ]  Full Fund ROI Calculation - complete:164811; pending: 41
+2015-06-03 00:08:27  [ main:2718 ] - [ INFO ]  Full Fund ROI Calculation - complete:164809; pending: 40
+2015-06-03 00:08:27  [ main:2750 ] - [ INFO ]  Full Fund ROI Calculation - complete:163810; pending: 39
+2015-06-03 00:08:27  [ main:2769 ] - [ INFO ]  Full Fund ROI Calculation - complete:163809; pending: 38
+2015-06-03 00:08:27  [ main:2800 ] - [ INFO ]  Full Fund ROI Calculation - complete:163808; pending: 37
+2015-06-03 00:08:27  [ main:2819 ] - [ INFO ]  Full Fund ROI Calculation - complete:163807; pending: 36
+2015-06-03 00:08:27  [ main:2851 ] - [ INFO ]  Full Fund ROI Calculation - complete:163805; pending: 35
+2015-06-03 00:08:27  [ main:2872 ] - [ INFO ]  Full Fund ROI Calculation - complete:163804; pending: 34
+2015-06-03 00:08:27  [ main:2900 ] - [ INFO ]  Full Fund ROI Calculation - complete:163803; pending: 33
+2015-06-03 00:08:27  [ main:2920 ] - [ INFO ]  Full Fund ROI Calculation - complete:163406; pending: 32
+2015-06-03 00:08:27  [ main:2950 ] - [ INFO ]  Full Fund ROI Calculation - complete:163209; pending: 31
+2015-06-03 00:08:27  [ main:2970 ] - [ INFO ]  Full Fund ROI Calculation - complete:163111; pending: 30
+2015-06-03 00:08:27  [ main:2999 ] - [ INFO ]  Full Fund ROI Calculation - complete:163109; pending: 29
+2015-06-03 00:08:27  [ main:3018 ] - [ INFO ]  Full Fund ROI Calculation - complete:162907; pending: 28
+2015-06-03 00:08:27  [ main:3051 ] - [ INFO ]  Full Fund ROI Calculation - complete:162714; pending: 27
+2015-06-03 00:08:27  [ main:3072 ] - [ INFO ]  Full Fund ROI Calculation - complete:162509; pending: 26
+2015-06-03 00:08:27  [ main:3108 ] - [ INFO ]  Full Fund ROI Calculation - complete:162216; pending: 25
+2015-06-03 00:08:27  [ main:3149 ] - [ INFO ]  Full Fund ROI Calculation - complete:162107; pending: 24
+2015-06-03 00:08:27  [ main:3172 ] - [ INFO ]  Full Fund ROI Calculation - complete:162010; pending: 23
+2015-06-03 00:08:27  [ main:3198 ] - [ INFO ]  Full Fund ROI Calculation - complete:161910; pending: 22
+2015-06-03 00:08:27  [ main:3218 ] - [ INFO ]  Full Fund ROI Calculation - complete:161826; pending: 21
+2015-06-03 00:08:27  [ main:3254 ] - [ INFO ]  Full Fund ROI Calculation - complete:161819; pending: 20
+2015-06-03 00:08:27  [ main:3273 ] - [ INFO ]  Full Fund ROI Calculation - complete:161818; pending: 19
+2015-06-03 00:08:27  [ main:3299 ] - [ INFO ]  Full Fund ROI Calculation - complete:161816; pending: 18
+2015-06-03 00:08:27  [ main:3318 ] - [ INFO ]  Full Fund ROI Calculation - complete:161812; pending: 17
+2015-06-03 00:08:27  [ main:3352 ] - [ INFO ]  Full Fund ROI Calculation - complete:161811; pending: 16
+2015-06-03 00:08:27  [ main:3372 ] - [ INFO ]  Full Fund ROI Calculation - complete:161715; pending: 15
+2015-06-03 00:08:27  [ main:3432 ] - [ INFO ]  Full Fund ROI Calculation - complete:161507; pending: 14
+2015-06-03 00:08:27  [ main:3459 ] - [ INFO ]  Full Fund ROI Calculation - complete:161207; pending: 13
+2015-06-03 00:08:27  [ main:3478 ] - [ INFO ]  Full Fund ROI Calculation - complete:161118; pending: 12
+2015-06-03 00:08:27  [ main:3498 ] - [ INFO ]  Full Fund ROI Calculation - complete:160809; pending: 11
+2015-06-03 00:08:27  [ main:3527 ] - [ INFO ]  Full Fund ROI Calculation - complete:160808; pending: 10
+2015-06-03 00:08:28  [ main:3545 ] - [ INFO ]  Full Fund ROI Calculation - complete:160806; pending: 9
+2015-06-03 00:08:28  [ main:3578 ] - [ INFO ]  Full Fund ROI Calculation - complete:160620; pending: 8
+2015-06-03 00:08:28  [ main:3596 ] - [ INFO ]  Full Fund ROI Calculation - complete:160605; pending: 7
+2015-06-03 00:08:28  [ main:3628 ] - [ INFO ]  Full Fund ROI Calculation - complete:160603; pending: 6
+2015-06-03 00:08:28  [ main:3646 ] - [ INFO ]  Full Fund ROI Calculation - complete:160417; pending: 5
+2015-06-03 00:08:28  [ main:3677 ] - [ INFO ]  Full Fund ROI Calculation - complete:160219; pending: 4
+2015-06-03 00:08:28  [ main:3696 ] - [ INFO ]  Full Fund ROI Calculation - complete:160218; pending: 3
+2015-06-03 00:08:28  [ main:3727 ] - [ INFO ]  Full Fund ROI Calculation - complete:160127; pending: 2
+2015-06-03 00:08:28  [ main:3747 ] - [ INFO ]  Full Fund ROI Calculation - complete:160133; pending: 1
+2015-06-03 00:08:28  [ main:3778 ] - [ INFO ]  Full Fund ROI Calculation - complete:161224; pending: 0
+2015-06-03 00:08:28  [ main:3779 ] - [ INFO ]  [A类套利 - 溢价率区间：0% to 1%]: Win No:15,38.46153846153847%; Deal Pct:3.75%; Expectation: 0.014423076923076924
+2015-06-03 00:08:28  [ main:3779 ] - [ INFO ]  [B类套利 - 溢价率区间：0% to 1%]: Win No:18,46.15384615384615%; Deal Pct:3.75%; Expectation: 0.01730769230769231
+2015-06-03 00:08:28  [ main:3779 ] - [ INFO ]  [A类套利 - 溢价率区间：-1% to 0%]: Win No:19,29.230769230769234%; Deal Pct:6.25%; Expectation: 0.01826923076923077
+2015-06-03 00:08:28  [ main:3779 ] - [ INFO ]  [B类套利 - 溢价率区间：-1% to 0%]: Win No:27,41.53846153846154%; Deal Pct:6.25%; Expectation: 0.025961538461538463
+2015-06-03 00:08:28  [ main:3780 ] - [ INFO ]  [A类套利 - 溢价率区间：0% to 1%]: Win No:7,29.166666666666668%; Deal Pct:2.307692307692308%; Expectation: 0.006730769230769231
+2015-06-03 00:08:28  [ main:3780 ] - [ INFO ]  [B类套利 - 溢价率区间：0% to 1%]: Win No:7,29.166666666666668%; Deal Pct:2.307692307692308%; Expectation: 0.006730769230769231
+2015-06-03 00:08:28  [ main:3780 ] - [ INFO ]  [A类套利 - 溢价率区间：-1% to 0%]: Win No:9,18.367346938775512%; Deal Pct:4.711538461538462%; Expectation: 0.008653846153846154
+2015-06-03 00:08:28  [ main:3780 ] - [ INFO ]  [B类套利 - 溢价率区间：-1% to 0%]: Win No:14,28.57142857142857%; Deal Pct:4.711538461538462%; Expectation: 0.01346153846153846
+2015-06-03 00:08:28  [ main:3780 ] - [ INFO ]  [A类套利 - 溢价率区间：1% to 2%]: Win No:5,19.230769230769234%; Deal Pct:2.5%; Expectation: 0.004807692307692308
+2015-06-03 00:08:28  [ main:3781 ] - [ INFO ]  [B类套利 - 溢价率区间：1% to 2%]: Win No:5,19.230769230769234%; Deal Pct:2.5%; Expectation: 0.004807692307692308
+2015-06-03 00:08:28  [ main:3781 ] - [ INFO ]  [A类套利 - 溢价率区间：-2% to -1%]: Win No:8,22.857142857142858%; Deal Pct:3.3653846153846154%; Expectation: 0.007692307692307692
+2015-06-03 00:08:28  [ main:3781 ] - [ INFO ]  [B类套利 - 溢价率区间：-2% to -1%]: Win No:11,31.428571428571427%; Deal Pct:3.3653846153846154%; Expectation: 0.010576923076923076
+2015-06-03 00:08:28  [ main:3781 ] - [ INFO ]  [A类套利 - 溢价率区间：1% to 2%]: Win No:6,40.0%; Deal Pct:1.4423076923076923%; Expectation: 0.0057692307692307696
+2015-06-03 00:08:28  [ main:3782 ] - [ INFO ]  [B类套利 - 溢价率区间：1% to 2%]: Win No:2,13.333333333333334%; Deal Pct:1.4423076923076923%; Expectation: 0.0019230769230769232
+2015-06-03 00:08:28  [ main:3782 ] - [ INFO ]  [A类套利 - 溢价率区间：-2% to -1%]: Win No:11,10.0%; Deal Pct:10.576923076923077%; Expectation: 0.010576923076923078
+2015-06-03 00:08:28  [ main:3782 ] - [ INFO ]  [B类套利 - 溢价率区间：-2% to -1%]: Win No:28,25.454545454545453%; Deal Pct:10.576923076923077%; Expectation: 0.02692307692307692
+2015-06-03 00:08:28  [ main:3782 ] - [ INFO ]  [A类套利 - 溢价率区间：2% to 3%]: Win No:5,41.66666666666667%; Deal Pct:1.153846153846154%; Expectation: 0.004807692307692308
+2015-06-03 00:08:28  [ main:3783 ] - [ INFO ]  [B类套利 - 溢价率区间：2% to 3%]: Win No:2,16.666666666666664%; Deal Pct:1.153846153846154%; Expectation: 0.0019230769230769232
+2015-06-03 00:08:28  [ main:3783 ] - [ INFO ]  [A类套利 - 溢价率区间：-3% to -2%]: Win No:0,0.0%; Deal Pct:0.576923076923077%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3783 ] - [ INFO ]  [B类套利 - 溢价率区间：-3% to -2%]: Win No:0,0.0%; Deal Pct:0.576923076923077%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3783 ] - [ INFO ]  [A类套利 - 溢价率区间：2% to 3%]: Win No:3,42.857142857142854%; Deal Pct:0.6730769230769231%; Expectation: 0.0028846153846153848
+2015-06-03 00:08:28  [ main:3784 ] - [ INFO ]  [B类套利 - 溢价率区间：2% to 3%]: Win No:0,0.0%; Deal Pct:0.6730769230769231%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3784 ] - [ INFO ]  [A类套利 - 溢价率区间：-3% to -2%]: Win No:3,7.5%; Deal Pct:3.8461538461538463%; Expectation: 0.0028846153846153848
+2015-06-03 00:08:28  [ main:3784 ] - [ INFO ]  [B类套利 - 溢价率区间：-3% to -2%]: Win No:12,30.0%; Deal Pct:3.8461538461538463%; Expectation: 0.011538461538461539
+2015-06-03 00:08:28  [ main:3784 ] - [ INFO ]  [A类套利 - 溢价率区间：3% to 4%]: Win No:3,30.0%; Deal Pct:0.9615384615384616%; Expectation: 0.0028846153846153848
+2015-06-03 00:08:28  [ main:3785 ] - [ INFO ]  [B类套利 - 溢价率区间：3% to 4%]: Win No:2,20.0%; Deal Pct:0.9615384615384616%; Expectation: 0.0019230769230769232
+2015-06-03 00:08:28  [ main:3785 ] - [ INFO ]  [A类套利 - 溢价率区间：-4% to -3%]: Win No:0,0.0%; Deal Pct:0.09615384615384616%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3785 ] - [ INFO ]  [B类套利 - 溢价率区间：-4% to -3%]: Win No:0,0.0%; Deal Pct:0.09615384615384616%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3785 ] - [ INFO ]  [A类套利 - 溢价率区间：3% to 4%]: Win No:1,16.666666666666664%; Deal Pct:0.576923076923077%; Expectation: 9.615384615384616E-4
+2015-06-03 00:08:28  [ main:3785 ] - [ INFO ]  [B类套利 - 溢价率区间：3% to 4%]: Win No:0,0.0%; Deal Pct:0.576923076923077%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3786 ] - [ INFO ]  [A类套利 - 溢价率区间：-4% to -3%]: Win No:0,0.0%; Deal Pct:0.576923076923077%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3786 ] - [ INFO ]  [B类套利 - 溢价率区间：-4% to -3%]: Win No:2,33.33333333333333%; Deal Pct:0.576923076923077%; Expectation: 0.0019230769230769232
+2015-06-03 00:08:28  [ main:3786 ] - [ INFO ]  [A类套利 - 溢价率区间：4% to 5%]: Win No:7,53.84615384615385%; Deal Pct:1.25%; Expectation: 0.006730769230769231
+2015-06-03 00:08:28  [ main:3786 ] - [ INFO ]  [B类套利 - 溢价率区间：4% to 5%]: Win No:2,15.384615384615385%; Deal Pct:1.25%; Expectation: 0.0019230769230769232
+2015-06-03 00:08:28  [ main:3786 ] - [ INFO ]  [A类套利 - 溢价率区间：-5% to -4%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3787 ] - [ INFO ]  [B类套利 - 溢价率区间：-5% to -4%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3787 ] - [ INFO ]  [A类套利 - 溢价率区间：4% to 5%]: Win No:0,0.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3787 ] - [ INFO ]  [B类套利 - 溢价率区间：4% to 5%]: Win No:0,0.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3787 ] - [ INFO ]  [A类套利 - 溢价率区间：-5% to -4%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3787 ] - [ INFO ]  [B类套利 - 溢价率区间：-5% to -4%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3787 ] - [ INFO ]  [A类套利 - 溢价率区间：5% to 6%]: Win No:2,40.0%; Deal Pct:0.4807692307692308%; Expectation: 0.0019230769230769232
+2015-06-03 00:08:28  [ main:3788 ] - [ INFO ]  [B类套利 - 溢价率区间：5% to 6%]: Win No:0,0.0%; Deal Pct:0.4807692307692308%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3788 ] - [ INFO ]  [A类套利 - 溢价率区间：-6% to -5%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3788 ] - [ INFO ]  [B类套利 - 溢价率区间：-6% to -5%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3788 ] - [ INFO ]  [A类套利 - 溢价率区间：5% to 6%]: Win No:1,100.0%; Deal Pct:0.09615384615384616%; Expectation: 9.615384615384616E-4
+2015-06-03 00:08:28  [ main:3788 ] - [ INFO ]  [B类套利 - 溢价率区间：5% to 6%]: Win No:0,0.0%; Deal Pct:0.09615384615384616%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3789 ] - [ INFO ]  [A类套利 - 溢价率区间：-6% to -5%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3789 ] - [ INFO ]  [B类套利 - 溢价率区间：-6% to -5%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3789 ] - [ INFO ]  [A类套利 - 溢价率区间：6% to 7%]: Win No:4,80.0%; Deal Pct:0.4807692307692308%; Expectation: 0.0038461538461538464
+2015-06-03 00:08:28  [ main:3789 ] - [ INFO ]  [B类套利 - 溢价率区间：6% to 7%]: Win No:0,0.0%; Deal Pct:0.4807692307692308%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3789 ] - [ INFO ]  [A类套利 - 溢价率区间：-7% to -6%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3789 ] - [ INFO ]  [B类套利 - 溢价率区间：-7% to -6%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3789 ] - [ INFO ]  [A类套利 - 溢价率区间：6% to 7%]: Win No:0,0.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3790 ] - [ INFO ]  [B类套利 - 溢价率区间：6% to 7%]: Win No:0,0.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3790 ] - [ INFO ]  [A类套利 - 溢价率区间：-7% to -6%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3790 ] - [ INFO ]  [B类套利 - 溢价率区间：-7% to -6%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3790 ] - [ INFO ]  [A类套利 - 溢价率区间：7% to 8%]: Win No:3,100.0%; Deal Pct:0.2884615384615385%; Expectation: 0.0028846153846153848
+2015-06-03 00:08:28  [ main:3790 ] - [ INFO ]  [B类套利 - 溢价率区间：7% to 8%]: Win No:0,0.0%; Deal Pct:0.2884615384615385%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3790 ] - [ INFO ]  [A类套利 - 溢价率区间：-8% to -7%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3790 ] - [ INFO ]  [B类套利 - 溢价率区间：-8% to -7%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3791 ] - [ INFO ]  [A类套利 - 溢价率区间：7% to 8%]: Win No:0,0.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3791 ] - [ INFO ]  [B类套利 - 溢价率区间：7% to 8%]: Win No:0,0.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3791 ] - [ INFO ]  [A类套利 - 溢价率区间：-8% to -7%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3791 ] - [ INFO ]  [B类套利 - 溢价率区间：-8% to -7%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3791 ] - [ INFO ]  [A类套利 - 溢价率区间：8% to 9%]: Win No:2,100.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0019230769230769232
+2015-06-03 00:08:28  [ main:3791 ] - [ INFO ]  [B类套利 - 溢价率区间：8% to 9%]: Win No:0,0.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3791 ] - [ INFO ]  [A类套利 - 溢价率区间：-9% to -8%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3792 ] - [ INFO ]  [B类套利 - 溢价率区间：-9% to -8%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3792 ] - [ INFO ]  [A类套利 - 溢价率区间：8% to 9%]: Win No:0,0.0%; Deal Pct:0.09615384615384616%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3792 ] - [ INFO ]  [B类套利 - 溢价率区间：8% to 9%]: Win No:0,0.0%; Deal Pct:0.09615384615384616%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3792 ] - [ INFO ]  [A类套利 - 溢价率区间：-9% to -8%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3792 ] - [ INFO ]  [B类套利 - 溢价率区间：-9% to -8%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3792 ] - [ INFO ]  [A类套利 - 溢价率区间：9% to 10%]: Win No:1,100.0%; Deal Pct:0.09615384615384616%; Expectation: 9.615384615384616E-4
+2015-06-03 00:08:28  [ main:3793 ] - [ INFO ]  [B类套利 - 溢价率区间：9% to 10%]: Win No:0,0.0%; Deal Pct:0.09615384615384616%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3793 ] - [ INFO ]  [A类套利 - 溢价率区间：-10% to -9%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3793 ] - [ INFO ]  [B类套利 - 溢价率区间：-10% to -9%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3793 ] - [ INFO ]  [A类套利 - 溢价率区间：9% to 10%]: Win No:1,100.0%; Deal Pct:0.09615384615384616%; Expectation: 9.615384615384616E-4
+2015-06-03 00:08:28  [ main:3793 ] - [ INFO ]  [B类套利 - 溢价率区间：9% to 10%]: Win No:0,0.0%; Deal Pct:0.09615384615384616%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3793 ] - [ INFO ]  [A类套利 - 溢价率区间：-10% to -9%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3794 ] - [ INFO ]  [B类套利 - 溢价率区间：-10% to -9%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3794 ] - [ INFO ]  [A类套利 - 溢价率区间：10% to 100%]: Win No:17,70.83333333333334%; Deal Pct:2.307692307692308%; Expectation: 0.016346153846153847
+2015-06-03 00:08:28  [ main:3794 ] - [ INFO ]  [B类套利 - 溢价率区间：10% to 100%]: Win No:0,0.0%; Deal Pct:2.307692307692308%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3794 ] - [ INFO ]  [A类套利 - 溢价率区间：-100% to -10%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3794 ] - [ INFO ]  [B类套利 - 溢价率区间：-100% to -10%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3794 ] - [ INFO ]  [A类套利 - 溢价率区间：10% to 100%]: Win No:1,14.285714285714285%; Deal Pct:0.6730769230769231%; Expectation: 9.615384615384616E-4
+2015-06-03 00:08:28  [ main:3794 ] - [ INFO ]  [B类套利 - 溢价率区间：10% to 100%]: Win No:0,0.0%; Deal Pct:0.6730769230769231%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3794 ] - [ INFO ]  [A类套利 - 溢价率区间：-100% to -10%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3795 ] - [ INFO ]  [B类套利 - 溢价率区间：-100% to -10%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:08:28  [ main:3796 ] - [ INFO ]  DB Connection Closed
+2015-06-03 00:09:45  [ main:0 ] - [ INFO ]  DB Connection created
+2015-06-03 00:09:45  [ main:74 ] - [ INFO ]  Full Fund ROI Calculation - complete:160220; pending: 120
+2015-06-03 00:09:45  [ main:118 ] - [ INFO ]  Full Fund ROI Calculation - complete:160717; pending: 119
+2015-06-03 00:09:45  [ main:141 ] - [ INFO ]  Full Fund ROI Calculation - complete:161610; pending: 118
+2015-06-03 00:09:45  [ main:168 ] - [ INFO ]  Full Fund ROI Calculation - complete:160706; pending: 117
+2015-06-03 00:09:45  [ main:216 ] - [ INFO ]  Full Fund ROI Calculation - complete:162703; pending: 116
+2015-06-03 00:09:45  [ main:242 ] - [ INFO ]  Full Fund ROI Calculation - complete:160505; pending: 115
+2015-06-03 00:09:45  [ main:268 ] - [ INFO ]  Full Fund ROI Calculation - complete:160610; pending: 114
+2015-06-03 00:09:45  [ main:316 ] - [ INFO ]  Full Fund ROI Calculation - complete:160916; pending: 113
+2015-06-03 00:09:45  [ main:340 ] - [ INFO ]  Full Fund ROI Calculation - complete:160716; pending: 112
+2015-06-03 00:09:45  [ main:366 ] - [ INFO ]  Full Fund ROI Calculation - complete:161706; pending: 111
+2015-06-03 00:09:45  [ main:415 ] - [ INFO ]  Full Fund ROI Calculation - complete:160607; pending: 110
+2015-06-03 00:09:45  [ main:440 ] - [ INFO ]  Full Fund ROI Calculation - complete:160512; pending: 109
+2015-06-03 00:09:45  [ main:465 ] - [ INFO ]  Full Fund ROI Calculation - complete:160311; pending: 108
+2015-06-03 00:09:45  [ main:517 ] - [ INFO ]  Full Fund ROI Calculation - complete:160119; pending: 107
+2015-06-03 00:09:45  [ main:538 ] - [ INFO ]  Full Fund ROI Calculation - complete:160216; pending: 106
+2015-06-03 00:09:46  [ main:565 ] - [ INFO ]  Full Fund ROI Calculation - complete:163503; pending: 105
+2015-06-03 00:09:46  [ main:616 ] - [ INFO ]  Full Fund ROI Calculation - complete:162605; pending: 104
+2015-06-03 00:09:46  [ main:639 ] - [ INFO ]  Full Fund ROI Calculation - complete:160314; pending: 103
+2015-06-03 00:09:46  [ main:664 ] - [ INFO ]  Full Fund ROI Calculation - complete:163801; pending: 102
+2015-06-03 00:09:46  [ main:714 ] - [ INFO ]  Full Fund ROI Calculation - complete:163402; pending: 101
+2015-06-03 00:09:46  [ main:736 ] - [ INFO ]  Full Fund ROI Calculation - complete:162607; pending: 100
+2015-06-03 00:09:46  [ main:772 ] - [ INFO ]  Full Fund ROI Calculation - complete:166011; pending: 99
+2015-06-03 00:09:46  [ main:814 ] - [ INFO ]  Full Fund ROI Calculation - complete:164815; pending: 98
+2015-06-03 00:09:46  [ main:837 ] - [ INFO ]  Full Fund ROI Calculation - complete:166009; pending: 97
+2015-06-03 00:09:46  [ main:863 ] - [ INFO ]  Full Fund ROI Calculation - complete:161005; pending: 96
+2015-06-03 00:09:46  [ main:914 ] - [ INFO ]  Full Fund ROI Calculation - complete:165313; pending: 95
+2015-06-03 00:09:46  [ main:937 ] - [ INFO ]  Full Fund ROI Calculation - complete:160611; pending: 94
+2015-06-03 00:09:46  [ main:965 ] - [ INFO ]  Full Fund ROI Calculation - complete:160106; pending: 93
+2015-06-03 00:09:46  [ main:1015 ] - [ INFO ]  Full Fund ROI Calculation - complete:161607; pending: 92
+2015-06-03 00:09:46  [ main:1063 ] - [ INFO ]  Full Fund ROI Calculation - complete:160910; pending: 91
+2015-06-03 00:09:46  [ main:1083 ] - [ INFO ]  Full Fund ROI Calculation - complete:166001; pending: 90
+2015-06-03 00:09:46  [ main:1118 ] - [ INFO ]  Full Fund ROI Calculation - complete:163412; pending: 89
+2015-06-03 00:09:46  [ main:1163 ] - [ INFO ]  Full Fund ROI Calculation - complete:160211; pending: 88
+2015-06-03 00:09:46  [ main:1183 ] - [ INFO ]  Full Fund ROI Calculation - complete:166006; pending: 87
+2015-06-03 00:09:46  [ main:1214 ] - [ INFO ]  Full Fund ROI Calculation - complete:163302; pending: 86
+2015-06-03 00:09:46  [ main:1263 ] - [ INFO ]  Full Fund ROI Calculation - complete:161217; pending: 85
+2015-06-03 00:09:46  [ main:1284 ] - [ INFO ]  Full Fund ROI Calculation - complete:162207; pending: 84
+2015-06-03 00:09:46  [ main:1315 ] - [ INFO ]  Full Fund ROI Calculation - complete:165508; pending: 83
+2015-06-03 00:09:46  [ main:1364 ] - [ INFO ]  Full Fund ROI Calculation - complete:160805; pending: 82
+2015-06-03 00:09:46  [ main:1385 ] - [ INFO ]  Full Fund ROI Calculation - complete:162711; pending: 81
+2015-06-03 00:09:46  [ main:1415 ] - [ INFO ]  Full Fund ROI Calculation - complete:161810; pending: 80
+2015-06-03 00:09:46  [ main:1464 ] - [ INFO ]  Full Fund ROI Calculation - complete:162307; pending: 79
+2015-06-03 00:09:46  [ main:1483 ] - [ INFO ]  Full Fund ROI Calculation - complete:160616; pending: 78
+2015-06-03 00:09:46  [ main:1514 ] - [ INFO ]  Full Fund ROI Calculation - complete:160105; pending: 77
+2015-06-03 00:09:47  [ main:1564 ] - [ INFO ]  Full Fund ROI Calculation - complete:163409; pending: 76
+2015-06-03 00:09:47  [ main:1585 ] - [ INFO ]  Full Fund ROI Calculation - complete:161903; pending: 75
+2015-06-03 00:09:47  [ main:1614 ] - [ INFO ]  Full Fund ROI Calculation - complete:160212; pending: 74
+2015-06-03 00:09:47  [ main:1664 ] - [ INFO ]  Full Fund ROI Calculation - complete:165516; pending: 73
+2015-06-03 00:09:47  [ main:1687 ] - [ INFO ]  Full Fund ROI Calculation - complete:162006; pending: 72
+2015-06-03 00:09:47  [ main:1714 ] - [ INFO ]  Full Fund ROI Calculation - complete:163407; pending: 71
+2015-06-03 00:09:47  [ main:1763 ] - [ INFO ]  Full Fund ROI Calculation - complete:163415; pending: 70
+2015-06-03 00:09:47  [ main:1781 ] - [ INFO ]  Full Fund ROI Calculation - complete:160615; pending: 69
+2015-06-03 00:09:47  [ main:1812 ] - [ INFO ]  Full Fund ROI Calculation - complete:162510; pending: 68
+2015-06-03 00:09:47  [ main:1863 ] - [ INFO ]  Full Fund ROI Calculation - complete:160613; pending: 67
+2015-06-03 00:09:47  [ main:1885 ] - [ INFO ]  Full Fund ROI Calculation - complete:160215; pending: 66
+2015-06-03 00:09:47  [ main:1913 ] - [ INFO ]  Full Fund ROI Calculation - complete:161017; pending: 65
+2015-06-03 00:09:47  [ main:1963 ] - [ INFO ]  Full Fund ROI Calculation - complete:165309; pending: 64
+2015-06-03 00:09:47  [ main:2011 ] - [ INFO ]  Full Fund ROI Calculation - complete:161219; pending: 63
+2015-06-03 00:09:47  [ main:2031 ] - [ INFO ]  Full Fund ROI Calculation - complete:161907; pending: 62
+2015-06-03 00:09:47  [ main:2064 ] - [ INFO ]  Full Fund ROI Calculation - complete:167901; pending: 61
+2015-06-03 00:09:47  [ main:2114 ] - [ INFO ]  Full Fund ROI Calculation - complete:165512; pending: 60
+2015-06-03 00:09:47  [ main:2134 ] - [ INFO ]  Full Fund ROI Calculation - complete:160415; pending: 59
+2015-06-03 00:09:47  [ main:2163 ] - [ INFO ]  Full Fund ROI Calculation - complete:163110; pending: 58
+2015-06-03 00:09:47  [ main:2211 ] - [ INFO ]  Full Fund ROI Calculation - complete:160807; pending: 57
+2015-06-03 00:09:47  [ main:2239 ] - [ INFO ]  Full Fund ROI Calculation - complete:166007; pending: 56
+2015-06-03 00:09:47  [ main:2264 ] - [ INFO ]  Full Fund ROI Calculation - complete:161213; pending: 55
+2015-06-03 00:09:47  [ main:2311 ] - [ INFO ]  Full Fund ROI Calculation - complete:163821; pending: 54
+2015-06-03 00:09:47  [ main:2330 ] - [ INFO ]  Full Fund ROI Calculation - complete:165806; pending: 53
+2015-06-03 00:09:47  [ main:2363 ] - [ INFO ]  Full Fund ROI Calculation - complete:167701; pending: 52
+2015-06-03 00:09:47  [ main:2382 ] - [ INFO ]  Full Fund ROI Calculation - complete:166802; pending: 51
+2015-06-03 00:09:47  [ main:2414 ] - [ INFO ]  Full Fund ROI Calculation - complete:166005; pending: 50
+2015-06-03 00:09:47  [ main:2432 ] - [ INFO ]  Full Fund ROI Calculation - complete:166002; pending: 49
+2015-06-03 00:09:47  [ main:2462 ] - [ INFO ]  Full Fund ROI Calculation - complete:165707; pending: 48
+2015-06-03 00:09:47  [ main:2480 ] - [ INFO ]  Full Fund ROI Calculation - complete:165520; pending: 47
+2015-06-03 00:09:47  [ main:2511 ] - [ INFO ]  Full Fund ROI Calculation - complete:165519; pending: 46
+2015-06-03 00:09:47  [ main:2532 ] - [ INFO ]  Full Fund ROI Calculation - complete:165515; pending: 45
+2015-06-03 00:09:48  [ main:2562 ] - [ INFO ]  Full Fund ROI Calculation - complete:165511; pending: 44
+2015-06-03 00:09:48  [ main:2581 ] - [ INFO ]  Full Fund ROI Calculation - complete:165312; pending: 43
+2015-06-03 00:09:48  [ main:2612 ] - [ INFO ]  Full Fund ROI Calculation - complete:165310; pending: 42
+2015-06-03 00:09:48  [ main:2662 ] - [ INFO ]  Full Fund ROI Calculation - complete:164811; pending: 41
+2015-06-03 00:09:48  [ main:2681 ] - [ INFO ]  Full Fund ROI Calculation - complete:164809; pending: 40
+2015-06-03 00:09:48  [ main:2711 ] - [ INFO ]  Full Fund ROI Calculation - complete:163810; pending: 39
+2015-06-03 00:09:48  [ main:2729 ] - [ INFO ]  Full Fund ROI Calculation - complete:163809; pending: 38
+2015-06-03 00:09:48  [ main:2764 ] - [ INFO ]  Full Fund ROI Calculation - complete:163808; pending: 37
+2015-06-03 00:09:48  [ main:2784 ] - [ INFO ]  Full Fund ROI Calculation - complete:163807; pending: 36
+2015-06-03 00:09:48  [ main:2811 ] - [ INFO ]  Full Fund ROI Calculation - complete:163805; pending: 35
+2015-06-03 00:09:48  [ main:2831 ] - [ INFO ]  Full Fund ROI Calculation - complete:163804; pending: 34
+2015-06-03 00:09:48  [ main:2861 ] - [ INFO ]  Full Fund ROI Calculation - complete:163803; pending: 33
+2015-06-03 00:09:48  [ main:2881 ] - [ INFO ]  Full Fund ROI Calculation - complete:163406; pending: 32
+2015-06-03 00:09:48  [ main:2912 ] - [ INFO ]  Full Fund ROI Calculation - complete:163209; pending: 31
+2015-06-03 00:09:48  [ main:2930 ] - [ INFO ]  Full Fund ROI Calculation - complete:163111; pending: 30
+2015-06-03 00:09:48  [ main:2964 ] - [ INFO ]  Full Fund ROI Calculation - complete:163109; pending: 29
+2015-06-03 00:09:48  [ main:2985 ] - [ INFO ]  Full Fund ROI Calculation - complete:162907; pending: 28
+2015-06-03 00:09:48  [ main:3012 ] - [ INFO ]  Full Fund ROI Calculation - complete:162714; pending: 27
+2015-06-03 00:09:48  [ main:3029 ] - [ INFO ]  Full Fund ROI Calculation - complete:162509; pending: 26
+2015-06-03 00:09:48  [ main:3063 ] - [ INFO ]  Full Fund ROI Calculation - complete:162216; pending: 25
+2015-06-03 00:09:48  [ main:3083 ] - [ INFO ]  Full Fund ROI Calculation - complete:162107; pending: 24
+2015-06-03 00:09:48  [ main:3112 ] - [ INFO ]  Full Fund ROI Calculation - complete:162010; pending: 23
+2015-06-03 00:09:48  [ main:3130 ] - [ INFO ]  Full Fund ROI Calculation - complete:161910; pending: 22
+2015-06-03 00:09:48  [ main:3164 ] - [ INFO ]  Full Fund ROI Calculation - complete:161826; pending: 21
+2015-06-03 00:09:48  [ main:3182 ] - [ INFO ]  Full Fund ROI Calculation - complete:161819; pending: 20
+2015-06-03 00:09:48  [ main:3212 ] - [ INFO ]  Full Fund ROI Calculation - complete:161818; pending: 19
+2015-06-03 00:09:48  [ main:3261 ] - [ INFO ]  Full Fund ROI Calculation - complete:161816; pending: 18
+2015-06-03 00:09:48  [ main:3283 ] - [ INFO ]  Full Fund ROI Calculation - complete:161812; pending: 17
+2015-06-03 00:09:48  [ main:3311 ] - [ INFO ]  Full Fund ROI Calculation - complete:161811; pending: 16
+2015-06-03 00:09:48  [ main:3330 ] - [ INFO ]  Full Fund ROI Calculation - complete:161715; pending: 15
+2015-06-03 00:09:48  [ main:3361 ] - [ INFO ]  Full Fund ROI Calculation - complete:161507; pending: 14
+2015-06-03 00:09:48  [ main:3379 ] - [ INFO ]  Full Fund ROI Calculation - complete:161207; pending: 13
+2015-06-03 00:09:48  [ main:3413 ] - [ INFO ]  Full Fund ROI Calculation - complete:161118; pending: 12
+2015-06-03 00:09:48  [ main:3429 ] - [ INFO ]  Full Fund ROI Calculation - complete:160809; pending: 11
+2015-06-03 00:09:48  [ main:3462 ] - [ INFO ]  Full Fund ROI Calculation - complete:160808; pending: 10
+2015-06-03 00:09:48  [ main:3481 ] - [ INFO ]  Full Fund ROI Calculation - complete:160806; pending: 9
+2015-06-03 00:09:48  [ main:3513 ] - [ INFO ]  Full Fund ROI Calculation - complete:160620; pending: 8
+2015-06-03 00:09:48  [ main:3531 ] - [ INFO ]  Full Fund ROI Calculation - complete:160605; pending: 7
+2015-06-03 00:09:49  [ main:3563 ] - [ INFO ]  Full Fund ROI Calculation - complete:160603; pending: 6
+2015-06-03 00:09:49  [ main:3583 ] - [ INFO ]  Full Fund ROI Calculation - complete:160417; pending: 5
+2015-06-03 00:09:49  [ main:3612 ] - [ INFO ]  Full Fund ROI Calculation - complete:160219; pending: 4
+2015-06-03 00:09:49  [ main:3629 ] - [ INFO ]  Full Fund ROI Calculation - complete:160218; pending: 3
+2015-06-03 00:09:49  [ main:3662 ] - [ INFO ]  Full Fund ROI Calculation - complete:160127; pending: 2
+2015-06-03 00:09:49  [ main:3686 ] - [ INFO ]  Full Fund ROI Calculation - complete:160133; pending: 1
+2015-06-03 00:09:49  [ main:3711 ] - [ INFO ]  Full Fund ROI Calculation - complete:161224; pending: 0
+2015-06-03 00:09:49  [ main:3711 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：0% to 1%]: Win No:15,38.46153846153847%; Deal Pct:3.75%; Expectation: 0.014423076923076924
+2015-06-03 00:09:49  [ main:3712 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：0% to 1%]: Win No:18,46.15384615384615%; Deal Pct:3.75%; Expectation: 0.01730769230769231
+2015-06-03 00:09:49  [ main:3712 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：-1% to 0%]: Win No:19,29.230769230769234%; Deal Pct:6.25%; Expectation: 0.01826923076923077
+2015-06-03 00:09:49  [ main:3712 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：-1% to 0%]: Win No:27,41.53846153846154%; Deal Pct:6.25%; Expectation: 0.025961538461538463
+2015-06-03 00:09:49  [ main:3713 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：0% to 1%]: Win No:7,29.166666666666668%; Deal Pct:2.307692307692308%; Expectation: 0.006730769230769231
+2015-06-03 00:09:49  [ main:3713 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：0% to 1%]: Win No:7,29.166666666666668%; Deal Pct:2.307692307692308%; Expectation: 0.006730769230769231
+2015-06-03 00:09:49  [ main:3713 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：-1% to 0%]: Win No:9,18.367346938775512%; Deal Pct:4.711538461538462%; Expectation: 0.008653846153846154
+2015-06-03 00:09:49  [ main:3714 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：-1% to 0%]: Win No:14,28.57142857142857%; Deal Pct:4.711538461538462%; Expectation: 0.01346153846153846
+2015-06-03 00:09:49  [ main:3714 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：1% to 2%]: Win No:5,19.230769230769234%; Deal Pct:2.5%; Expectation: 0.004807692307692308
+2015-06-03 00:09:49  [ main:3714 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：1% to 2%]: Win No:5,19.230769230769234%; Deal Pct:2.5%; Expectation: 0.004807692307692308
+2015-06-03 00:09:49  [ main:3714 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：-2% to -1%]: Win No:8,22.857142857142858%; Deal Pct:3.3653846153846154%; Expectation: 0.007692307692307692
+2015-06-03 00:09:49  [ main:3714 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：-2% to -1%]: Win No:11,31.428571428571427%; Deal Pct:3.3653846153846154%; Expectation: 0.010576923076923076
+2015-06-03 00:09:49  [ main:3715 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：1% to 2%]: Win No:6,40.0%; Deal Pct:1.4423076923076923%; Expectation: 0.0057692307692307696
+2015-06-03 00:09:49  [ main:3715 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：1% to 2%]: Win No:2,13.333333333333334%; Deal Pct:1.4423076923076923%; Expectation: 0.0019230769230769232
+2015-06-03 00:09:49  [ main:3716 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：-2% to -1%]: Win No:11,10.0%; Deal Pct:10.576923076923077%; Expectation: 0.010576923076923078
+2015-06-03 00:09:49  [ main:3716 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：-2% to -1%]: Win No:28,25.454545454545453%; Deal Pct:10.576923076923077%; Expectation: 0.02692307692307692
+2015-06-03 00:09:49  [ main:3716 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：2% to 3%]: Win No:5,41.66666666666667%; Deal Pct:1.153846153846154%; Expectation: 0.004807692307692308
+2015-06-03 00:09:49  [ main:3717 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：2% to 3%]: Win No:2,16.666666666666664%; Deal Pct:1.153846153846154%; Expectation: 0.0019230769230769232
+2015-06-03 00:09:49  [ main:3717 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：-3% to -2%]: Win No:0,0.0%; Deal Pct:0.576923076923077%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3717 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：-3% to -2%]: Win No:0,0.0%; Deal Pct:0.576923076923077%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3718 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：2% to 3%]: Win No:3,42.857142857142854%; Deal Pct:0.6730769230769231%; Expectation: 0.0028846153846153848
+2015-06-03 00:09:49  [ main:3718 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：2% to 3%]: Win No:0,0.0%; Deal Pct:0.6730769230769231%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3718 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：-3% to -2%]: Win No:3,7.5%; Deal Pct:3.8461538461538463%; Expectation: 0.0028846153846153848
+2015-06-03 00:09:49  [ main:3718 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：-3% to -2%]: Win No:12,30.0%; Deal Pct:3.8461538461538463%; Expectation: 0.011538461538461539
+2015-06-03 00:09:49  [ main:3719 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：3% to 4%]: Win No:3,30.0%; Deal Pct:0.9615384615384616%; Expectation: 0.0028846153846153848
+2015-06-03 00:09:49  [ main:3719 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：3% to 4%]: Win No:2,20.0%; Deal Pct:0.9615384615384616%; Expectation: 0.0019230769230769232
+2015-06-03 00:09:49  [ main:3719 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：-4% to -3%]: Win No:0,0.0%; Deal Pct:0.09615384615384616%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3719 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：-4% to -3%]: Win No:0,0.0%; Deal Pct:0.09615384615384616%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3720 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：3% to 4%]: Win No:1,16.666666666666664%; Deal Pct:0.576923076923077%; Expectation: 9.615384615384616E-4
+2015-06-03 00:09:49  [ main:3720 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：3% to 4%]: Win No:0,0.0%; Deal Pct:0.576923076923077%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3720 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：-4% to -3%]: Win No:0,0.0%; Deal Pct:0.576923076923077%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3720 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：-4% to -3%]: Win No:2,33.33333333333333%; Deal Pct:0.576923076923077%; Expectation: 0.0019230769230769232
+2015-06-03 00:09:49  [ main:3720 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：4% to 5%]: Win No:7,53.84615384615385%; Deal Pct:1.25%; Expectation: 0.006730769230769231
+2015-06-03 00:09:49  [ main:3721 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：4% to 5%]: Win No:2,15.384615384615385%; Deal Pct:1.25%; Expectation: 0.0019230769230769232
+2015-06-03 00:09:49  [ main:3721 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：-5% to -4%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3721 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：-5% to -4%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3721 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：4% to 5%]: Win No:0,0.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3722 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：4% to 5%]: Win No:0,0.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3722 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：-5% to -4%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3722 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：-5% to -4%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3722 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：5% to 6%]: Win No:2,40.0%; Deal Pct:0.4807692307692308%; Expectation: 0.0019230769230769232
+2015-06-03 00:09:49  [ main:3722 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：5% to 6%]: Win No:0,0.0%; Deal Pct:0.4807692307692308%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3723 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：-6% to -5%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3723 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：-6% to -5%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3723 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：5% to 6%]: Win No:1,100.0%; Deal Pct:0.09615384615384616%; Expectation: 9.615384615384616E-4
+2015-06-03 00:09:49  [ main:3723 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：5% to 6%]: Win No:0,0.0%; Deal Pct:0.09615384615384616%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3723 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：-6% to -5%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3724 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：-6% to -5%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3724 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：6% to 7%]: Win No:4,80.0%; Deal Pct:0.4807692307692308%; Expectation: 0.0038461538461538464
+2015-06-03 00:09:49  [ main:3724 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：6% to 7%]: Win No:0,0.0%; Deal Pct:0.4807692307692308%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3724 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：-7% to -6%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3724 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：-7% to -6%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3724 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：6% to 7%]: Win No:0,0.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3725 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：6% to 7%]: Win No:0,0.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3725 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：-7% to -6%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3725 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：-7% to -6%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3725 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：7% to 8%]: Win No:3,100.0%; Deal Pct:0.2884615384615385%; Expectation: 0.0028846153846153848
+2015-06-03 00:09:49  [ main:3725 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：7% to 8%]: Win No:0,0.0%; Deal Pct:0.2884615384615385%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3726 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：-8% to -7%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3726 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：-8% to -7%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3726 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：7% to 8%]: Win No:0,0.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3726 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：7% to 8%]: Win No:0,0.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3726 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：-8% to -7%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3726 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：-8% to -7%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3727 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：8% to 9%]: Win No:2,100.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0019230769230769232
+2015-06-03 00:09:49  [ main:3727 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：8% to 9%]: Win No:0,0.0%; Deal Pct:0.19230769230769232%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3727 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：-9% to -8%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3727 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：-9% to -8%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3727 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：8% to 9%]: Win No:0,0.0%; Deal Pct:0.09615384615384616%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3727 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：8% to 9%]: Win No:0,0.0%; Deal Pct:0.09615384615384616%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3727 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：-9% to -8%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3727 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：-9% to -8%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3728 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：9% to 10%]: Win No:1,100.0%; Deal Pct:0.09615384615384616%; Expectation: 9.615384615384616E-4
+2015-06-03 00:09:49  [ main:3728 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：9% to 10%]: Win No:0,0.0%; Deal Pct:0.09615384615384616%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3728 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：-10% to -9%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3728 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：-10% to -9%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3728 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：9% to 10%]: Win No:1,100.0%; Deal Pct:0.09615384615384616%; Expectation: 9.615384615384616E-4
+2015-06-03 00:09:49  [ main:3728 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：9% to 10%]: Win No:0,0.0%; Deal Pct:0.09615384615384616%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3729 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：-10% to -9%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3729 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：-10% to -9%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3729 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：10% to 100%]: Win No:17,70.83333333333334%; Deal Pct:2.307692307692308%; Expectation: 0.016346153846153847
+2015-06-03 00:09:49  [ main:3729 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：10% to 100%]: Win No:0,0.0%; Deal Pct:2.307692307692308%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3729 ] - [ INFO ]  [A类套利 - 溢价率上升趋势 - 溢价率区间：-100% to -10%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3729 ] - [ INFO ]  [B类套利 - 溢价率上升趋势 - 溢价率区间：-100% to -10%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3729 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：10% to 100%]: Win No:1,14.285714285714285%; Deal Pct:0.6730769230769231%; Expectation: 9.615384615384616E-4
+2015-06-03 00:09:49  [ main:3730 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：10% to 100%]: Win No:0,0.0%; Deal Pct:0.6730769230769231%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3730 ] - [ INFO ]  [A类套利 - 溢价率下降趋势 - 溢价率区间：-100% to -10%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3730 ] - [ INFO ]  [B类套利 - 溢价率下降趋势 - 溢价率区间：-100% to -10%]: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-03 00:09:49  [ main:3732 ] - [ INFO ]  DB Connection Closed

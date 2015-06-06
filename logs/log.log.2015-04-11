@@ -1,0 +1,246 @@
+2015-04-11 00:02:25  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 00:02:29  [ main:3675 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150411
+2015-04-11 00:02:29  [ main:3678 ] - [ INFO ]  DB Connection Closed
+2015-04-11 13:28:52  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 13:28:53  [ main:951 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:53  [ main:977 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:54  [ main:1375 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:54  [ main:1392 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:54  [ main:1408 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:54  [ main:1427 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:54  [ main:1442 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:54  [ main:1456 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:54  [ main:1474 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:54  [ main:1489 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:54  [ main:1505 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:54  [ main:1521 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:54  [ main:1536 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:54  [ main:1552 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:54  [ main:1570 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2195 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2211 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2226 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2242 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2260 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2275 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2290 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2307 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2322 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2340 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2357 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2377 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2393 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2411 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2425 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2442 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2458 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2477 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2494 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2508 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2524 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2540 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2799 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2814 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2829 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2851 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2867 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2882 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2896 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2915 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:55  [ main:2930 ] - [ ERROR ]  Get Latest Capital from MySQL Exception
+2015-04-11 13:28:56  [ main:3149 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150411
+2015-04-11 13:28:56  [ main:3151 ] - [ INFO ]  DB Connection Closed
+2015-04-11 13:30:02  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 13:30:04  [ main:2481 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150411
+2015-04-11 13:30:04  [ main:2484 ] - [ INFO ]  DB Connection Closed
+2015-04-11 13:34:10  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 13:34:12  [ main:2594 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150411
+2015-04-11 13:34:12  [ main:2596 ] - [ INFO ]  DB Connection Closed
+2015-04-11 13:35:54  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 13:36:00  [ main:5776 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150411
+2015-04-11 13:36:00  [ main:5779 ] - [ INFO ]  DB Connection Closed
+2015-04-11 13:36:10  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 13:36:12  [ main:1787 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150411
+2015-04-11 13:36:12  [ main:1789 ] - [ INFO ]  DB Connection Closed
+2015-04-11 13:58:30  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 13:58:31  [ main:1017 ] - [ INFO ]  Daily Capital Processing:2015-04-08 completed; To be processed:3
+2015-04-11 13:58:32  [ main:1628 ] - [ INFO ]  Daily Capital Processing:2015-04-09 completed; To be processed:2
+2015-04-11 13:58:32  [ main:2019 ] - [ INFO ]  Daily Capital Processing:2015-04-10 completed; To be processed:1
+2015-04-11 13:58:32  [ main:2241 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150411
+2015-04-11 13:58:32  [ main:2242 ] - [ INFO ]  Daily Capital Processing:2015-04-11 completed; To be processed:0
+2015-04-11 13:58:32  [ main:2244 ] - [ INFO ]  DB Connection Closed
+2015-04-11 14:00:30  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 14:00:30  [ main:327 ] - [ INFO ]  Daily Capital Processing:2015-04-08-SZ300043 completed
+2015-04-11 14:00:30  [ main:428 ] - [ INFO ]  Daily Capital Processing:2015-04-08-SZ002494 completed
+2015-04-11 14:00:30  [ main:449 ] - [ INFO ]  Daily Capital Processing:2015-04-08-SZ002501 completed
+2015-04-11 14:00:30  [ main:464 ] - [ INFO ]  Daily Capital Processing:2015-04-08-SZ300115 completed
+2015-04-11 14:00:30  [ main:486 ] - [ INFO ]  Daily Capital Processing:2015-04-08-SZ300204 completed
+2015-04-11 14:00:30  [ main:521 ] - [ INFO ]  Daily Capital Processing:2015-04-08-SZ300328 completed
+2015-04-11 14:00:30  [ main:537 ] - [ INFO ]  Daily Capital Processing:2015-04-08-SZ300351 completed
+2015-04-11 14:00:30  [ main:554 ] - [ INFO ]  Daily Capital Processing:2015-04-08-SZ002717 completed
+2015-04-11 14:00:30  [ main:554 ] - [ INFO ]  Daily Capital Processing:2015-04-08 completed; To be processed:3
+2015-04-11 14:00:31  [ main:822 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ000589 completed
+2015-04-11 14:00:31  [ main:838 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ300043 completed
+2015-04-11 14:00:31  [ main:854 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ000597 completed
+2015-04-11 14:00:31  [ main:869 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ002162 completed
+2015-04-11 14:00:31  [ main:888 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ002237 completed
+2015-04-11 14:00:31  [ main:903 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ002268 completed
+2015-04-11 14:00:31  [ main:923 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ002494 completed
+2015-04-11 14:00:31  [ main:939 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ002501 completed
+2015-04-11 14:00:31  [ main:958 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ002595 completed
+2015-04-11 14:00:31  [ main:973 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ300015 completed
+2015-04-11 14:00:31  [ main:990 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ300088 completed
+2015-04-11 14:00:31  [ main:1008 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ300115 completed
+2015-04-11 14:00:31  [ main:1025 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ300139 completed
+2015-04-11 14:00:31  [ main:1044 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ300179 completed
+2015-04-11 14:00:31  [ main:1063 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ300180 completed
+2015-04-11 14:00:31  [ main:1079 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ300204 completed
+2015-04-11 14:00:31  [ main:1099 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ300224 completed
+2015-04-11 14:00:31  [ main:1120 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ300253 completed
+2015-04-11 14:00:31  [ main:1139 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ300328 completed
+2015-04-11 14:00:31  [ main:1156 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ002672 completed
+2015-04-11 14:00:31  [ main:1182 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ300351 completed
+2015-04-11 14:00:31  [ main:1201 ] - [ INFO ]  Daily Capital Processing:2015-04-09-SZ002717 completed
+2015-04-11 14:00:31  [ main:1202 ] - [ INFO ]  Daily Capital Processing:2015-04-09 completed; To be processed:2
+2015-04-11 14:00:31  [ main:1521 ] - [ INFO ]  Daily Capital Processing:2015-04-10-SZ000589 completed
+2015-04-11 14:00:31  [ main:1538 ] - [ INFO ]  Daily Capital Processing:2015-04-10-SZ002162 completed
+2015-04-11 14:00:31  [ main:1554 ] - [ INFO ]  Daily Capital Processing:2015-04-10-SZ002230 completed
+2015-04-11 14:00:31  [ main:1590 ] - [ INFO ]  Daily Capital Processing:2015-04-10-SZ002595 completed
+2015-04-11 14:00:31  [ main:1610 ] - [ INFO ]  Daily Capital Processing:2015-04-10-SZ300139 completed
+2015-04-11 14:00:31  [ main:1631 ] - [ INFO ]  Daily Capital Processing:2015-04-10-SZ300179 completed
+2015-04-11 14:00:31  [ main:1647 ] - [ INFO ]  Daily Capital Processing:2015-04-10-SZ300253 completed
+2015-04-11 14:00:31  [ main:1666 ] - [ INFO ]  Daily Capital Processing:2015-04-10-SZ300309 completed
+2015-04-11 14:00:31  [ main:1681 ] - [ INFO ]  Daily Capital Processing:2015-04-10-SZ002672 completed
+2015-04-11 14:00:31  [ main:1681 ] - [ INFO ]  Daily Capital Processing:2015-04-10 completed; To be processed:1
+2015-04-11 14:00:32  [ main:1900 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150411
+2015-04-11 14:00:32  [ main:1901 ] - [ INFO ]  Daily Capital Processing:2015-04-11 completed; To be processed:0
+2015-04-11 14:00:32  [ main:1902 ] - [ INFO ]  DB Connection Closed
+2015-04-11 14:00:59  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 14:00:59  [ main:414 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300043 completed
+2015-04-11 14:00:59  [ main:503 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ002494 completed
+2015-04-11 14:00:59  [ main:520 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ002501 completed
+2015-04-11 14:00:59  [ main:538 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300115 completed
+2015-04-11 14:00:59  [ main:552 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300204 completed
+2015-04-11 14:00:59  [ main:587 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300328 completed
+2015-04-11 14:00:59  [ main:602 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300351 completed
+2015-04-11 14:00:59  [ main:623 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ002717 completed
+2015-04-11 14:00:59  [ main:623 ] - [ INFO ]  Daily Capital Processing:2015-04-08 completed; To be processed:3
+2015-04-11 14:01:00  [ main:889 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ000589 completed
+2015-04-11 14:01:00  [ main:910 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300043 completed
+2015-04-11 14:01:00  [ main:926 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ000597 completed
+2015-04-11 14:01:00  [ main:949 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002162 completed
+2015-04-11 14:01:00  [ main:964 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002237 completed
+2015-04-11 14:01:00  [ main:982 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002268 completed
+2015-04-11 14:01:00  [ main:998 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002494 completed
+2015-04-11 14:01:00  [ main:1013 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002501 completed
+2015-04-11 14:01:00  [ main:1031 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002595 completed
+2015-04-11 14:01:00  [ main:1045 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300015 completed
+2015-04-11 14:01:00  [ main:1061 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300088 completed
+2015-04-11 14:01:00  [ main:1076 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300115 completed
+2015-04-11 14:01:00  [ main:1093 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300139 completed
+2015-04-11 14:01:00  [ main:1109 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300179 completed
+2015-04-11 14:01:00  [ main:1123 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300180 completed
+2015-04-11 14:01:00  [ main:1138 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300204 completed
+2015-04-11 14:01:00  [ main:1156 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300224 completed
+2015-04-11 14:01:00  [ main:1169 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300253 completed
+2015-04-11 14:01:00  [ main:1183 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300328 completed
+2015-04-11 14:01:00  [ main:1205 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002672 completed
+2015-04-11 14:01:00  [ main:1220 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300351 completed
+2015-04-11 14:01:00  [ main:1237 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002717 completed
+2015-04-11 14:01:00  [ main:1238 ] - [ INFO ]  Daily Capital Processing:2015-04-09 completed; To be processed:2
+2015-04-11 14:01:00  [ main:1492 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ000589 completed
+2015-04-11 14:01:00  [ main:1507 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ002162 completed
+2015-04-11 14:01:00  [ main:1524 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ002230 completed
+2015-04-11 14:01:00  [ main:1540 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ002595 completed
+2015-04-11 14:01:00  [ main:1554 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ300139 completed
+2015-04-11 14:01:00  [ main:1569 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ300179 completed
+2015-04-11 14:01:00  [ main:1584 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ300253 completed
+2015-04-11 14:01:00  [ main:1601 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ300309 completed
+2015-04-11 14:01:00  [ main:1620 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ002672 completed
+2015-04-11 14:01:00  [ main:1620 ] - [ INFO ]  Daily Capital Processing:2015-04-10 completed; To be processed:1
+2015-04-11 14:01:01  [ main:1833 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150411
+2015-04-11 14:01:01  [ main:1834 ] - [ INFO ]  Daily Capital Processing:2015-04-11 completed; To be processed:0
+2015-04-11 14:01:01  [ main:1835 ] - [ INFO ]  DB Connection Closed
+2015-04-11 14:01:22  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 14:01:22  [ main:290 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300043 completed
+2015-04-11 14:01:22  [ main:389 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ002494 completed
+2015-04-11 14:01:22  [ main:406 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ002501 completed
+2015-04-11 14:01:22  [ main:421 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300115 completed
+2015-04-11 14:01:22  [ main:436 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300204 completed
+2015-04-11 14:01:22  [ main:468 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300328 completed
+2015-04-11 14:01:22  [ main:482 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300351 completed
+2015-04-11 14:01:22  [ main:500 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ002717 completed
+2015-04-11 14:01:22  [ main:500 ] - [ INFO ]  Daily Capital Processing:2015-04-08 completed; To be processed date:3
+2015-04-11 14:01:22  [ main:753 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ000589 completed
+2015-04-11 14:01:22  [ main:767 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300043 completed
+2015-04-11 14:01:22  [ main:786 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ000597 completed
+2015-04-11 14:01:22  [ main:800 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002162 completed
+2015-04-11 14:01:22  [ main:815 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002237 completed
+2015-04-11 14:01:22  [ main:834 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002268 completed
+2015-04-11 14:01:22  [ main:851 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002494 completed
+2015-04-11 14:01:22  [ main:867 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002501 completed
+2015-04-11 14:01:22  [ main:884 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002595 completed
+2015-04-11 14:01:23  [ main:898 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300015 completed
+2015-04-11 14:01:23  [ main:918 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300088 completed
+2015-04-11 14:01:23  [ main:931 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300115 completed
+2015-04-11 14:01:23  [ main:947 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300139 completed
+2015-04-11 14:01:23  [ main:961 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300179 completed
+2015-04-11 14:01:23  [ main:975 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300180 completed
+2015-04-11 14:01:23  [ main:990 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300204 completed
+2015-04-11 14:01:23  [ main:1005 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300224 completed
+2015-04-11 14:01:23  [ main:1021 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300253 completed
+2015-04-11 14:01:23  [ main:1037 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300328 completed
+2015-04-11 14:01:23  [ main:1051 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002672 completed
+2015-04-11 14:01:23  [ main:1066 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300351 completed
+2015-04-11 14:01:23  [ main:1081 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002717 completed
+2015-04-11 14:01:23  [ main:1082 ] - [ INFO ]  Daily Capital Processing:2015-04-09 completed; To be processed date:2
+2015-04-11 14:01:23  [ main:1352 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ000589 completed
+2015-04-11 14:01:23  [ main:1368 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ002162 completed
+2015-04-11 14:01:23  [ main:1383 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ002230 completed
+2015-04-11 14:01:23  [ main:1400 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ002595 completed
+2015-04-11 14:01:23  [ main:1415 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ300139 completed
+2015-04-11 14:01:23  [ main:1430 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ300179 completed
+2015-04-11 14:01:23  [ main:1449 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ300253 completed
+2015-04-11 14:01:23  [ main:1465 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ300309 completed
+2015-04-11 14:01:23  [ main:1483 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ002672 completed
+2015-04-11 14:01:23  [ main:1490 ] - [ INFO ]  Daily Capital Processing:2015-04-10 completed; To be processed date:1
+2015-04-11 14:01:23  [ main:1708 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150411
+2015-04-11 14:01:23  [ main:1709 ] - [ INFO ]  Daily Capital Processing:2015-04-11 completed; To be processed date:0
+2015-04-11 14:01:23  [ main:1711 ] - [ INFO ]  DB Connection Closed
+2015-04-11 14:02:03  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 14:02:04  [ main:361 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300043 completed
+2015-04-11 14:02:04  [ main:557 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ002494 completed
+2015-04-11 14:02:04  [ main:607 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ002501 completed
+2015-04-11 14:02:04  [ main:652 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300115 completed
+2015-04-11 14:02:04  [ main:697 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300204 completed
+2015-04-11 14:02:04  [ main:779 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300328 completed
+2015-04-11 14:02:04  [ main:823 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ300351 completed
+2015-04-11 14:02:04  [ main:870 ] - [ INFO ]  Daily Capital Processing:2015-04-08:SZ002717 completed
+2015-04-11 14:02:04  [ main:870 ] - [ INFO ]  Daily Capital Processing:2015-04-08 completed; To be processed date:3
+2015-04-11 14:02:05  [ main:1192 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ000589 completed
+2015-04-11 14:02:05  [ main:1269 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ000597 completed
+2015-04-11 14:02:05  [ main:1314 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002162 completed
+2015-04-11 14:02:05  [ main:1359 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002237 completed
+2015-04-11 14:02:05  [ main:1402 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002268 completed
+2015-04-11 14:02:05  [ main:1504 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002595 completed
+2015-04-11 14:02:05  [ main:1553 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300015 completed
+2015-04-11 14:02:05  [ main:1596 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300088 completed
+2015-04-11 14:02:05  [ main:1667 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300139 completed
+2015-04-11 14:02:05  [ main:1712 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300179 completed
+2015-04-11 14:02:05  [ main:1754 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300180 completed
+2015-04-11 14:02:05  [ main:1917 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300224 completed
+2015-04-11 14:02:05  [ main:1961 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ300253 completed
+2015-04-11 14:02:05  [ main:2027 ] - [ INFO ]  Daily Capital Processing:2015-04-09:SZ002672 completed
+2015-04-11 14:02:05  [ main:2082 ] - [ INFO ]  Daily Capital Processing:2015-04-09 completed; To be processed date:2
+2015-04-11 14:02:06  [ main:2418 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ002230 completed
+2015-04-11 14:02:06  [ main:2574 ] - [ INFO ]  Daily Capital Processing:2015-04-10:SZ300309 completed
+2015-04-11 14:02:06  [ main:2604 ] - [ INFO ]  Daily Capital Processing:2015-04-10 completed; To be processed date:1
+2015-04-11 14:02:06  [ main:2812 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150411
+2015-04-11 14:02:06  [ main:2812 ] - [ INFO ]  Daily Capital Processing:2015-04-11 completed; To be processed date:0
+2015-04-11 14:02:06  [ main:2814 ] - [ INFO ]  DB Connection Closed
+2015-04-11 15:55:54  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 17:21:15  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 17:22:28  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 17:23:54  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 19:21:27  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-11 19:29:17  [ main:0 ] - [ ERROR ]  Capitabl CSV Reader Exception

@@ -1,0 +1,26 @@
+2015-04-10 21:29:22  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-10 22:09:18  [ main:0 ] - [ ERROR ]  Daily Capital Processing Exception
+2015-04-10 22:09:44  [ main:0 ] - [ ERROR ]  Daily Capital Processing Exception
+2015-04-10 22:10:40  [ main:0 ] - [ ERROR ]  Daily Capital Processing Exception
+2015-04-10 22:11:05  [ main:0 ] - [ ERROR ]  Daily Capital Processing Exception
+2015-04-10 22:11:59  [ main:0 ] - [ ERROR ]  Daily Capital Processing Exception
+2015-04-10 22:14:22  [ main:0 ] - [ ERROR ]  Daily Capital Processing Exception
+2015-04-10 22:14:48  [ main:0 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception
+2015-04-10 22:15:22  [ main:0 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception
+2015-04-10 22:31:24  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-10 22:31:24  [ main:2 ] - [ INFO ]  DB Connection Closed
+2015-04-10 23:40:14  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-10 23:40:14  [ main:39 ] - [ INFO ]  DB Connection Closed
+2015-04-10 23:41:06  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-10 23:41:06  [ main:22 ] - [ INFO ]  DB Connection Closed
+2015-04-10 23:44:02  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-10 23:44:04  [ main:2158 ] - [ INFO ]  DB Connection Closed
+2015-04-10 23:55:23  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-10 23:55:24  [ main:1645 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150408
+2015-04-10 23:55:24  [ main:1766 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150409
+2015-04-10 23:55:25  [ main:1881 ] - [ ERROR ]  FTP Capitabl CSV Reader Exception:20150410
+2015-04-10 23:55:25  [ main:1885 ] - [ INFO ]  DB Connection Closed
+2015-04-10 23:56:28  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-10 23:56:30  [ main:2211 ] - [ INFO ]  DB Connection Closed
+2015-04-10 23:57:17  [ main:0 ] - [ INFO ]  DB Connection created
+2015-04-10 23:57:19  [ main:2182 ] - [ INFO ]  DB Connection Closed

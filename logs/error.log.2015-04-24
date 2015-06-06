@@ -1,0 +1,1434 @@
+2015-04-24 00:43:11  [ main:23078 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23079 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23088 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23089 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23098 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23098 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23109 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23109 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23117 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23117 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23125 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23125 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23133 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23133 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23140 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23143 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23152 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23152 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23159 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23159 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23167 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23167 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23174 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23174 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23182 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23183 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23190 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23190 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23198 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23199 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23210 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23210 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23218 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23218 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23226 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23226 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23233 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23233 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23241 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23241 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23249 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23249 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23259 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23259 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23266 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23267 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23274 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23274 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23282 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23283 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23291 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23291 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23299 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23300 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23308 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23308 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23318 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23319 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23326 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23326 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23333 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23334 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23341 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23342 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23349 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23349 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23357 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23357 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23365 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23365 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23373 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23374 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23381 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23382 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23389 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23389 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23397 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23398 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23406 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23406 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23415 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23415 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23423 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23423 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23431 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23431 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23439 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23440 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23447 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23447 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23458 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23458 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23467 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23467 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23474 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23475 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23482 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23483 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23490 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23490 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23498 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23498 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23506 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23506 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23517 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23517 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23525 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23525 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23532 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23533 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23540 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23540 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23548 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23548 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23556 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23556 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23567 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23567 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23575 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23575 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23582 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23583 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23590 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23591 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23598 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23599 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23606 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23606 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23614 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23614 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23622 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23622 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23630 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23630 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23637 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23637 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23645 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23645 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23652 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23653 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:11  [ main:23677 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:11  [ main:23677 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23685 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23685 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23693 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23694 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23701 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23701 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23709 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23709 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23716 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23716 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23724 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23724 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23732 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23732 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23740 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23741 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23749 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23749 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23761 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23761 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23772 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23772 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23779 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23780 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23787 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23787 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23795 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23795 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23803 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23803 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23811 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23811 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23818 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23819 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23827 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23827 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23834 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23834 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23843 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23843 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23851 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23851 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23859 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23859 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23867 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23868 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23876 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23876 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23884 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23885 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23892 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23892 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23900 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23900 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23908 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23908 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23916 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23916 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23925 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23925 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23934 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23934 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23942 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23942 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23949 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23950 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23957 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23957 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23965 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23965 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23976 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23976 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23984 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23984 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23991 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23992 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:23999 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:23999 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24007 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24008 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24015 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24016 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24023 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24023 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24031 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24031 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24039 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24039 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24047 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24047 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24054 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24055 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24062 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24063 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24072 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24073 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24080 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24080 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24088 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24088 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24096 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24096 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24105 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24105 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24113 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24114 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24123 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24123 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24131 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24131 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24140 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24140 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24147 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24148 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24156 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24156 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24163 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24163 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24174 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24175 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24182 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24182 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24190 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24190 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24198 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24198 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24206 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24206 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24214 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24214 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24221 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24221 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24229 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24229 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24238 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24238 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24246 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24246 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24255 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24255 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24262 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24262 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24271 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24271 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24279 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24279 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24286 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24287 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24294 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24295 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24303 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24303 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24310 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24311 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24318 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24318 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24326 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24326 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24336 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24337 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24345 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24345 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24353 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24353 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24360 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24360 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24367 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24368 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24375 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24375 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24386 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24388 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24397 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24397 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24405 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24406 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24414 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24414 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24422 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24422 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24430 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24430 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24442 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24442 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24449 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24449 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24457 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24457 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24464 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24464 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24472 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24472 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24482 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24482 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24489 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24490 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24497 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24497 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24505 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24505 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24513 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24513 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24521 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24521 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24529 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24529 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24543 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24543 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24550 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24551 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24558 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24558 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24566 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24566 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24574 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24574 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24584 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24584 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24591 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24592 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24599 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24599 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24607 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24607 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24615 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24615 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24623 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24623 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24631 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24631 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24638 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24639 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24650 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24650 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24657 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24657 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24665 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24665 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:12  [ main:24673 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:12  [ main:24673 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24681 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24681 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24689 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24689 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24697 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24697 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24705 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24705 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24713 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24713 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24720 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24721 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24728 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24728 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24736 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24736 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24744 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24744 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24752 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24752 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24760 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24760 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24767 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24768 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24775 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24775 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24782 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24783 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24790 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24791 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24799 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24799 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24807 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24807 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24815 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24815 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24823 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24823 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24831 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24831 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24839 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24839 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24846 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24846 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24855 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24855 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24863 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24863 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24871 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24871 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24879 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24879 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24886 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24887 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24897 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24897 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24905 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24905 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24913 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24913 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24921 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24921 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24929 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24929 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24937 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24937 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24945 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24945 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24953 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24953 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24960 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24960 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24968 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24969 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24976 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24976 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24984 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24984 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:24994 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:24994 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25001 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25002 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25009 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25010 ] - [ ERROR ]  java.sql.SQLException: '-Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25017 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25017 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25025 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25025 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25033 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25033 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25041 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25041 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25053 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25053 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25060 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25060 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25068 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25068 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25076 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25080 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25087 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25087 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25096 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25096 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25104 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25105 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25112 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25112 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25119 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25120 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25127 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25128 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25135 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25136 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25143 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25143 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25151 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25151 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25162 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25162 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25170 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25170 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25177 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25177 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25184 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25184 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25192 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25193 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25200 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25201 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25209 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25209 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25217 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25217 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25225 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25225 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25233 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25233 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25240 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25241 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25248 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25248 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25256 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25256 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25265 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25265 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25272 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25272 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25280 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25280 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25288 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25288 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25296 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25296 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25307 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25307 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25314 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25315 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25323 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25323 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25331 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25331 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25338 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25339 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25346 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25346 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25354 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25354 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25362 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25362 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25370 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25370 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25377 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25378 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25386 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25386 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25393 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25394 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25403 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25404 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25411 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25411 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25419 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25419 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25427 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25427 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25434 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25435 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25442 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25442 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25449 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25450 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25458 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25459 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25469 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25469 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25477 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25477 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25485 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25485 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25493 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25493 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25500 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25500 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25508 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25508 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25515 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25516 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25524 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25524 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25531 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25532 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25539 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25539 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25547 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25547 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25555 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25555 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25565 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25565 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25572 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25572 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25580 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25580 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25587 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25588 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25595 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25595 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25603 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25603 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25615 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25615 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25622 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25623 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25630 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25631 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25637 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25638 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25645 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25645 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25652 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25653 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25660 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25660 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25668 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25668 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:13  [ main:25676 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:13  [ main:25676 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25684 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25684 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25691 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25692 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25699 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25699 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25710 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25711 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25718 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25718 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25726 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25726 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25734 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25734 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25741 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25742 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25749 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25749 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25762 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25762 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25770 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25770 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25778 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25778 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25785 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25786 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25793 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25793 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25801 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25801 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25809 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25809 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25820 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25820 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25828 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25829 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25836 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25837 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25844 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25844 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25852 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25854 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25861 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25861 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25872 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25872 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25880 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25881 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25888 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25889 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25896 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25897 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25905 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25905 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25915 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25915 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25923 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25923 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25931 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25932 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25939 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25939 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25946 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25946 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25954 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25954 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:43:14  [ main:25962 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:43:14  [ main:25962 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25177 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25177 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25185 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25186 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25195 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25195 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25203 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25203 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25211 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25211 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25219 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25219 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25227 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25227 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25235 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25237 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25245 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25245 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25253 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25253 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25260 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25261 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25268 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25268 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25277 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25277 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25285 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25285 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25301 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25301 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25310 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25310 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25317 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25317 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25324 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25325 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25332 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25332 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25340 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25340 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25348 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25348 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25356 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25356 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25364 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25364 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25372 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25372 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25379 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25380 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25387 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25387 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25400 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25400 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25407 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25407 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25415 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25415 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25423 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25423 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25430 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25431 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25438 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25439 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25446 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25446 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25455 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25455 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25462 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25462 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25470 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25470 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25478 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25478 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25485 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25486 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25495 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25495 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25503 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25503 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25510 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25511 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25518 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25519 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25527 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25527 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25535 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25535 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25543 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25543 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25551 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25551 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25558 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25559 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25566 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25566 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25573 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25573 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25581 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25581 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25589 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25589 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25597 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25597 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25604 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25605 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25612 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25613 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25620 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25620 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25628 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25628 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25635 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25636 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25643 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25643 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25651 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25651 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25660 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25660 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25667 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25667 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25675 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25675 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25682 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25683 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25690 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25691 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25698 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25698 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25707 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25707 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25714 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25714 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25721 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25721 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25729 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25729 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25737 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25737 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25744 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25745 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25752 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25753 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25762 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25762 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25769 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25769 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25776 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25777 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25784 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25785 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25792 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25792 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25800 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25800 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25811 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25811 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25819 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25820 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25827 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25828 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25835 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25835 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25843 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25843 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25850 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25851 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25858 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25858 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25866 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25866 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25874 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25874 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25882 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25882 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25889 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25890 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25899 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25899 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25907 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25907 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25915 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25915 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25923 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25923 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25931 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25931 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25938 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25939 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25946 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25947 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25954 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25955 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:42  [ main:25962 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:42  [ main:25962 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:25970 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:25970 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:25978 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:25978 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:25986 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:25986 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:25994 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:25994 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26002 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26002 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26009 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26010 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26018 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26018 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26026 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26026 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26033 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26033 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26041 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26041 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26048 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26049 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26056 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26056 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26063 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26064 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26071 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26071 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26079 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26079 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26086 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26086 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26094 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26094 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26102 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26102 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26109 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26110 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26117 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26117 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26125 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26125 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26132 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26133 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26140 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26140 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26148 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26148 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26155 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26155 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26163 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26163 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26171 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26172 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26179 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26179 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26186 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26186 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26194 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26194 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26202 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26202 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26210 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26210 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26217 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26217 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26227 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26227 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26235 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26235 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26242 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26243 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26250 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26251 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26258 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26258 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26266 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26266 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26274 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26274 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26282 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26282 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26289 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26290 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26297 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26298 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26305 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26306 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26313 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26314 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26323 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26323 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26330 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26330 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26338 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26338 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26346 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26346 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26354 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26354 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26361 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26361 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26369 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26369 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26377 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26377 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26385 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26385 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26392 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26393 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26400 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26401 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26408 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26408 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26416 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26416 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26425 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26425 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26434 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26434 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26442 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26442 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26449 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26450 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26457 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26457 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26465 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26465 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26473 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26473 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26481 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26481 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26489 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26489 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26497 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26497 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26504 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26505 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26513 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26513 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26520 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26521 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26530 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26530 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26538 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26538 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26546 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26546 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26553 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26553 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26560 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26561 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26568 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26568 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26576 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26576 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26584 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26584 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26592 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26592 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26599 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26599 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26606 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26606 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26614 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26614 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26621 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26621 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26630 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26630 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26637 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26637 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26645 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26645 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26652 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26653 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26660 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26660 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26668 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26668 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26676 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26676 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26683 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26684 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26691 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26691 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26699 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26699 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26707 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26707 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26715 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26715 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26722 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26723 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26732 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26733 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26740 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26740 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26748 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26748 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26756 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26756 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26763 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26764 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26771 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26771 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26779 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26779 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26787 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26787 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26795 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26795 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26802 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26803 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26810 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26811 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26820 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26820 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26828 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26828 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26837 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26837 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26845 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26845 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26853 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26853 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26861 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26861 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26868 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26869 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26877 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26877 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26884 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26884 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26895 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26895 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26903 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26903 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26910 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26911 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26919 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26919 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26926 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26927 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26934 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26935 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26944 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26944 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26951 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26952 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26959 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26959 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:43  [ main:26967 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:43  [ main:26967 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:26975 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:26975 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:26983 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:26983 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:26991 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:26991 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:26998 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:26999 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27006 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27006 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27013 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27014 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27021 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27021 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27030 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27030 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27039 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27039 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27047 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27047 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27055 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27055 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27063 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27064 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27071 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27071 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27078 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27079 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27087 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27087 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27094 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27094 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27101 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27101 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27109 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27110 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27118 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27118 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27127 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27127 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27134 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27135 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27142 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27142 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27150 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27150 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27158 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27158 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27166 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27166 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27173 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27174 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27181 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27182 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27189 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27189 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27197 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27197 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27205 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27205 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27212 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27212 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27219 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27220 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27229 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27230 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27237 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27237 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27245 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27245 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27253 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27253 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27261 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27261 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27268 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27268 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27275 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27276 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27284 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27284 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27291 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27291 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27301 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27302 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27309 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27309 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27316 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27317 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27324 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27324 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27332 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27333 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27340 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27341 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27349 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27349 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27356 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27357 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27364 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27365 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27372 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27372 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27380 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27380 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27388 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27388 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27396 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27396 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27403 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27403 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27411 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27411 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27419 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27419 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27427 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27427 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27435 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27435 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27443 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27443 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27454 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27455 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27462 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27462 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27470 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27470 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27478 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27478 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27486 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27486 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27494 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27494 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27503 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27503 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27510 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27511 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27518 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27519 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27526 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27526 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27534 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27534 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27542 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27542 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27551 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27551 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27559 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27559 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27566 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27566 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27574 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27574 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27581 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27581 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27589 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27589 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27596 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27597 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27605 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27605 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27613 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27613 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27621 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27621 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27629 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27629 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27638 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27639 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27647 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27647 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27656 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27657 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27664 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27664 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27671 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27672 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27682 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27682 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27689 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27689 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27697 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27697 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27707 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27707 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27715 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27715 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27722 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27723 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27731 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27731 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27738 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27739 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27746 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27746 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27755 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27755 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27763 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27763 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27771 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27771 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27778 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27778 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27786 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27786 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27794 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27794 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27801 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27802 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27810 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27810 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27817 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27817 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27825 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27825 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27833 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27833 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27841 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27841 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27850 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27850 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27857 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27858 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27865 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27865 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27873 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27873 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27881 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27881 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27889 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27889 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27897 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27897 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27905 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27905 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27912 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27912 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27920 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27920 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27928 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27928 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27936 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27936 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27943 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27943 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27951 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27951 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:44  [ main:27964 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:44  [ main:27964 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:27975 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:27975 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:27983 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:27983 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:27990 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:27991 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:27998 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:27998 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28006 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28006 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28015 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28015 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28025 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28026 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28034 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28034 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28041 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28042 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28049 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28049 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28057 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28057 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28066 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28066 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28074 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28074 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28082 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28082 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28090 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28090 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28098 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28098 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28106 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28106 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28117 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28117 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-04-24 00:49:45  [ main:28124 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-04-24 00:49:45  [ main:28125 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value

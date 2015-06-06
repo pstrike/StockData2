@@ -1,0 +1,2 @@
+2015-04-25 11:19:02  [ main:131 ] - [ ERROR ]  Get Highest MACD DIF from MySQL Exception
+2015-04-25 11:19:02  [ main:132 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1

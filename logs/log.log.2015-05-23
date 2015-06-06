@@ -1,0 +1,953 @@
+2015-05-23 15:58:16  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 16:01:07  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 16:08:50  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 16:08:51  [ main:1291 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 16:08:51  [ main:1292 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.2234 0.0024 0.20% 2015-05-22 15:00"
+2015-05-23 16:08:51  [ main:1644 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 16:08:51  [ main:1645 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "--- --- --- ---"
+2015-05-23 16:08:52  [ main:1819 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161610
+2015-05-23 16:08:52  [ main:1819 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.9549 0.0109 0.56% 2015-05-22 15:00"
+2015-05-23 16:08:52  [ main:1966 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160706
+2015-05-23 16:08:52  [ main:1967 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.3283 0.0282 2.17% 2015-05-22 15:00"
+2015-05-23 16:08:52  [ main:2219 ] - [ ERROR ]  Get Fund From TTJJ Exception: 162703
+2015-05-23 16:08:52  [ main:2219 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "3.9779 0.0439 1.12% 2015-05-22 15:00"
+2015-05-23 16:08:52  [ main:2404 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160505
+2015-05-23 16:08:52  [ main:2404 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "3.6267 0.1017 2.88% 2015-05-22 15:00"
+2015-05-23 16:08:52  [ main:2599 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160610
+2015-05-23 16:08:52  [ main:2600 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "2.1831 0.0241 1.12% 2015-05-22 15:00"
+2015-05-23 16:08:53  [ main:2770 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160916
+2015-05-23 16:08:53  [ main:2773 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "2.7185 0.0355 1.32% 2015-05-22 15:00"
+2015-05-23 16:08:53  [ main:2869 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160716
+2015-05-23 16:08:53  [ main:2869 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.4321 0.0447 3.22% 2015-05-22 15:00"
+2015-05-23 16:08:53  [ main:3127 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161706
+2015-05-23 16:08:53  [ main:3127 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "2.5555 0.0179 0.71% 2015-05-22 15:00"
+2015-05-23 16:08:53  [ main:3263 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160607
+2015-05-23 16:08:53  [ main:3263 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.3967 0.0377 2.77% 2015-05-22 15:00"
+2015-05-23 16:08:53  [ main:3403 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160512
+2015-05-23 16:08:53  [ main:3403 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "2.5915 0.0425 1.67% 2015-05-22 15:00"
+2015-05-23 16:08:53  [ main:3528 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160311
+2015-05-23 16:08:53  [ main:3529 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.7219 0.0379 2.25% 2015-05-22 15:00"
+2015-05-23 16:08:54  [ main:3753 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160119
+2015-05-23 16:08:54  [ main:3753 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "2.2586 0.0349 1.57% 2015-05-22 15:00"
+2015-05-23 16:09:10  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 16:12:08  [ main:178574 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 16:12:08  [ main:178574 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.2234 0.0024 0.20% 2015-05-22 15:00"
+2015-05-23 16:13:04  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 16:13:52  [ main:48100 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 16:13:52  [ main:48100 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 16:19:19  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 16:19:50  [ main:30235 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 16:19:50  [ main:30236 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 16:22:19  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 16:22:27  [ main:8285 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 16:22:27  [ main:8286 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 17:05:55  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 17:05:59  [ main:4192 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 17:05:59  [ main:4193 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 17:06:03  [ main:8251 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160216
+2015-05-23 17:06:03  [ main:8252 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 17:06:05  [ main:10270 ] - [ ERROR ]  Get Fund From TTJJ Exception: 164815
+2015-05-23 17:06:05  [ main:10270 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 17:12:49  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 17:12:51  [ main:1764 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 17:12:51  [ main:1764 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 17:17:52  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 17:17:54  [ main:1460 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 17:17:54  [ main:1460 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 17:22:05  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 17:26:16  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 17:26:19  [ main:2864 ] - [ ERROR ]  Regular Fund Data ETL Exception
+2015-05-23 17:26:19  [ main:2865 ] - [ ERROR ]  java.lang.NullPointerException
+2015-05-23 17:26:19  [ main:2867 ] - [ INFO ]  DB Connection Closed
+2015-05-23 17:29:56  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 17:37:57  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 17:38:38  [ main:41085 ] - [ INFO ]  DB Connection Closed
+2015-05-23 17:39:28  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 17:40:02  [ main:33368 ] - [ INFO ]  DB Connection Closed
+2015-05-23 18:06:48  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 18:07:28  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 18:10:51  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 18:15:36  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 18:16:53  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 18:17:37  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 18:28:14  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 18:28:19  [ main:5623 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 18:28:22  [ main:8385 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 18:28:23  [ main:9104 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 18:28:23  [ main:9819 ] - [ INFO ]  Regular Fund ETLL - complete:160706; pending: 115
+2015-05-23 18:28:25  [ main:11457 ] - [ INFO ]  Regular Fund ETLL - complete:162703; pending: 114
+2015-05-23 18:28:26  [ main:12379 ] - [ INFO ]  Regular Fund ETLL - complete:160505; pending: 113
+2015-05-23 18:28:27  [ main:13095 ] - [ INFO ]  Regular Fund ETLL - complete:160610; pending: 112
+2015-05-23 18:28:27  [ main:13812 ] - [ INFO ]  Regular Fund ETLL - complete:160916; pending: 111
+2015-05-23 18:28:28  [ main:14529 ] - [ INFO ]  Regular Fund ETLL - complete:160716; pending: 110
+2015-05-23 18:28:29  [ main:15246 ] - [ INFO ]  Regular Fund ETLL - complete:161706; pending: 109
+2015-05-23 18:28:30  [ main:15963 ] - [ INFO ]  Regular Fund ETLL - complete:160607; pending: 108
+2015-05-23 18:28:30  [ main:16679 ] - [ INFO ]  Regular Fund ETLL - complete:160512; pending: 107
+2015-05-23 18:28:31  [ main:17396 ] - [ INFO ]  Regular Fund ETLL - complete:160311; pending: 106
+2015-05-23 18:28:32  [ main:18063 ] - [ INFO ]  Regular Fund ETLL - complete:160119; pending: 105
+2015-05-23 18:28:34  [ main:20163 ] - [ INFO ]  Regular Fund ETLL - complete:160216; pending: 104
+2015-05-23 18:28:35  [ main:20878 ] - [ INFO ]  Regular Fund ETLL - complete:163503; pending: 103
+2015-05-23 18:28:35  [ main:21595 ] - [ INFO ]  Regular Fund ETLL - complete:162605; pending: 102
+2015-05-23 18:28:36  [ main:22255 ] - [ INFO ]  Regular Fund ETLL - complete:160314; pending: 101
+2015-05-23 18:28:37  [ main:23028 ] - [ INFO ]  Regular Fund ETLL - complete:163801; pending: 100
+2015-05-23 18:28:38  [ main:23848 ] - [ INFO ]  Regular Fund ETLL - complete:163402; pending: 99
+2015-05-23 18:28:38  [ main:24769 ] - [ INFO ]  Regular Fund ETLL - complete:162607; pending: 98
+2015-05-23 18:28:39  [ main:25691 ] - [ INFO ]  Regular Fund ETLL - complete:166011; pending: 97
+2015-05-23 18:28:42  [ main:28148 ] - [ INFO ]  Regular Fund ETLL - complete:164815; pending: 96
+2015-05-23 18:28:43  [ main:28918 ] - [ INFO ]  Regular Fund ETLL - complete:166009; pending: 95
+2015-05-23 18:28:43  [ main:29729 ] - [ INFO ]  Regular Fund ETLL - complete:161005; pending: 94
+2015-05-23 18:28:44  [ main:30606 ] - [ INFO ]  Regular Fund ETLL - complete:165313; pending: 93
+2015-05-23 18:28:45  [ main:31323 ] - [ INFO ]  Regular Fund ETLL - complete:160611; pending: 92
+2015-05-23 18:28:46  [ main:32040 ] - [ INFO ]  Regular Fund ETLL - complete:160106; pending: 91
+2015-05-23 18:28:47  [ main:32859 ] - [ INFO ]  Regular Fund ETLL - complete:161607; pending: 90
+2015-05-23 18:28:47  [ main:33576 ] - [ INFO ]  Regular Fund ETLL - complete:160910; pending: 89
+2015-05-23 18:28:49  [ main:34907 ] - [ INFO ]  Regular Fund ETLL - complete:166001; pending: 88
+2015-05-23 20:02:04  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 20:02:07  [ main:3192 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 20:02:09  [ main:5275 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 20:02:10  [ main:5992 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 20:02:11  [ main:6708 ] - [ INFO ]  Regular Fund ETLL - complete:160706; pending: 115
+2015-05-23 20:02:11  [ main:7308 ] - [ INFO ]  Regular Fund ETLL - complete:162703; pending: 114
+2015-05-23 20:02:12  [ main:8142 ] - [ INFO ]  Regular Fund ETLL - complete:160505; pending: 113
+2015-05-23 20:02:13  [ main:8859 ] - [ INFO ]  Regular Fund ETLL - complete:160610; pending: 112
+2015-05-23 20:02:14  [ main:9587 ] - [ INFO ]  Regular Fund ETLL - complete:160916; pending: 111
+2015-05-23 20:02:14  [ main:10292 ] - [ INFO ]  Regular Fund ETLL - complete:160716; pending: 110
+2015-05-23 20:02:15  [ main:11009 ] - [ INFO ]  Regular Fund ETLL - complete:161706; pending: 109
+2015-05-23 20:02:16  [ main:11726 ] - [ INFO ]  Regular Fund ETLL - complete:160607; pending: 108
+2015-05-23 20:02:16  [ main:12444 ] - [ INFO ]  Regular Fund ETLL - complete:160512; pending: 107
+2015-05-23 20:02:17  [ main:13080 ] - [ INFO ]  Regular Fund ETLL - complete:160311; pending: 106
+2015-05-23 20:02:18  [ main:13780 ] - [ INFO ]  Regular Fund ETLL - complete:160119; pending: 105
+2015-05-23 20:02:20  [ main:15490 ] - [ INFO ]  Regular Fund ETLL - complete:160216; pending: 104
+2015-05-23 20:02:20  [ main:16116 ] - [ INFO ]  Regular Fund ETLL - complete:163503; pending: 103
+2015-05-23 20:02:21  [ main:17006 ] - [ INFO ]  Regular Fund ETLL - complete:162605; pending: 102
+2015-05-23 20:02:22  [ main:17583 ] - [ INFO ]  Regular Fund ETLL - complete:160314; pending: 101
+2015-05-23 20:02:23  [ main:18750 ] - [ INFO ]  Regular Fund ETLL - complete:163801; pending: 100
+2015-05-23 20:02:23  [ main:19376 ] - [ INFO ]  Regular Fund ETLL - complete:163402; pending: 99
+2015-05-23 20:02:24  [ main:20026 ] - [ INFO ]  Regular Fund ETLL - complete:162607; pending: 98
+2015-05-23 20:02:25  [ main:20670 ] - [ INFO ]  Regular Fund ETLL - complete:166011; pending: 97
+2015-05-23 20:02:26  [ main:22273 ] - [ INFO ]  Regular Fund ETLL - complete:164815; pending: 96
+2015-05-23 20:02:27  [ main:22990 ] - [ INFO ]  Regular Fund ETLL - complete:166009; pending: 95
+2015-05-23 20:02:28  [ main:23707 ] - [ INFO ]  Regular Fund ETLL - complete:161005; pending: 94
+2015-05-23 20:02:28  [ main:24424 ] - [ INFO ]  Regular Fund ETLL - complete:165313; pending: 93
+2015-05-23 20:02:29  [ main:25448 ] - [ INFO ]  Regular Fund ETLL - complete:160611; pending: 92
+2015-05-23 20:02:30  [ main:26193 ] - [ INFO ]  Regular Fund ETLL - complete:160106; pending: 91
+2015-05-23 20:02:31  [ main:27091 ] - [ INFO ]  Regular Fund ETLL - complete:161607; pending: 90
+2015-05-23 20:02:32  [ main:27803 ] - [ INFO ]  Regular Fund ETLL - complete:160910; pending: 89
+2015-05-23 20:02:33  [ main:28520 ] - [ INFO ]  Regular Fund ETLL - complete:166001; pending: 88
+2015-05-23 20:02:33  [ main:29237 ] - [ INFO ]  Regular Fund ETLL - complete:163412; pending: 87
+2015-05-23 20:02:34  [ main:29953 ] - [ INFO ]  Regular Fund ETLL - complete:160211; pending: 86
+2015-05-23 20:02:35  [ main:30670 ] - [ INFO ]  Regular Fund ETLL - complete:166006; pending: 85
+2015-05-23 20:02:35  [ main:31392 ] - [ INFO ]  Regular Fund ETLL - complete:163302; pending: 84
+2015-05-23 20:02:36  [ main:32110 ] - [ INFO ]  Regular Fund ETLL - complete:161217; pending: 83
+2015-05-23 20:02:37  [ main:32821 ] - [ INFO ]  Regular Fund ETLL - complete:162207; pending: 82
+2015-05-23 20:02:38  [ main:33486 ] - [ INFO ]  Regular Fund ETLL - complete:165508; pending: 81
+2015-05-23 20:02:38  [ main:34118 ] - [ INFO ]  Regular Fund ETLL - complete:160805; pending: 80
+2015-05-23 20:02:39  [ main:34728 ] - [ INFO ]  Regular Fund ETLL - complete:162711; pending: 79
+2015-05-23 20:02:39  [ main:35403 ] - [ INFO ]  Regular Fund ETLL - complete:161810; pending: 78
+2015-05-23 20:02:40  [ main:36052 ] - [ INFO ]  Regular Fund ETLL - complete:162307; pending: 77
+2015-05-23 20:02:41  [ main:36722 ] - [ INFO ]  Regular Fund ETLL - complete:160616; pending: 76
+2015-05-23 20:02:41  [ main:37411 ] - [ INFO ]  Regular Fund ETLL - complete:160105; pending: 75
+2015-05-23 20:02:42  [ main:38149 ] - [ INFO ]  Regular Fund ETLL - complete:163409; pending: 74
+2015-05-23 20:02:43  [ main:38863 ] - [ INFO ]  Regular Fund ETLL - complete:161903; pending: 73
+2015-05-23 20:02:44  [ main:39556 ] - [ INFO ]  Regular Fund ETLL - complete:160212; pending: 72
+2015-05-23 20:02:44  [ main:40194 ] - [ INFO ]  Regular Fund ETLL - complete:165516; pending: 71
+2015-05-23 20:02:45  [ main:40818 ] - [ INFO ]  Regular Fund ETLL - complete:162006; pending: 70
+2015-05-23 20:02:46  [ main:41527 ] - [ INFO ]  Regular Fund ETLL - complete:163407; pending: 69
+2015-05-23 20:02:46  [ main:42242 ] - [ INFO ]  Regular Fund ETLL - complete:163415; pending: 68
+2015-05-23 20:02:47  [ main:43064 ] - [ INFO ]  Regular Fund ETLL - complete:160615; pending: 67
+2015-05-23 20:02:49  [ main:44610 ] - [ INFO ]  Regular Fund ETLL - complete:162510; pending: 66
+2015-05-23 20:02:50  [ main:45523 ] - [ INFO ]  Regular Fund ETLL - complete:160613; pending: 65
+2015-05-23 20:02:50  [ main:46134 ] - [ INFO ]  Regular Fund ETLL - complete:160215; pending: 64
+2015-05-23 20:02:51  [ main:46850 ] - [ INFO ]  Regular Fund ETLL - complete:161017; pending: 63
+2015-05-23 20:02:52  [ main:47559 ] - [ INFO ]  Regular Fund ETLL - complete:165309; pending: 62
+2015-05-23 20:02:52  [ main:48285 ] - [ INFO ]  Regular Fund ETLL - complete:161219; pending: 61
+2015-05-23 20:02:53  [ main:49104 ] - [ INFO ]  Regular Fund ETLL - complete:161907; pending: 60
+2015-05-23 20:02:54  [ main:50111 ] - [ INFO ]  Regular Fund ETLL - complete:167901; pending: 59
+2015-05-23 20:02:55  [ main:51256 ] - [ INFO ]  Regular Fund ETLL - complete:165512; pending: 58
+2015-05-23 20:02:56  [ main:51970 ] - [ INFO ]  Regular Fund ETLL - complete:160415; pending: 57
+2015-05-23 20:02:57  [ main:52627 ] - [ INFO ]  Regular Fund ETLL - complete:163110; pending: 56
+2015-05-23 20:02:57  [ main:53302 ] - [ INFO ]  Regular Fund ETLL - complete:160807; pending: 55
+2015-05-23 20:02:58  [ main:54019 ] - [ INFO ]  Regular Fund ETLL - complete:166007; pending: 54
+2015-05-23 20:02:59  [ main:55301 ] - [ INFO ]  Regular Fund ETLL - complete:161213; pending: 53
+2015-05-23 20:03:00  [ main:55969 ] - [ INFO ]  Regular Fund ETLL - complete:163821; pending: 52
+2015-05-23 20:03:01  [ main:56682 ] - [ INFO ]  Regular Fund ETLL - complete:165806; pending: 51
+2015-05-23 20:03:01  [ main:57398 ] - [ INFO ]  Regular Fund ETLL - complete:167701; pending: 50
+2015-05-23 20:03:02  [ main:58217 ] - [ INFO ]  Regular Fund ETLL - complete:166802; pending: 49
+2015-05-23 20:03:03  [ main:58934 ] - [ INFO ]  Regular Fund ETLL - complete:166005; pending: 48
+2015-05-23 20:03:04  [ main:59856 ] - [ INFO ]  Regular Fund ETLL - complete:166002; pending: 47
+2015-05-23 20:03:05  [ main:60573 ] - [ INFO ]  Regular Fund ETLL - complete:165707; pending: 46
+2015-05-23 20:03:05  [ main:61187 ] - [ INFO ]  Regular Fund ETLL - complete:165520; pending: 45
+2015-05-23 20:03:06  [ main:61904 ] - [ INFO ]  Regular Fund ETLL - complete:165519; pending: 44
+2015-05-23 20:03:07  [ main:62575 ] - [ INFO ]  Regular Fund ETLL - complete:165515; pending: 43
+2015-05-23 20:03:07  [ main:63235 ] - [ INFO ]  Regular Fund ETLL - complete:165511; pending: 42
+2015-05-23 20:03:08  [ main:63952 ] - [ INFO ]  Regular Fund ETLL - complete:165312; pending: 41
+2015-05-23 20:03:09  [ main:64668 ] - [ INFO ]  Regular Fund ETLL - complete:165310; pending: 40
+2015-05-23 20:03:09  [ main:65386 ] - [ INFO ]  Regular Fund ETLL - complete:164811; pending: 39
+2015-05-23 20:03:10  [ main:66107 ] - [ INFO ]  Regular Fund ETLL - complete:164809; pending: 38
+2015-05-23 20:03:11  [ main:67128 ] - [ INFO ]  Regular Fund ETLL - complete:163810; pending: 37
+2015-05-23 20:03:13  [ main:68868 ] - [ INFO ]  Regular Fund ETLL - complete:163809; pending: 36
+2015-05-23 20:03:14  [ main:69588 ] - [ INFO ]  Regular Fund ETLL - complete:163808; pending: 35
+2015-05-23 20:03:15  [ main:71328 ] - [ INFO ]  Regular Fund ETLL - complete:163807; pending: 34
+2015-05-23 20:03:16  [ main:72351 ] - [ INFO ]  Regular Fund ETLL - complete:163805; pending: 33
+2015-05-23 20:03:17  [ main:72963 ] - [ INFO ]  Regular Fund ETLL - complete:163804; pending: 32
+2015-05-23 20:03:18  [ main:73578 ] - [ INFO ]  Regular Fund ETLL - complete:163803; pending: 31
+2015-05-23 20:03:18  [ main:74294 ] - [ INFO ]  Regular Fund ETLL - complete:163406; pending: 30
+2015-05-23 20:03:19  [ main:74905 ] - [ INFO ]  Regular Fund ETLL - complete:163209; pending: 29
+2015-05-23 20:03:20  [ main:76240 ] - [ INFO ]  Regular Fund ETLL - complete:163111; pending: 28
+2015-05-23 20:03:21  [ main:76854 ] - [ INFO ]  Regular Fund ETLL - complete:163109; pending: 27
+2015-05-23 20:03:22  [ main:77468 ] - [ INFO ]  Regular Fund ETLL - complete:162907; pending: 26
+2015-05-23 20:03:22  [ main:78167 ] - [ INFO ]  Regular Fund ETLL - complete:162714; pending: 25
+2015-05-23 20:03:23  [ main:78800 ] - [ INFO ]  Regular Fund ETLL - complete:162509; pending: 24
+2015-05-23 20:03:24  [ main:79517 ] - [ INFO ]  Regular Fund ETLL - complete:162216; pending: 23
+2015-05-23 20:03:24  [ main:80234 ] - [ INFO ]  Regular Fund ETLL - complete:162107; pending: 22
+2015-05-23 20:03:25  [ main:81053 ] - [ INFO ]  Regular Fund ETLL - complete:162010; pending: 21
+2015-05-23 20:03:26  [ main:82384 ] - [ INFO ]  Regular Fund ETLL - complete:161910; pending: 20
+2015-05-23 20:03:27  [ main:83101 ] - [ INFO ]  Regular Fund ETLL - complete:161826; pending: 19
+2015-05-23 20:03:28  [ main:84023 ] - [ INFO ]  Regular Fund ETLL - complete:161819; pending: 18
+2015-05-23 20:03:29  [ main:84729 ] - [ INFO ]  Regular Fund ETLL - complete:161818; pending: 17
+2015-05-23 20:03:29  [ main:85340 ] - [ INFO ]  Regular Fund ETLL - complete:161816; pending: 16
+2015-05-23 20:03:30  [ main:86075 ] - [ INFO ]  Regular Fund ETLL - complete:161812; pending: 15
+2015-05-23 20:03:31  [ main:86788 ] - [ INFO ]  Regular Fund ETLL - complete:161811; pending: 14
+2015-05-23 20:03:32  [ main:87505 ] - [ INFO ]  Regular Fund ETLL - complete:161715; pending: 13
+2015-05-23 20:03:32  [ main:88426 ] - [ INFO ]  Regular Fund ETLL - complete:161507; pending: 12
+2015-05-23 20:03:33  [ main:89409 ] - [ INFO ]  Regular Fund ETLL - complete:161207; pending: 11
+2015-05-23 20:03:34  [ main:90069 ] - [ INFO ]  Regular Fund ETLL - complete:161118; pending: 10
+2015-05-23 20:03:35  [ main:90782 ] - [ INFO ]  Regular Fund ETLL - complete:160809; pending: 9
+2015-05-23 20:03:36  [ main:91805 ] - [ INFO ]  Regular Fund ETLL - complete:160808; pending: 8
+2015-05-23 20:03:37  [ main:92522 ] - [ INFO ]  Regular Fund ETLL - complete:160806; pending: 7
+2015-05-23 20:03:37  [ main:93238 ] - [ INFO ]  Regular Fund ETLL - complete:160620; pending: 6
+2015-05-23 20:03:38  [ main:93955 ] - [ INFO ]  Regular Fund ETLL - complete:160605; pending: 5
+2015-05-23 20:03:39  [ main:94672 ] - [ INFO ]  Regular Fund ETLL - complete:160603; pending: 4
+2015-05-23 20:03:40  [ main:95594 ] - [ INFO ]  Regular Fund ETLL - complete:160417; pending: 3
+2015-05-23 20:03:40  [ main:96310 ] - [ INFO ]  Regular Fund ETLL - complete:160219; pending: 2
+2015-05-23 20:03:41  [ main:96925 ] - [ INFO ]  Regular Fund ETLL - complete:160218; pending: 1
+2015-05-23 20:03:42  [ main:97643 ] - [ INFO ]  Regular Fund ETLL - complete:160127; pending: 0
+2015-05-23 20:03:42  [ main:97645 ] - [ INFO ]  DB Connection Closed
+2015-05-23 20:14:12  [ main:1 ] - [ INFO ]  DB Connection created
+2015-05-23 20:14:14  [ main:2382 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 20:14:16  [ main:4316 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 20:14:17  [ main:5048 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 20:14:17  [ main:5657 ] - [ INFO ]  Regular Fund ETLL - complete:160706; pending: 115
+2015-05-23 20:14:18  [ main:6362 ] - [ INFO ]  Regular Fund ETLL - complete:162703; pending: 114
+2015-05-23 20:14:19  [ main:7079 ] - [ INFO ]  Regular Fund ETLL - complete:160505; pending: 113
+2015-05-23 20:14:19  [ main:7720 ] - [ INFO ]  Regular Fund ETLL - complete:160610; pending: 112
+2015-05-23 20:14:20  [ main:8410 ] - [ INFO ]  Regular Fund ETLL - complete:160916; pending: 111
+2015-05-23 20:14:21  [ main:9022 ] - [ INFO ]  Regular Fund ETLL - complete:160716; pending: 110
+2015-05-23 20:14:21  [ main:9640 ] - [ INFO ]  Regular Fund ETLL - complete:161706; pending: 109
+2015-05-23 20:14:22  [ main:10356 ] - [ INFO ]  Regular Fund ETLL - complete:160607; pending: 108
+2015-05-23 20:14:23  [ main:11078 ] - [ INFO ]  Regular Fund ETLL - complete:160512; pending: 107
+2015-05-23 20:14:24  [ main:11893 ] - [ INFO ]  Regular Fund ETLL - complete:160311; pending: 106
+2015-05-23 20:14:24  [ main:12609 ] - [ INFO ]  Regular Fund ETLL - complete:160119; pending: 105
+2015-05-23 20:14:26  [ main:14456 ] - [ INFO ]  Regular Fund ETLL - complete:160216; pending: 104
+2015-05-23 20:14:27  [ main:15153 ] - [ INFO ]  Regular Fund ETLL - complete:163503; pending: 103
+2015-05-23 20:14:28  [ main:16502 ] - [ INFO ]  Regular Fund ETLL - complete:162605; pending: 102
+2015-05-23 20:14:29  [ main:17217 ] - [ INFO ]  Regular Fund ETLL - complete:160314; pending: 101
+2015-05-23 20:14:30  [ main:17934 ] - [ INFO ]  Regular Fund ETLL - complete:163801; pending: 100
+2015-05-23 20:14:30  [ main:18591 ] - [ INFO ]  Regular Fund ETLL - complete:163402; pending: 99
+2015-05-23 20:14:31  [ main:19265 ] - [ INFO ]  Regular Fund ETLL - complete:162607; pending: 98
+2015-05-23 20:14:32  [ main:20085 ] - [ INFO ]  Regular Fund ETLL - complete:166011; pending: 97
+2015-05-23 20:14:33  [ main:21621 ] - [ INFO ]  Regular Fund ETLL - complete:164815; pending: 96
+2015-05-23 20:14:34  [ main:22440 ] - [ INFO ]  Regular Fund ETLL - complete:166009; pending: 95
+2015-05-23 20:14:35  [ main:23157 ] - [ INFO ]  Regular Fund ETLL - complete:161005; pending: 94
+2015-05-23 20:14:36  [ main:23878 ] - [ INFO ]  Regular Fund ETLL - complete:165313; pending: 93
+2015-05-23 20:14:36  [ main:24516 ] - [ INFO ]  Regular Fund ETLL - complete:160611; pending: 92
+2015-05-23 20:14:37  [ main:25307 ] - [ INFO ]  Regular Fund ETLL - complete:160106; pending: 91
+2015-05-23 20:14:38  [ main:26129 ] - [ INFO ]  Regular Fund ETLL - complete:161607; pending: 90
+2015-05-23 20:14:39  [ main:26843 ] - [ INFO ]  Regular Fund ETLL - complete:160910; pending: 89
+2015-05-23 20:14:40  [ main:27867 ] - [ INFO ]  Regular Fund ETLL - complete:166001; pending: 88
+2015-05-23 20:14:40  [ main:28584 ] - [ INFO ]  Regular Fund ETLL - complete:163412; pending: 87
+2015-05-23 20:14:41  [ main:29301 ] - [ INFO ]  Regular Fund ETLL - complete:160211; pending: 86
+2015-05-23 20:14:42  [ main:29915 ] - [ INFO ]  Regular Fund ETLL - complete:166006; pending: 85
+2015-05-23 20:14:42  [ main:30635 ] - [ INFO ]  Regular Fund ETLL - complete:163302; pending: 84
+2015-05-23 20:14:43  [ main:31246 ] - [ INFO ]  Regular Fund ETLL - complete:161217; pending: 83
+2015-05-23 20:14:44  [ main:31964 ] - [ INFO ]  Regular Fund ETLL - complete:162207; pending: 82
+2015-05-23 20:14:44  [ main:32609 ] - [ INFO ]  Regular Fund ETLL - complete:165508; pending: 81
+2015-05-23 20:14:45  [ main:33294 ] - [ INFO ]  Regular Fund ETLL - complete:160805; pending: 80
+2015-05-23 20:14:46  [ main:33889 ] - [ INFO ]  Regular Fund ETLL - complete:162711; pending: 79
+2015-05-23 20:14:46  [ main:34523 ] - [ INFO ]  Regular Fund ETLL - complete:161810; pending: 78
+2015-05-23 20:14:47  [ main:35547 ] - [ INFO ]  Regular Fund ETLL - complete:162307; pending: 77
+2015-05-23 20:14:48  [ main:36162 ] - [ INFO ]  Regular Fund ETLL - complete:160616; pending: 76
+2015-05-23 20:14:49  [ main:36879 ] - [ INFO ]  Regular Fund ETLL - complete:160105; pending: 75
+2015-05-23 20:14:49  [ main:37494 ] - [ INFO ]  Regular Fund ETLL - complete:163409; pending: 74
+2015-05-23 20:14:50  [ main:38210 ] - [ INFO ]  Regular Fund ETLL - complete:161903; pending: 73
+2015-05-23 20:14:51  [ main:39029 ] - [ INFO ]  Regular Fund ETLL - complete:160212; pending: 72
+2015-05-23 20:14:52  [ main:39747 ] - [ INFO ]  Regular Fund ETLL - complete:165516; pending: 71
+2015-05-23 20:14:52  [ main:40669 ] - [ INFO ]  Regular Fund ETLL - complete:162006; pending: 70
+2015-05-23 20:14:53  [ main:41386 ] - [ INFO ]  Regular Fund ETLL - complete:163407; pending: 69
+2015-05-23 20:14:54  [ main:42009 ] - [ INFO ]  Regular Fund ETLL - complete:163415; pending: 68
+2015-05-23 20:14:54  [ main:42716 ] - [ INFO ]  Regular Fund ETLL - complete:160615; pending: 67
+2015-05-23 20:14:55  [ main:43644 ] - [ INFO ]  Regular Fund ETLL - complete:162510; pending: 66
+2015-05-23 20:14:56  [ main:44354 ] - [ INFO ]  Regular Fund ETLL - complete:160613; pending: 65
+2015-05-23 20:14:57  [ main:44965 ] - [ INFO ]  Regular Fund ETLL - complete:160215; pending: 64
+2015-05-23 20:14:57  [ main:45686 ] - [ INFO ]  Regular Fund ETLL - complete:161017; pending: 63
+2015-05-23 20:14:58  [ main:46402 ] - [ INFO ]  Regular Fund ETLL - complete:165309; pending: 62
+2015-05-23 20:14:59  [ main:47120 ] - [ INFO ]  Regular Fund ETLL - complete:161219; pending: 61
+2015-05-23 20:15:00  [ main:47836 ] - [ INFO ]  Regular Fund ETLL - complete:161907; pending: 60
+2015-05-23 20:15:01  [ main:49167 ] - [ INFO ]  Regular Fund ETLL - complete:167901; pending: 59
+2015-05-23 20:15:02  [ main:49987 ] - [ INFO ]  Regular Fund ETLL - complete:165512; pending: 58
+2015-05-23 20:15:03  [ main:51318 ] - [ INFO ]  Regular Fund ETLL - complete:160415; pending: 57
+2015-05-23 20:15:04  [ main:52035 ] - [ INFO ]  Regular Fund ETLL - complete:163110; pending: 56
+2015-05-23 20:15:05  [ main:52751 ] - [ INFO ]  Regular Fund ETLL - complete:160807; pending: 55
+2015-05-23 20:15:05  [ main:53468 ] - [ INFO ]  Regular Fund ETLL - complete:166007; pending: 54
+2015-05-23 20:15:06  [ main:54186 ] - [ INFO ]  Regular Fund ETLL - complete:161213; pending: 53
+2015-05-23 20:15:07  [ main:54901 ] - [ INFO ]  Regular Fund ETLL - complete:163821; pending: 52
+2015-05-23 20:15:07  [ main:55725 ] - [ INFO ]  Regular Fund ETLL - complete:165806; pending: 51
+2015-05-23 20:15:08  [ main:56438 ] - [ INFO ]  Regular Fund ETLL - complete:167701; pending: 50
+2015-05-23 20:15:09  [ main:57089 ] - [ INFO ]  Regular Fund ETLL - complete:166802; pending: 49
+2015-05-23 20:15:10  [ main:57871 ] - [ INFO ]  Regular Fund ETLL - complete:166005; pending: 48
+2015-05-23 20:15:10  [ main:58588 ] - [ INFO ]  Regular Fund ETLL - complete:166002; pending: 47
+2015-05-23 20:15:11  [ main:59407 ] - [ INFO ]  Regular Fund ETLL - complete:165707; pending: 46
+2015-05-23 20:15:12  [ main:60022 ] - [ INFO ]  Regular Fund ETLL - complete:165520; pending: 45
+2015-05-23 20:15:13  [ main:60738 ] - [ INFO ]  Regular Fund ETLL - complete:165519; pending: 44
+2015-05-23 20:15:14  [ main:61763 ] - [ INFO ]  Regular Fund ETLL - complete:165515; pending: 43
+2015-05-23 20:15:14  [ main:62479 ] - [ INFO ]  Regular Fund ETLL - complete:165511; pending: 42
+2015-05-23 20:15:15  [ main:63196 ] - [ INFO ]  Regular Fund ETLL - complete:165312; pending: 41
+2015-05-23 20:15:16  [ main:63913 ] - [ INFO ]  Regular Fund ETLL - complete:165310; pending: 40
+2015-05-23 20:15:16  [ main:64630 ] - [ INFO ]  Regular Fund ETLL - complete:164811; pending: 39
+2015-05-23 20:15:17  [ main:65346 ] - [ INFO ]  Regular Fund ETLL - complete:164809; pending: 38
+2015-05-23 20:15:18  [ main:66166 ] - [ INFO ]  Regular Fund ETLL - complete:163810; pending: 37
+2015-05-23 20:15:19  [ main:67293 ] - [ INFO ]  Regular Fund ETLL - complete:163809; pending: 36
+2015-05-23 20:15:20  [ main:68009 ] - [ INFO ]  Regular Fund ETLL - complete:163808; pending: 35
+2015-05-23 20:15:21  [ main:68828 ] - [ INFO ]  Regular Fund ETLL - complete:163807; pending: 34
+2015-05-23 20:15:21  [ main:69545 ] - [ INFO ]  Regular Fund ETLL - complete:163805; pending: 33
+2015-05-23 20:15:22  [ main:70240 ] - [ INFO ]  Regular Fund ETLL - complete:163804; pending: 32
+2015-05-23 20:15:23  [ main:70877 ] - [ INFO ]  Regular Fund ETLL - complete:163803; pending: 31
+2015-05-23 20:15:24  [ main:72310 ] - [ INFO ]  Regular Fund ETLL - complete:163406; pending: 30
+2015-05-23 20:15:25  [ main:73436 ] - [ INFO ]  Regular Fund ETLL - complete:163209; pending: 29
+2015-05-23 20:15:26  [ main:74156 ] - [ INFO ]  Regular Fund ETLL - complete:163111; pending: 28
+2015-05-23 20:15:27  [ main:74973 ] - [ INFO ]  Regular Fund ETLL - complete:163109; pending: 27
+2015-05-23 20:15:28  [ main:75791 ] - [ INFO ]  Regular Fund ETLL - complete:162907; pending: 26
+2015-05-23 20:15:29  [ main:76815 ] - [ INFO ]  Regular Fund ETLL - complete:162714; pending: 25
+2015-05-23 20:15:30  [ main:78249 ] - [ INFO ]  Regular Fund ETLL - complete:162509; pending: 24
+2015-05-23 20:15:31  [ main:79376 ] - [ INFO ]  Regular Fund ETLL - complete:162216; pending: 23
+2015-05-23 20:15:32  [ main:80195 ] - [ INFO ]  Regular Fund ETLL - complete:162107; pending: 22
+2015-05-23 20:15:33  [ main:81526 ] - [ INFO ]  Regular Fund ETLL - complete:162010; pending: 21
+2015-05-23 20:15:34  [ main:82652 ] - [ INFO ]  Regular Fund ETLL - complete:161910; pending: 20
+2015-05-23 20:15:35  [ main:83369 ] - [ INFO ]  Regular Fund ETLL - complete:161826; pending: 19
+2015-05-23 20:15:36  [ main:84086 ] - [ INFO ]  Regular Fund ETLL - complete:161819; pending: 18
+2015-05-23 20:15:37  [ main:85316 ] - [ INFO ]  Regular Fund ETLL - complete:161818; pending: 17
+2015-05-23 20:15:38  [ main:86237 ] - [ INFO ]  Regular Fund ETLL - complete:161816; pending: 16
+2015-05-23 20:15:39  [ main:87060 ] - [ INFO ]  Regular Fund ETLL - complete:161812; pending: 15
+2015-05-23 20:15:40  [ main:87879 ] - [ INFO ]  Regular Fund ETLL - complete:161811; pending: 14
+2015-05-23 20:15:41  [ main:89299 ] - [ INFO ]  Regular Fund ETLL - complete:161715; pending: 13
+2015-05-23 20:15:43  [ main:90807 ] - [ INFO ]  Regular Fund ETLL - complete:161507; pending: 12
+2015-05-23 20:15:45  [ main:92792 ] - [ INFO ]  Regular Fund ETLL - complete:161207; pending: 11
+2015-05-23 20:15:45  [ main:93570 ] - [ INFO ]  Regular Fund ETLL - complete:161118; pending: 10
+2015-05-23 20:15:46  [ main:94389 ] - [ INFO ]  Regular Fund ETLL - complete:160809; pending: 9
+2015-05-23 20:15:47  [ main:95209 ] - [ INFO ]  Regular Fund ETLL - complete:160808; pending: 8
+2015-05-23 20:15:48  [ main:96028 ] - [ INFO ]  Regular Fund ETLL - complete:160806; pending: 7
+2015-05-23 20:15:49  [ main:97359 ] - [ INFO ]  Regular Fund ETLL - complete:160620; pending: 6
+2015-05-23 20:15:50  [ main:98178 ] - [ INFO ]  Regular Fund ETLL - complete:160605; pending: 5
+2015-05-23 20:15:51  [ main:98998 ] - [ INFO ]  Regular Fund ETLL - complete:160603; pending: 4
+2015-05-23 20:15:52  [ main:100431 ] - [ INFO ]  Regular Fund ETLL - complete:160417; pending: 3
+2015-05-23 20:15:53  [ main:101250 ] - [ INFO ]  Regular Fund ETLL - complete:160219; pending: 2
+2015-05-23 20:15:57  [ main:105581 ] - [ INFO ]  Regular Fund ETLL - complete:160218; pending: 1
+2015-05-23 20:15:58  [ main:106357 ] - [ INFO ]  Regular Fund ETLL - complete:160127; pending: 0
+2015-05-23 20:15:58  [ main:106359 ] - [ INFO ]  DB Connection Closed
+2015-05-23 20:29:45  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 20:29:49  [ main:4489 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 20:29:51  [ main:6523 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 20:29:52  [ main:7240 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 20:29:53  [ main:8059 ] - [ INFO ]  Regular Fund ETLL - complete:160706; pending: 115
+2015-05-23 20:29:54  [ main:9288 ] - [ INFO ]  Regular Fund ETLL - complete:162703; pending: 114
+2015-05-23 20:29:55  [ main:10004 ] - [ INFO ]  Regular Fund ETLL - complete:160505; pending: 113
+2015-05-23 20:29:55  [ main:10722 ] - [ INFO ]  Regular Fund ETLL - complete:160610; pending: 112
+2015-05-23 20:29:56  [ main:11543 ] - [ INFO ]  Regular Fund ETLL - complete:160916; pending: 111
+2015-05-23 20:29:57  [ main:12258 ] - [ INFO ]  Regular Fund ETLL - complete:160716; pending: 110
+2015-05-23 20:29:58  [ main:12975 ] - [ INFO ]  Regular Fund ETLL - complete:161706; pending: 109
+2015-05-23 20:29:58  [ main:13589 ] - [ INFO ]  Regular Fund ETLL - complete:160607; pending: 108
+2015-05-23 20:29:59  [ main:14273 ] - [ INFO ]  Regular Fund ETLL - complete:160512; pending: 107
+2015-05-23 20:30:00  [ main:15024 ] - [ INFO ]  Regular Fund ETLL - complete:160311; pending: 106
+2015-05-23 20:30:00  [ main:15698 ] - [ INFO ]  Regular Fund ETLL - complete:160119; pending: 105
+2015-05-23 20:30:02  [ main:17685 ] - [ INFO ]  Regular Fund ETLL - complete:160216; pending: 104
+2015-05-23 20:30:03  [ main:18404 ] - [ INFO ]  Regular Fund ETLL - complete:163503; pending: 103
+2015-05-23 20:30:04  [ main:19426 ] - [ INFO ]  Regular Fund ETLL - complete:162605; pending: 102
+2015-05-23 20:30:05  [ main:20040 ] - [ INFO ]  Regular Fund ETLL - complete:160314; pending: 101
+2015-05-23 20:30:05  [ main:20758 ] - [ INFO ]  Regular Fund ETLL - complete:163801; pending: 100
+2015-05-23 20:30:06  [ main:21475 ] - [ INFO ]  Regular Fund ETLL - complete:163402; pending: 99
+2015-05-23 20:30:07  [ main:22192 ] - [ INFO ]  Regular Fund ETLL - complete:162607; pending: 98
+2015-05-23 20:30:08  [ main:23215 ] - [ INFO ]  Regular Fund ETLL - complete:166011; pending: 97
+2015-05-23 20:30:10  [ main:25078 ] - [ INFO ]  Regular Fund ETLL - complete:164815; pending: 96
+2015-05-23 20:30:10  [ main:25706 ] - [ INFO ]  Regular Fund ETLL - complete:166009; pending: 95
+2015-05-23 20:30:11  [ main:26389 ] - [ INFO ]  Regular Fund ETLL - complete:161005; pending: 94
+2015-05-23 20:30:12  [ main:27016 ] - [ INFO ]  Regular Fund ETLL - complete:165313; pending: 93
+2015-05-23 20:30:12  [ main:27721 ] - [ INFO ]  Regular Fund ETLL - complete:160611; pending: 92
+2015-05-23 20:30:13  [ main:28438 ] - [ INFO ]  Regular Fund ETLL - complete:160106; pending: 91
+2015-05-23 20:30:14  [ main:29155 ] - [ INFO ]  Regular Fund ETLL - complete:161607; pending: 90
+2015-05-23 20:30:14  [ main:29873 ] - [ INFO ]  Regular Fund ETLL - complete:160910; pending: 89
+2015-05-23 20:30:15  [ main:30691 ] - [ INFO ]  Regular Fund ETLL - complete:166001; pending: 88
+2015-05-23 20:30:16  [ main:31408 ] - [ INFO ]  Regular Fund ETLL - complete:163412; pending: 87
+2015-05-23 20:30:17  [ main:32123 ] - [ INFO ]  Regular Fund ETLL - complete:160211; pending: 86
+2015-05-23 20:30:17  [ main:32841 ] - [ INFO ]  Regular Fund ETLL - complete:166006; pending: 85
+2015-05-23 20:30:18  [ main:33557 ] - [ INFO ]  Regular Fund ETLL - complete:163302; pending: 84
+2015-05-23 20:30:19  [ main:34274 ] - [ INFO ]  Regular Fund ETLL - complete:161217; pending: 83
+2015-05-23 20:30:20  [ main:34992 ] - [ INFO ]  Regular Fund ETLL - complete:162207; pending: 82
+2015-05-23 20:30:21  [ main:36016 ] - [ INFO ]  Regular Fund ETLL - complete:165508; pending: 81
+2015-05-23 20:30:21  [ main:36836 ] - [ INFO ]  Regular Fund ETLL - complete:160805; pending: 80
+2015-05-23 20:30:23  [ main:38168 ] - [ INFO ]  Regular Fund ETLL - complete:162711; pending: 79
+2015-05-23 20:30:24  [ main:38985 ] - [ INFO ]  Regular Fund ETLL - complete:161810; pending: 78
+2015-05-23 20:30:25  [ main:40317 ] - [ INFO ]  Regular Fund ETLL - complete:162307; pending: 77
+2015-05-23 20:30:26  [ main:41135 ] - [ INFO ]  Regular Fund ETLL - complete:160616; pending: 76
+2015-05-23 20:30:26  [ main:41851 ] - [ INFO ]  Regular Fund ETLL - complete:160105; pending: 75
+2015-05-23 20:30:27  [ main:42570 ] - [ INFO ]  Regular Fund ETLL - complete:163409; pending: 74
+2015-05-23 20:30:28  [ main:43232 ] - [ INFO ]  Regular Fund ETLL - complete:161903; pending: 73
+2015-05-23 20:30:29  [ main:44003 ] - [ INFO ]  Regular Fund ETLL - complete:160212; pending: 72
+2015-05-23 20:30:29  [ main:44721 ] - [ INFO ]  Regular Fund ETLL - complete:165516; pending: 71
+2015-05-23 20:30:30  [ main:45437 ] - [ INFO ]  Regular Fund ETLL - complete:162006; pending: 70
+2015-05-23 20:30:31  [ main:46157 ] - [ INFO ]  Regular Fund ETLL - complete:163407; pending: 69
+2015-05-23 20:30:31  [ main:46871 ] - [ INFO ]  Regular Fund ETLL - complete:163415; pending: 68
+2015-05-23 20:30:32  [ main:47587 ] - [ INFO ]  Regular Fund ETLL - complete:160615; pending: 67
+2015-05-23 20:30:33  [ main:48305 ] - [ INFO ]  Regular Fund ETLL - complete:162510; pending: 66
+2015-05-23 20:30:34  [ main:49043 ] - [ INFO ]  Regular Fund ETLL - complete:160613; pending: 65
+2015-05-23 20:30:34  [ main:49698 ] - [ INFO ]  Regular Fund ETLL - complete:160215; pending: 64
+2015-05-23 20:30:35  [ main:50468 ] - [ INFO ]  Regular Fund ETLL - complete:161017; pending: 63
+2015-05-23 20:30:36  [ main:51376 ] - [ INFO ]  Regular Fund ETLL - complete:165309; pending: 62
+2015-05-23 20:34:38  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 20:34:43  [ main:5479 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 20:34:46  [ main:7628 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 20:34:46  [ main:8236 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 20:34:47  [ main:8942 ] - [ INFO ]  Regular Fund ETLL - complete:160706; pending: 115
+2015-05-23 20:34:48  [ main:10016 ] - [ INFO ]  Regular Fund ETLL - complete:162703; pending: 114
+2015-05-23 20:34:49  [ main:10681 ] - [ INFO ]  Regular Fund ETLL - complete:160505; pending: 113
+2015-05-23 20:34:49  [ main:11398 ] - [ INFO ]  Regular Fund ETLL - complete:160610; pending: 112
+2015-05-23 20:34:50  [ main:12115 ] - [ INFO ]  Regular Fund ETLL - complete:160916; pending: 111
+2015-05-23 20:34:51  [ main:12754 ] - [ INFO ]  Regular Fund ETLL - complete:160716; pending: 110
+2015-05-23 20:34:51  [ main:13394 ] - [ INFO ]  Regular Fund ETLL - complete:161706; pending: 109
+2015-05-23 20:34:52  [ main:14066 ] - [ INFO ]  Regular Fund ETLL - complete:160607; pending: 108
+2015-05-23 20:34:53  [ main:14779 ] - [ INFO ]  Regular Fund ETLL - complete:160512; pending: 107
+2015-05-23 20:34:54  [ main:15904 ] - [ INFO ]  Regular Fund ETLL - complete:160311; pending: 106
+2015-05-23 20:34:55  [ main:16826 ] - [ INFO ]  Regular Fund ETLL - complete:160119; pending: 105
+2015-05-23 20:34:56  [ main:18251 ] - [ INFO ]  Regular Fund ETLL - complete:160216; pending: 104
+2015-05-23 20:34:57  [ main:18978 ] - [ INFO ]  Regular Fund ETLL - complete:163503; pending: 103
+2015-05-23 20:34:58  [ main:19693 ] - [ INFO ]  Regular Fund ETLL - complete:162605; pending: 102
+2015-05-23 20:34:58  [ main:20332 ] - [ INFO ]  Regular Fund ETLL - complete:160314; pending: 101
+2015-05-23 20:34:59  [ main:20996 ] - [ INFO ]  Regular Fund ETLL - complete:163801; pending: 100
+2015-05-23 20:35:00  [ main:21638 ] - [ INFO ]  Regular Fund ETLL - complete:163402; pending: 99
+2015-05-23 20:35:00  [ main:22408 ] - [ INFO ]  Regular Fund ETLL - complete:162607; pending: 98
+2015-05-23 20:35:01  [ main:23174 ] - [ INFO ]  Regular Fund ETLL - complete:166011; pending: 97
+2015-05-23 20:35:03  [ main:25328 ] - [ INFO ]  Regular Fund ETLL - complete:164815; pending: 96
+2015-05-23 20:35:04  [ main:26023 ] - [ INFO ]  Regular Fund ETLL - complete:166009; pending: 95
+2015-05-23 20:35:05  [ main:26650 ] - [ INFO ]  Regular Fund ETLL - complete:161005; pending: 94
+2015-05-23 20:35:05  [ main:27475 ] - [ INFO ]  Regular Fund ETLL - complete:165313; pending: 93
+2015-05-23 20:35:06  [ main:28192 ] - [ INFO ]  Regular Fund ETLL - complete:160611; pending: 92
+2015-05-23 20:35:07  [ main:29011 ] - [ INFO ]  Regular Fund ETLL - complete:160106; pending: 91
+2015-05-23 20:35:08  [ main:29729 ] - [ INFO ]  Regular Fund ETLL - complete:161607; pending: 90
+2015-05-23 20:35:08  [ main:30446 ] - [ INFO ]  Regular Fund ETLL - complete:160910; pending: 89
+2015-05-23 20:35:09  [ main:31102 ] - [ INFO ]  Regular Fund ETLL - complete:166001; pending: 88
+2015-05-23 20:35:10  [ main:31878 ] - [ INFO ]  Regular Fund ETLL - complete:163412; pending: 87
+2015-05-23 20:35:11  [ main:32595 ] - [ INFO ]  Regular Fund ETLL - complete:160211; pending: 86
+2015-05-23 20:35:11  [ main:33414 ] - [ INFO ]  Regular Fund ETLL - complete:166006; pending: 85
+2015-05-23 20:35:12  [ main:34131 ] - [ INFO ]  Regular Fund ETLL - complete:163302; pending: 84
+2015-05-23 20:35:13  [ main:34848 ] - [ INFO ]  Regular Fund ETLL - complete:161217; pending: 83
+2015-05-23 20:35:14  [ main:35568 ] - [ INFO ]  Regular Fund ETLL - complete:162207; pending: 82
+2015-05-23 20:35:14  [ main:36385 ] - [ INFO ]  Regular Fund ETLL - complete:165508; pending: 81
+2015-05-23 20:35:15  [ main:37203 ] - [ INFO ]  Regular Fund ETLL - complete:160805; pending: 80
+2015-05-23 20:35:17  [ main:38638 ] - [ INFO ]  Regular Fund ETLL - complete:162711; pending: 79
+2015-05-23 20:35:17  [ main:39355 ] - [ INFO ]  Regular Fund ETLL - complete:161810; pending: 78
+2015-05-23 20:35:18  [ main:40173 ] - [ INFO ]  Regular Fund ETLL - complete:162307; pending: 77
+2015-05-23 20:35:19  [ main:40891 ] - [ INFO ]  Regular Fund ETLL - complete:160616; pending: 76
+2015-05-23 20:35:20  [ main:41606 ] - [ INFO ]  Regular Fund ETLL - complete:160105; pending: 75
+2015-05-23 20:35:20  [ main:42426 ] - [ INFO ]  Regular Fund ETLL - complete:163409; pending: 74
+2015-05-23 20:35:21  [ main:43144 ] - [ INFO ]  Regular Fund ETLL - complete:161903; pending: 73
+2015-05-23 20:35:22  [ main:43860 ] - [ INFO ]  Regular Fund ETLL - complete:160212; pending: 72
+2015-05-23 20:35:23  [ main:44679 ] - [ INFO ]  Regular Fund ETLL - complete:165516; pending: 71
+2015-05-23 20:35:23  [ main:45395 ] - [ INFO ]  Regular Fund ETLL - complete:162006; pending: 70
+2015-05-23 20:35:24  [ main:46112 ] - [ INFO ]  Regular Fund ETLL - complete:163407; pending: 69
+2015-05-23 20:35:25  [ main:46830 ] - [ INFO ]  Regular Fund ETLL - complete:163415; pending: 68
+2015-05-23 20:35:26  [ main:47547 ] - [ INFO ]  Regular Fund ETLL - complete:160615; pending: 67
+2015-05-23 20:35:26  [ main:48263 ] - [ INFO ]  Regular Fund ETLL - complete:162510; pending: 66
+2015-05-23 20:35:27  [ main:48953 ] - [ INFO ]  Regular Fund ETLL - complete:160613; pending: 65
+2015-05-23 20:35:28  [ main:49697 ] - [ INFO ]  Regular Fund ETLL - complete:160215; pending: 64
+2015-05-23 20:35:28  [ main:50414 ] - [ INFO ]  Regular Fund ETLL - complete:161017; pending: 63
+2015-05-23 20:35:29  [ main:51235 ] - [ INFO ]  Regular Fund ETLL - complete:165309; pending: 62
+2015-05-23 20:35:30  [ main:52332 ] - [ INFO ]  Regular Fund ETLL - complete:161219; pending: 61
+2015-05-23 20:35:31  [ main:53079 ] - [ INFO ]  Regular Fund ETLL - complete:161907; pending: 60
+2015-05-23 20:35:32  [ main:54202 ] - [ INFO ]  Regular Fund ETLL - complete:167901; pending: 59
+2015-05-23 20:35:33  [ main:54920 ] - [ INFO ]  Regular Fund ETLL - complete:165512; pending: 58
+2015-05-23 20:35:35  [ main:56766 ] - [ INFO ]  Regular Fund ETLL - complete:160415; pending: 57
+2015-05-23 20:35:36  [ main:58095 ] - [ INFO ]  Regular Fund ETLL - complete:163110; pending: 56
+2015-05-23 20:35:37  [ main:59221 ] - [ INFO ]  Regular Fund ETLL - complete:160807; pending: 55
+2015-05-23 20:35:38  [ main:59937 ] - [ INFO ]  Regular Fund ETLL - complete:166007; pending: 54
+2015-05-23 20:35:39  [ main:61065 ] - [ INFO ]  Regular Fund ETLL - complete:161213; pending: 53
+2015-05-23 20:35:40  [ main:61883 ] - [ INFO ]  Regular Fund ETLL - complete:163821; pending: 52
+2015-05-23 20:35:41  [ main:62815 ] - [ INFO ]  Regular Fund ETLL - complete:165806; pending: 51
+2015-05-23 20:35:42  [ main:63623 ] - [ INFO ]  Regular Fund ETLL - complete:167701; pending: 50
+2015-05-23 20:35:43  [ main:64650 ] - [ INFO ]  Regular Fund ETLL - complete:166802; pending: 49
+2015-05-23 20:35:44  [ main:65672 ] - [ INFO ]  Regular Fund ETLL - complete:166005; pending: 48
+2015-05-23 20:35:45  [ main:66593 ] - [ INFO ]  Regular Fund ETLL - complete:166002; pending: 47
+2015-05-23 20:35:45  [ main:67310 ] - [ INFO ]  Regular Fund ETLL - complete:165707; pending: 46
+2015-05-23 20:35:46  [ main:68026 ] - [ INFO ]  Regular Fund ETLL - complete:165520; pending: 45
+2015-05-23 20:35:47  [ main:68743 ] - [ INFO ]  Regular Fund ETLL - complete:165519; pending: 44
+2015-05-23 20:35:48  [ main:69563 ] - [ INFO ]  Regular Fund ETLL - complete:165515; pending: 43
+2015-05-23 20:35:48  [ main:70484 ] - [ INFO ]  Regular Fund ETLL - complete:165511; pending: 42
+2015-05-23 20:35:49  [ main:71201 ] - [ INFO ]  Regular Fund ETLL - complete:165312; pending: 41
+2015-05-23 20:35:50  [ main:71918 ] - [ INFO ]  Regular Fund ETLL - complete:165310; pending: 40
+2015-05-23 20:35:51  [ main:72840 ] - [ INFO ]  Regular Fund ETLL - complete:164811; pending: 39
+2015-05-23 20:35:52  [ main:73556 ] - [ INFO ]  Regular Fund ETLL - complete:164809; pending: 38
+2015-05-23 20:35:52  [ main:74276 ] - [ INFO ]  Regular Fund ETLL - complete:163810; pending: 37
+2015-05-23 20:35:53  [ main:74992 ] - [ INFO ]  Regular Fund ETLL - complete:163809; pending: 36
+2015-05-23 20:35:54  [ main:75706 ] - [ INFO ]  Regular Fund ETLL - complete:163808; pending: 35
+2015-05-23 20:35:54  [ main:76423 ] - [ INFO ]  Regular Fund ETLL - complete:163807; pending: 34
+2015-05-23 20:35:55  [ main:77041 ] - [ INFO ]  Regular Fund ETLL - complete:163805; pending: 33
+2015-05-23 20:35:56  [ main:77652 ] - [ INFO ]  Regular Fund ETLL - complete:163804; pending: 32
+2015-05-23 20:35:56  [ main:78383 ] - [ INFO ]  Regular Fund ETLL - complete:163803; pending: 31
+2015-05-23 20:35:57  [ main:79087 ] - [ INFO ]  Regular Fund ETLL - complete:163406; pending: 30
+2015-05-23 20:35:58  [ main:80417 ] - [ INFO ]  Regular Fund ETLL - complete:163209; pending: 29
+2015-05-23 20:35:59  [ main:81237 ] - [ INFO ]  Regular Fund ETLL - complete:163111; pending: 28
+2015-05-23 20:36:00  [ main:81953 ] - [ INFO ]  Regular Fund ETLL - complete:163109; pending: 27
+2015-05-23 20:36:01  [ main:82670 ] - [ INFO ]  Regular Fund ETLL - complete:162907; pending: 26
+2015-05-23 20:36:01  [ main:83395 ] - [ INFO ]  Regular Fund ETLL - complete:162714; pending: 25
+2015-05-23 20:36:02  [ main:84308 ] - [ INFO ]  Regular Fund ETLL - complete:162509; pending: 24
+2015-05-23 20:36:03  [ main:85130 ] - [ INFO ]  Regular Fund ETLL - complete:162216; pending: 23
+2015-05-23 20:36:04  [ main:85846 ] - [ INFO ]  Regular Fund ETLL - complete:162107; pending: 22
+2015-05-23 20:36:05  [ main:86664 ] - [ INFO ]  Regular Fund ETLL - complete:162010; pending: 21
+2015-05-23 20:36:05  [ main:87381 ] - [ INFO ]  Regular Fund ETLL - complete:161910; pending: 20
+2015-05-23 20:36:06  [ main:88098 ] - [ INFO ]  Regular Fund ETLL - complete:161826; pending: 19
+2015-05-23 20:36:07  [ main:88814 ] - [ INFO ]  Regular Fund ETLL - complete:161819; pending: 18
+2015-05-23 20:36:08  [ main:90146 ] - [ INFO ]  Regular Fund ETLL - complete:161818; pending: 17
+2015-05-23 20:36:09  [ main:90862 ] - [ INFO ]  Regular Fund ETLL - complete:161816; pending: 16
+2015-05-23 20:36:10  [ main:91579 ] - [ INFO ]  Regular Fund ETLL - complete:161812; pending: 15
+2015-05-23 20:36:10  [ main:92240 ] - [ INFO ]  Regular Fund ETLL - complete:161811; pending: 14
+2015-05-23 20:36:11  [ main:92996 ] - [ INFO ]  Regular Fund ETLL - complete:161715; pending: 13
+2015-05-23 20:36:12  [ main:93699 ] - [ INFO ]  Regular Fund ETLL - complete:161507; pending: 12
+2015-05-23 20:36:12  [ main:94446 ] - [ INFO ]  Regular Fund ETLL - complete:161207; pending: 11
+2015-05-23 20:36:13  [ main:95163 ] - [ INFO ]  Regular Fund ETLL - complete:161118; pending: 10
+2015-05-23 20:36:14  [ main:95880 ] - [ INFO ]  Regular Fund ETLL - complete:160809; pending: 9
+2015-05-23 20:36:15  [ main:96598 ] - [ INFO ]  Regular Fund ETLL - complete:160808; pending: 8
+2015-05-23 20:36:16  [ main:97518 ] - [ INFO ]  Regular Fund ETLL - complete:160806; pending: 7
+2015-05-23 20:36:16  [ main:98235 ] - [ INFO ]  Regular Fund ETLL - complete:160620; pending: 6
+2015-05-23 20:36:17  [ main:98953 ] - [ INFO ]  Regular Fund ETLL - complete:160605; pending: 5
+2015-05-23 20:36:18  [ main:100284 ] - [ INFO ]  Regular Fund ETLL - complete:160603; pending: 4
+2015-05-23 20:36:19  [ main:101000 ] - [ INFO ]  Regular Fund ETLL - complete:160417; pending: 3
+2015-05-23 20:36:20  [ main:101717 ] - [ INFO ]  Regular Fund ETLL - complete:160219; pending: 2
+2015-05-23 20:36:21  [ main:102843 ] - [ INFO ]  Regular Fund ETLL - complete:160218; pending: 1
+2015-05-23 20:36:22  [ main:103561 ] - [ INFO ]  Regular Fund ETLL - complete:160127; pending: 0
+2015-05-23 20:36:22  [ main:103563 ] - [ INFO ]  DB Connection Closed
+2015-05-23 20:53:57  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 20:53:59  [ main:2122 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 20:54:05  [ main:8161 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 20:54:06  [ main:8868 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 20:54:07  [ main:9585 ] - [ INFO ]  Regular Fund ETLL - complete:160706; pending: 115
+2015-05-23 20:54:07  [ main:10300 ] - [ INFO ]  Regular Fund ETLL - complete:162703; pending: 114
+2015-05-23 20:54:08  [ main:10974 ] - [ INFO ]  Regular Fund ETLL - complete:160505; pending: 113
+2015-05-23 20:54:09  [ main:11734 ] - [ INFO ]  Regular Fund ETLL - complete:160610; pending: 112
+2015-05-23 20:55:39  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 20:55:42  [ main:2883 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 20:55:43  [ main:4782 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 20:55:44  [ main:5519 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 20:58:51  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 20:58:54  [ main:2968 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 20:58:56  [ main:4800 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 20:58:57  [ main:5414 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 20:59:50  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 20:59:54  [ main:3785 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 20:59:55  [ main:5692 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 20:59:56  [ main:6328 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 20:59:57  [ main:6943 ] - [ INFO ]  Regular Fund ETLL - complete:160706; pending: 115
+2015-05-23 20:59:57  [ main:7660 ] - [ INFO ]  Regular Fund ETLL - complete:162703; pending: 114
+2015-05-23 20:59:58  [ main:8377 ] - [ INFO ]  Regular Fund ETLL - complete:160505; pending: 113
+2015-05-23 21:03:07  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 21:03:12  [ main:4640 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 21:03:14  [ main:6879 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 21:03:14  [ main:7474 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 21:03:15  [ main:8082 ] - [ INFO ]  Regular Fund ETLL - complete:160706; pending: 115
+2015-05-23 21:03:16  [ main:8743 ] - [ INFO ]  Regular Fund ETLL - complete:162703; pending: 114
+2015-05-23 21:03:16  [ main:9440 ] - [ INFO ]  Regular Fund ETLL - complete:160505; pending: 113
+2015-05-23 21:15:08  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 21:15:38  [ main:30172 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 21:15:38  [ main:30173 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:38  [ main:30175 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 21:15:38  [ main:30176 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:38  [ main:30179 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 21:15:38  [ main:30179 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:38  [ main:30181 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 21:15:38  [ main:30181 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:38  [ main:30183 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 21:15:38  [ main:30184 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:38  [ main:30186 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 21:15:38  [ main:30186 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:41  [ main:33152 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 21:15:41  [ main:33153 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 21:15:41  [ main:33153 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:41  [ main:33158 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 21:15:41  [ main:33158 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:41  [ main:33160 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 21:15:41  [ main:33160 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:41  [ main:33162 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 21:15:41  [ main:33162 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:41  [ main:33164 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 21:15:41  [ main:33164 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:41  [ main:33166 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 21:15:41  [ main:33166 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:16:12  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 21:16:16  [ main:4529 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 21:16:20  [ main:8684 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 21:16:21  [ main:9403 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 21:16:22  [ main:10214 ] - [ INFO ]  Regular Fund ETLL - complete:160706; pending: 115
+2015-05-23 21:16:23  [ main:11034 ] - [ INFO ]  Regular Fund ETLL - complete:162703; pending: 114
+2015-05-23 21:16:24  [ main:11750 ] - [ INFO ]  Regular Fund ETLL - complete:160505; pending: 113
+2015-05-23 21:16:24  [ main:12570 ] - [ INFO ]  Regular Fund ETLL - complete:160610; pending: 112
+2015-05-23 21:16:25  [ main:13286 ] - [ INFO ]  Regular Fund ETLL - complete:160916; pending: 111
+2015-05-23 21:16:26  [ main:13897 ] - [ INFO ]  Regular Fund ETLL - complete:160716; pending: 110
+2015-05-23 21:16:26  [ main:14677 ] - [ INFO ]  Regular Fund ETLL - complete:161706; pending: 109
+2015-05-23 21:16:27  [ main:15300 ] - [ INFO ]  Regular Fund ETLL - complete:160607; pending: 108
+2015-05-23 21:16:28  [ main:16055 ] - [ INFO ]  Regular Fund ETLL - complete:160512; pending: 107
+2015-05-23 21:16:29  [ main:16872 ] - [ INFO ]  Regular Fund ETLL - complete:160311; pending: 106
+2015-05-23 21:16:29  [ main:17588 ] - [ INFO ]  Regular Fund ETLL - complete:160119; pending: 105
+2015-05-23 21:16:31  [ main:19029 ] - [ INFO ]  Regular Fund ETLL - complete:160216; pending: 104
+2015-05-23 21:16:32  [ main:19739 ] - [ INFO ]  Regular Fund ETLL - complete:163503; pending: 103
+2015-05-23 21:16:32  [ main:20454 ] - [ INFO ]  Regular Fund ETLL - complete:162605; pending: 102
+2015-05-23 21:22:02  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 21:22:07  [ main:4717 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 21:22:09  [ main:7061 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 21:22:10  [ main:7675 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 21:22:13  [ main:11156 ] - [ INFO ]  Regular Fund ETLL - complete:160706; pending: 115
+2015-05-23 21:22:14  [ main:11873 ] - [ INFO ]  Regular Fund ETLL - complete:162703; pending: 114
+2015-05-23 21:28:18  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 21:28:23  [ main:5237 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 21:28:26  [ main:8255 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 21:28:27  [ main:8877 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 21:28:27  [ main:9506 ] - [ INFO ]  Regular Fund ETLL - complete:160706; pending: 115
+2015-05-23 21:28:28  [ main:10110 ] - [ INFO ]  Regular Fund ETLL - complete:162703; pending: 114
+2015-05-23 21:28:29  [ main:10826 ] - [ INFO ]  Regular Fund ETLL - complete:160505; pending: 113
+2015-05-23 21:28:29  [ main:11464 ] - [ INFO ]  Regular Fund ETLL - complete:160610; pending: 112
+2015-05-23 21:28:30  [ main:12462 ] - [ INFO ]  Regular Fund ETLL - complete:160916; pending: 111
+2015-05-23 21:28:31  [ main:13179 ] - [ INFO ]  Regular Fund ETLL - complete:160716; pending: 110
+2015-05-23 21:28:32  [ main:13897 ] - [ INFO ]  Regular Fund ETLL - complete:161706; pending: 109
+2015-05-23 21:28:33  [ main:15401 ] - [ INFO ]  Regular Fund ETLL - complete:160607; pending: 108
+2015-05-23 21:28:34  [ main:16035 ] - [ INFO ]  Regular Fund ETLL - complete:160512; pending: 107
+2015-05-23 21:28:34  [ main:16662 ] - [ INFO ]  Regular Fund ETLL - complete:160311; pending: 106
+2015-05-23 21:28:35  [ main:17642 ] - [ INFO ]  Regular Fund ETLL - complete:160119; pending: 105
+2015-05-23 21:28:37  [ main:19553 ] - [ INFO ]  Regular Fund ETLL - complete:160216; pending: 104
+2015-05-23 21:28:38  [ main:20245 ] - [ INFO ]  Regular Fund ETLL - complete:163503; pending: 103
+2015-05-23 21:28:39  [ main:20869 ] - [ INFO ]  Regular Fund ETLL - complete:162605; pending: 102
+2015-05-23 21:28:39  [ main:21577 ] - [ INFO ]  Regular Fund ETLL - complete:160314; pending: 101
+2015-05-23 21:28:40  [ main:22394 ] - [ INFO ]  Regular Fund ETLL - complete:163801; pending: 100
+2015-05-23 21:28:41  [ main:23613 ] - [ INFO ]  Regular Fund ETLL - complete:163402; pending: 99
+2015-05-23 21:28:42  [ main:24314 ] - [ INFO ]  Regular Fund ETLL - complete:162607; pending: 98
+2015-05-23 21:28:43  [ main:24927 ] - [ INFO ]  Regular Fund ETLL - complete:166011; pending: 97
+2015-05-23 21:28:44  [ main:26464 ] - [ INFO ]  Regular Fund ETLL - complete:164815; pending: 96
+2015-05-23 21:28:45  [ main:27161 ] - [ INFO ]  Regular Fund ETLL - complete:166009; pending: 95
+2015-05-23 21:28:46  [ main:27926 ] - [ INFO ]  Regular Fund ETLL - complete:161005; pending: 94
+2015-05-23 21:28:47  [ main:28947 ] - [ INFO ]  Regular Fund ETLL - complete:165313; pending: 93
+2015-05-23 21:28:48  [ main:29899 ] - [ INFO ]  Regular Fund ETLL - complete:160611; pending: 92
+2015-05-23 21:28:49  [ main:31508 ] - [ INFO ]  Regular Fund ETLL - complete:160106; pending: 91
+2015-05-23 21:28:50  [ main:32224 ] - [ INFO ]  Regular Fund ETLL - complete:161607; pending: 90
+2015-05-23 21:28:52  [ main:34546 ] - [ INFO ]  Regular Fund ETLL - complete:160910; pending: 89
+2015-05-23 21:28:53  [ main:35154 ] - [ INFO ]  Regular Fund ETLL - complete:166001; pending: 88
+2015-05-23 21:28:54  [ main:35745 ] - [ INFO ]  Regular Fund ETLL - complete:163412; pending: 87
+2015-05-23 21:28:55  [ main:37182 ] - [ INFO ]  Regular Fund ETLL - complete:160211; pending: 86
+2015-05-23 21:28:56  [ main:38015 ] - [ INFO ]  Regular Fund ETLL - complete:166006; pending: 85
+2015-05-23 21:28:56  [ main:38625 ] - [ INFO ]  Regular Fund ETLL - complete:163302; pending: 84
+2015-05-23 21:28:58  [ main:39844 ] - [ INFO ]  Regular Fund ETLL - complete:161217; pending: 83
+2015-05-23 21:28:58  [ main:40451 ] - [ INFO ]  Regular Fund ETLL - complete:162207; pending: 82
+2015-05-23 21:28:59  [ main:41133 ] - [ INFO ]  Regular Fund ETLL - complete:165508; pending: 81
+2015-05-23 21:29:00  [ main:41850 ] - [ INFO ]  Regular Fund ETLL - complete:160805; pending: 80
+2015-05-23 21:29:01  [ main:43170 ] - [ INFO ]  Regular Fund ETLL - complete:162711; pending: 79
+2015-05-23 21:29:02  [ main:43845 ] - [ INFO ]  Regular Fund ETLL - complete:161810; pending: 78
+2015-05-23 21:29:02  [ main:44479 ] - [ INFO ]  Regular Fund ETLL - complete:162307; pending: 77
+2015-05-23 21:29:03  [ main:45146 ] - [ INFO ]  Regular Fund ETLL - complete:160616; pending: 76
+2015-05-23 21:29:04  [ main:45746 ] - [ INFO ]  Regular Fund ETLL - complete:160105; pending: 75
+2015-05-23 21:29:05  [ main:46714 ] - [ INFO ]  Regular Fund ETLL - complete:163409; pending: 74
+2015-05-23 21:29:05  [ main:47379 ] - [ INFO ]  Regular Fund ETLL - complete:161903; pending: 73
+2015-05-23 21:29:06  [ main:48005 ] - [ INFO ]  Regular Fund ETLL - complete:160212; pending: 72
+2015-05-23 21:29:07  [ main:48711 ] - [ INFO ]  Regular Fund ETLL - complete:165516; pending: 71
+2015-05-23 21:29:07  [ main:49428 ] - [ INFO ]  Regular Fund ETLL - complete:162006; pending: 70
+2015-05-23 21:29:08  [ main:50042 ] - [ INFO ]  Regular Fund ETLL - complete:163407; pending: 69
+2015-05-23 21:29:08  [ main:50658 ] - [ INFO ]  Regular Fund ETLL - complete:163415; pending: 68
+2015-05-23 21:29:09  [ main:51377 ] - [ INFO ]  Regular Fund ETLL - complete:160615; pending: 67
+2015-05-23 21:29:10  [ main:52090 ] - [ INFO ]  Regular Fund ETLL - complete:162510; pending: 66
+2015-05-23 21:29:11  [ main:52762 ] - [ INFO ]  Regular Fund ETLL - complete:160613; pending: 65
+2015-05-23 21:29:11  [ main:53426 ] - [ INFO ]  Regular Fund ETLL - complete:160215; pending: 64
+2015-05-23 21:29:12  [ main:54140 ] - [ INFO ]  Regular Fund ETLL - complete:161017; pending: 63
+2015-05-23 21:29:13  [ main:54855 ] - [ INFO ]  Regular Fund ETLL - complete:165309; pending: 62
+2015-05-23 21:29:14  [ main:56074 ] - [ INFO ]  Regular Fund ETLL - complete:161219; pending: 61
+2015-05-23 21:29:14  [ main:56689 ] - [ INFO ]  Regular Fund ETLL - complete:161907; pending: 60
+2015-05-23 21:29:15  [ main:57327 ] - [ INFO ]  Regular Fund ETLL - complete:167901; pending: 59
+2015-05-23 21:29:16  [ main:57932 ] - [ INFO ]  Regular Fund ETLL - complete:165512; pending: 58
+2015-05-23 21:29:16  [ main:58659 ] - [ INFO ]  Regular Fund ETLL - complete:160415; pending: 57
+2015-05-23 21:29:17  [ main:59243 ] - [ INFO ]  Regular Fund ETLL - complete:163110; pending: 56
+2015-05-23 21:29:18  [ main:59872 ] - [ INFO ]  Regular Fund ETLL - complete:160807; pending: 55
+2015-05-23 21:29:18  [ main:60561 ] - [ INFO ]  Regular Fund ETLL - complete:166007; pending: 54
+2015-05-23 21:29:19  [ main:61207 ] - [ INFO ]  Regular Fund ETLL - complete:161213; pending: 53
+2015-05-23 21:29:20  [ main:61921 ] - [ INFO ]  Regular Fund ETLL - complete:163821; pending: 52
+2015-05-23 21:29:20  [ main:62638 ] - [ INFO ]  Regular Fund ETLL - complete:165806; pending: 51
+2015-05-23 21:29:21  [ main:63233 ] - [ INFO ]  Regular Fund ETLL - complete:167701; pending: 50
+2015-05-23 21:29:22  [ main:64480 ] - [ INFO ]  Regular Fund ETLL - complete:166802; pending: 49
+2015-05-23 21:29:23  [ main:65196 ] - [ INFO ]  Regular Fund ETLL - complete:166005; pending: 48
+2015-05-23 21:29:24  [ main:65811 ] - [ INFO ]  Regular Fund ETLL - complete:166002; pending: 47
+2015-05-23 21:29:24  [ main:66527 ] - [ INFO ]  Regular Fund ETLL - complete:165707; pending: 46
+2015-05-23 21:29:25  [ main:67247 ] - [ INFO ]  Regular Fund ETLL - complete:165520; pending: 45
+2015-05-23 21:29:26  [ main:67904 ] - [ INFO ]  Regular Fund ETLL - complete:165519; pending: 44
+2015-05-23 21:29:26  [ main:68525 ] - [ INFO ]  Regular Fund ETLL - complete:165515; pending: 43
+2015-05-23 21:29:27  [ main:69166 ] - [ INFO ]  Regular Fund ETLL - complete:165511; pending: 42
+2015-05-23 21:29:28  [ main:69846 ] - [ INFO ]  Regular Fund ETLL - complete:165312; pending: 41
+2015-05-23 21:29:28  [ main:70452 ] - [ INFO ]  Regular Fund ETLL - complete:165310; pending: 40
+2015-05-23 21:29:29  [ main:71135 ] - [ INFO ]  Regular Fund ETLL - complete:164811; pending: 39
+2015-05-23 21:29:30  [ main:72364 ] - [ INFO ]  Regular Fund ETLL - complete:164809; pending: 38
+2015-05-23 21:29:31  [ main:72979 ] - [ INFO ]  Regular Fund ETLL - complete:163810; pending: 37
+2015-05-23 21:29:32  [ main:73929 ] - [ INFO ]  Regular Fund ETLL - complete:163809; pending: 36
+2015-05-23 21:29:32  [ main:74617 ] - [ INFO ]  Regular Fund ETLL - complete:163808; pending: 35
+2015-05-23 21:29:33  [ main:75230 ] - [ INFO ]  Regular Fund ETLL - complete:163807; pending: 34
+2015-05-23 21:29:34  [ main:75847 ] - [ INFO ]  Regular Fund ETLL - complete:163805; pending: 33
+2015-05-23 21:29:34  [ main:76459 ] - [ INFO ]  Regular Fund ETLL - complete:163804; pending: 32
+2015-05-23 21:29:35  [ main:77144 ] - [ INFO ]  Regular Fund ETLL - complete:163803; pending: 31
+2015-05-23 21:29:36  [ main:77792 ] - [ INFO ]  Regular Fund ETLL - complete:163406; pending: 30
+2015-05-23 21:29:36  [ main:78508 ] - [ INFO ]  Regular Fund ETLL - complete:163209; pending: 29
+2015-05-23 21:29:37  [ main:79123 ] - [ INFO ]  Regular Fund ETLL - complete:163111; pending: 28
+2015-05-23 21:29:38  [ main:80293 ] - [ INFO ]  Regular Fund ETLL - complete:163109; pending: 27
+2015-05-23 21:29:39  [ main:80903 ] - [ INFO ]  Regular Fund ETLL - complete:162907; pending: 26
+2015-05-23 21:29:39  [ main:81513 ] - [ INFO ]  Regular Fund ETLL - complete:162714; pending: 25
+2015-05-23 21:29:40  [ main:82195 ] - [ INFO ]  Regular Fund ETLL - complete:162509; pending: 24
+2015-05-23 21:29:41  [ main:82809 ] - [ INFO ]  Regular Fund ETLL - complete:162216; pending: 23
+2015-05-23 21:29:41  [ main:83431 ] - [ INFO ]  Regular Fund ETLL - complete:162107; pending: 22
+2015-05-23 21:29:42  [ main:84128 ] - [ INFO ]  Regular Fund ETLL - complete:162010; pending: 21
+2015-05-23 21:29:43  [ main:84741 ] - [ INFO ]  Regular Fund ETLL - complete:161910; pending: 20
+2015-05-23 21:29:43  [ main:85369 ] - [ INFO ]  Regular Fund ETLL - complete:161826; pending: 19
+2015-05-23 21:29:44  [ main:86189 ] - [ INFO ]  Regular Fund ETLL - complete:161819; pending: 18
+2015-05-23 21:29:45  [ main:86905 ] - [ INFO ]  Regular Fund ETLL - complete:161818; pending: 17
+2015-05-23 22:57:11  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 22:57:38  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 22:58:17  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 23:04:50  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 23:04:53  [ main:3114 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 23:04:55  [ main:4948 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 23:04:56  [ main:5549 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 23:04:57  [ main:7135 ] - [ INFO ]  Regular Fund ETLL - complete:160706; pending: 115
+2015-05-23 23:04:58  [ main:7766 ] - [ INFO ]  Regular Fund ETLL - complete:162703; pending: 114
+2015-05-23 23:04:58  [ main:8362 ] - [ INFO ]  Regular Fund ETLL - complete:160505; pending: 113
+2015-05-23 23:04:59  [ main:8876 ] - [ INFO ]  Regular Fund ETLL - complete:160610; pending: 112
+2015-05-23 23:05:00  [ main:9565 ] - [ INFO ]  Regular Fund ETLL - complete:160916; pending: 111
+2015-05-23 23:05:00  [ main:10199 ] - [ INFO ]  Regular Fund ETLL - complete:160716; pending: 110
+2015-05-23 23:05:01  [ main:10891 ] - [ INFO ]  Regular Fund ETLL - complete:161706; pending: 109
+2015-05-23 23:05:02  [ main:11536 ] - [ INFO ]  Regular Fund ETLL - complete:160607; pending: 108
+2015-05-23 23:05:02  [ main:12212 ] - [ INFO ]  Regular Fund ETLL - complete:160512; pending: 107
+2015-05-23 23:05:03  [ main:12776 ] - [ INFO ]  Regular Fund ETLL - complete:160311; pending: 106
+2015-05-23 23:05:04  [ main:13485 ] - [ INFO ]  Regular Fund ETLL - complete:160119; pending: 105
+2015-05-23 23:05:05  [ main:15021 ] - [ INFO ]  Regular Fund ETLL - complete:160216; pending: 104
+2015-05-23 23:05:06  [ main:15623 ] - [ INFO ]  Regular Fund ETLL - complete:163503; pending: 103
+2015-05-23 23:05:07  [ main:16454 ] - [ INFO ]  Regular Fund ETLL - complete:162605; pending: 102
+2015-05-23 23:05:07  [ main:17171 ] - [ INFO ]  Regular Fund ETLL - complete:160314; pending: 101
+2015-05-23 23:05:08  [ main:17828 ] - [ INFO ]  Regular Fund ETLL - complete:163801; pending: 100
+2015-05-23 23:05:09  [ main:18443 ] - [ INFO ]  Regular Fund ETLL - complete:163402; pending: 99
+2015-05-23 23:05:09  [ main:19117 ] - [ INFO ]  Regular Fund ETLL - complete:162607; pending: 98
+2015-05-23 23:05:10  [ main:19766 ] - [ INFO ]  Regular Fund ETLL - complete:166011; pending: 97
+2015-05-23 23:05:12  [ main:21431 ] - [ INFO ]  Regular Fund ETLL - complete:164815; pending: 96
+2015-05-23 23:05:13  [ main:22702 ] - [ INFO ]  Regular Fund ETLL - complete:166009; pending: 95
+2015-05-23 23:05:14  [ main:23418 ] - [ INFO ]  Regular Fund ETLL - complete:161005; pending: 94
+2015-05-23 23:05:15  [ main:24749 ] - [ INFO ]  Regular Fund ETLL - complete:165313; pending: 93
+2015-05-23 23:05:16  [ main:25470 ] - [ INFO ]  Regular Fund ETLL - complete:160611; pending: 92
+2015-05-23 23:05:16  [ main:26186 ] - [ INFO ]  Regular Fund ETLL - complete:160106; pending: 91
+2015-05-23 23:05:17  [ main:26900 ] - [ INFO ]  Regular Fund ETLL - complete:161607; pending: 90
+2015-05-23 23:05:18  [ main:27719 ] - [ INFO ]  Regular Fund ETLL - complete:160910; pending: 89
+2015-05-23 23:05:19  [ main:28435 ] - [ INFO ]  Regular Fund ETLL - complete:166001; pending: 88
+2015-05-23 23:05:19  [ main:29050 ] - [ INFO ]  Regular Fund ETLL - complete:163412; pending: 87
+2015-05-23 23:05:20  [ main:29767 ] - [ INFO ]  Regular Fund ETLL - complete:160211; pending: 86
+2015-05-23 23:05:21  [ main:31099 ] - [ INFO ]  Regular Fund ETLL - complete:166006; pending: 85
+2015-05-23 23:05:22  [ main:31718 ] - [ INFO ]  Regular Fund ETLL - complete:163302; pending: 84
+2015-05-23 23:05:23  [ main:32430 ] - [ INFO ]  Regular Fund ETLL - complete:161217; pending: 83
+2015-05-23 23:05:23  [ main:33146 ] - [ INFO ]  Regular Fund ETLL - complete:162207; pending: 82
+2015-05-23 23:05:24  [ main:34331 ] - [ INFO ]  Regular Fund ETLL - complete:165508; pending: 81
+2015-05-23 23:05:25  [ main:34991 ] - [ INFO ]  Regular Fund ETLL - complete:160805; pending: 80
+2015-05-23 23:05:26  [ main:35935 ] - [ INFO ]  Regular Fund ETLL - complete:162711; pending: 79
+2015-05-23 23:05:27  [ main:36628 ] - [ INFO ]  Regular Fund ETLL - complete:161810; pending: 78
+2015-05-23 23:05:27  [ main:37344 ] - [ INFO ]  Regular Fund ETLL - complete:162307; pending: 77
+2015-05-23 23:05:29  [ main:38677 ] - [ INFO ]  Regular Fund ETLL - complete:160616; pending: 76
+2015-05-23 23:05:30  [ main:39393 ] - [ INFO ]  Regular Fund ETLL - complete:160105; pending: 75
+2015-05-23 23:05:31  [ main:40437 ] - [ INFO ]  Regular Fund ETLL - complete:163409; pending: 74
+2015-05-23 23:05:32  [ main:41850 ] - [ INFO ]  Regular Fund ETLL - complete:161903; pending: 73
+2015-05-23 23:05:33  [ main:42464 ] - [ INFO ]  Regular Fund ETLL - complete:160212; pending: 72
+2015-05-23 23:05:34  [ main:44001 ] - [ INFO ]  Regular Fund ETLL - complete:165516; pending: 71
+2015-05-23 23:05:35  [ main:44718 ] - [ INFO ]  Regular Fund ETLL - complete:162006; pending: 70
+2015-05-23 23:05:36  [ main:45434 ] - [ INFO ]  Regular Fund ETLL - complete:163407; pending: 69
+2015-05-23 23:05:36  [ main:46151 ] - [ INFO ]  Regular Fund ETLL - complete:163415; pending: 68
+2015-05-23 23:05:37  [ main:46872 ] - [ INFO ]  Regular Fund ETLL - complete:160615; pending: 67
+2015-05-23 23:05:38  [ main:47586 ] - [ INFO ]  Regular Fund ETLL - complete:162510; pending: 66
+2015-05-23 23:05:39  [ main:48814 ] - [ INFO ]  Regular Fund ETLL - complete:160613; pending: 65
+2015-05-23 23:05:40  [ main:49532 ] - [ INFO ]  Regular Fund ETLL - complete:160215; pending: 64
+2015-05-23 23:05:40  [ main:50146 ] - [ INFO ]  Regular Fund ETLL - complete:161017; pending: 63
+2015-05-23 23:05:41  [ main:50788 ] - [ INFO ]  Regular Fund ETLL - complete:165309; pending: 62
+2015-05-23 23:05:42  [ main:51477 ] - [ INFO ]  Regular Fund ETLL - complete:161219; pending: 61
+2015-05-23 23:05:42  [ main:52194 ] - [ INFO ]  Regular Fund ETLL - complete:161907; pending: 60
+2015-05-23 23:05:44  [ main:53934 ] - [ INFO ]  Regular Fund ETLL - complete:167901; pending: 59
+2015-05-23 23:05:45  [ main:54855 ] - [ INFO ]  Regular Fund ETLL - complete:165512; pending: 58
+2015-05-23 23:05:46  [ main:55573 ] - [ INFO ]  Regular Fund ETLL - complete:160415; pending: 57
+2015-05-23 23:05:46  [ main:56257 ] - [ INFO ]  Regular Fund ETLL - complete:163110; pending: 56
+2015-05-23 23:05:47  [ main:57211 ] - [ INFO ]  Regular Fund ETLL - complete:160807; pending: 55
+2015-05-23 23:05:48  [ main:57928 ] - [ INFO ]  Regular Fund ETLL - complete:166007; pending: 54
+2015-05-23 23:05:49  [ main:58645 ] - [ INFO ]  Regular Fund ETLL - complete:161213; pending: 53
+2015-05-23 23:05:50  [ main:59976 ] - [ INFO ]  Regular Fund ETLL - complete:163821; pending: 52
+2015-05-23 23:05:51  [ main:60697 ] - [ INFO ]  Regular Fund ETLL - complete:165806; pending: 51
+2015-05-23 23:05:51  [ main:61339 ] - [ INFO ]  Regular Fund ETLL - complete:167701; pending: 50
+2015-05-23 23:05:52  [ main:62229 ] - [ INFO ]  Regular Fund ETLL - complete:166802; pending: 49
+2015-05-23 23:05:53  [ main:62945 ] - [ INFO ]  Regular Fund ETLL - complete:166005; pending: 48
+2015-05-23 23:05:54  [ main:63571 ] - [ INFO ]  Regular Fund ETLL - complete:166002; pending: 47
+2015-05-23 23:05:54  [ main:64276 ] - [ INFO ]  Regular Fund ETLL - complete:165707; pending: 46
+2015-05-23 23:05:55  [ main:64994 ] - [ INFO ]  Regular Fund ETLL - complete:165520; pending: 45
+2015-05-23 23:05:56  [ main:65715 ] - [ INFO ]  Regular Fund ETLL - complete:165519; pending: 44
+2015-05-23 23:05:57  [ main:66427 ] - [ INFO ]  Regular Fund ETLL - complete:165515; pending: 43
+2015-05-23 23:05:57  [ main:67144 ] - [ INFO ]  Regular Fund ETLL - complete:165511; pending: 42
+2015-05-23 23:05:58  [ main:67771 ] - [ INFO ]  Regular Fund ETLL - complete:165312; pending: 41
+2015-05-23 23:05:59  [ main:68680 ] - [ INFO ]  Regular Fund ETLL - complete:165310; pending: 40
+2015-05-23 23:06:00  [ main:70011 ] - [ INFO ]  Regular Fund ETLL - complete:164811; pending: 39
+2015-05-23 23:06:01  [ main:70728 ] - [ INFO ]  Regular Fund ETLL - complete:164809; pending: 38
+2015-05-23 23:06:02  [ main:71446 ] - [ INFO ]  Regular Fund ETLL - complete:163810; pending: 37
+2015-05-23 23:06:02  [ main:72162 ] - [ INFO ]  Regular Fund ETLL - complete:163809; pending: 36
+2015-05-23 23:06:03  [ main:72879 ] - [ INFO ]  Regular Fund ETLL - complete:163808; pending: 35
+2015-05-23 23:06:04  [ main:73512 ] - [ INFO ]  Regular Fund ETLL - complete:163807; pending: 34
+2015-05-23 23:06:04  [ main:74169 ] - [ INFO ]  Regular Fund ETLL - complete:163805; pending: 33
+2015-05-23 23:06:05  [ main:74812 ] - [ INFO ]  Regular Fund ETLL - complete:163804; pending: 32
+2015-05-23 23:06:06  [ main:75439 ] - [ INFO ]  Regular Fund ETLL - complete:163803; pending: 31
+2015-05-23 23:06:06  [ main:76079 ] - [ INFO ]  Regular Fund ETLL - complete:163406; pending: 30
+2015-05-23 23:06:07  [ main:76770 ] - [ INFO ]  Regular Fund ETLL - complete:163209; pending: 29
+2015-05-23 23:06:08  [ main:77385 ] - [ INFO ]  Regular Fund ETLL - complete:163111; pending: 28
+2015-05-23 23:06:08  [ main:78101 ] - [ INFO ]  Regular Fund ETLL - complete:163109; pending: 27
+2015-05-23 23:06:09  [ main:78818 ] - [ INFO ]  Regular Fund ETLL - complete:162907; pending: 26
+2015-05-23 23:06:10  [ main:79535 ] - [ INFO ]  Regular Fund ETLL - complete:162714; pending: 25
+2015-05-23 23:06:10  [ main:80260 ] - [ INFO ]  Regular Fund ETLL - complete:162509; pending: 24
+2015-05-23 23:06:11  [ main:80969 ] - [ INFO ]  Regular Fund ETLL - complete:162216; pending: 23
+2015-05-23 23:06:12  [ main:81686 ] - [ INFO ]  Regular Fund ETLL - complete:162107; pending: 22
+2015-05-23 23:06:13  [ main:82505 ] - [ INFO ]  Regular Fund ETLL - complete:162010; pending: 21
+2015-05-23 23:06:13  [ main:83180 ] - [ INFO ]  Regular Fund ETLL - complete:161910; pending: 20
+2015-05-23 23:06:14  [ main:83792 ] - [ INFO ]  Regular Fund ETLL - complete:161826; pending: 19
+2015-05-23 23:06:15  [ main:84450 ] - [ INFO ]  Regular Fund ETLL - complete:161819; pending: 18
+2015-05-23 23:06:15  [ main:85165 ] - [ INFO ]  Regular Fund ETLL - complete:161818; pending: 17
+2015-05-23 23:06:16  [ main:85885 ] - [ INFO ]  Regular Fund ETLL - complete:161816; pending: 16
+2015-05-23 23:06:17  [ main:86608 ] - [ INFO ]  Regular Fund ETLL - complete:161812; pending: 15
+2015-05-23 23:06:17  [ main:87319 ] - [ INFO ]  Regular Fund ETLL - complete:161811; pending: 14
+2015-05-23 23:06:18  [ main:88036 ] - [ INFO ]  Regular Fund ETLL - complete:161715; pending: 13
+2015-05-23 23:06:19  [ main:89354 ] - [ INFO ]  Regular Fund ETLL - complete:161507; pending: 12
+2015-05-23 23:06:20  [ main:89971 ] - [ INFO ]  Regular Fund ETLL - complete:161207; pending: 11
+2015-05-23 23:06:21  [ main:90594 ] - [ INFO ]  Regular Fund ETLL - complete:161118; pending: 10
+2015-05-23 23:06:21  [ main:91313 ] - [ INFO ]  Regular Fund ETLL - complete:160809; pending: 9
+2015-05-23 23:06:22  [ main:92028 ] - [ INFO ]  Regular Fund ETLL - complete:160808; pending: 8
+2015-05-23 23:06:23  [ main:92746 ] - [ INFO ]  Regular Fund ETLL - complete:160806; pending: 7
+2015-05-23 23:06:24  [ main:93462 ] - [ INFO ]  Regular Fund ETLL - complete:160620; pending: 6
+2015-05-23 23:06:24  [ main:94068 ] - [ INFO ]  Regular Fund ETLL - complete:160605; pending: 5
+2015-05-23 23:06:25  [ main:94695 ] - [ INFO ]  Regular Fund ETLL - complete:160603; pending: 4
+2015-05-23 23:06:26  [ main:95408 ] - [ INFO ]  Regular Fund ETLL - complete:160417; pending: 3
+2015-05-23 23:06:26  [ main:96021 ] - [ INFO ]  Regular Fund ETLL - complete:160219; pending: 2
+2015-05-23 23:06:27  [ main:96638 ] - [ INFO ]  Regular Fund ETLL - complete:160218; pending: 1
+2015-05-23 23:06:27  [ main:97220 ] - [ INFO ]  Regular Fund ETLL - complete:160127; pending: 0
+2015-05-23 23:06:27  [ main:97223 ] - [ INFO ]  DB Connection Closed
+2015-05-23 23:07:21  [ main:0 ] - [ INFO ]  DB Connection created
+2015-05-23 23:07:24  [ main:3592 ] - [ INFO ]  Regular Fund ETLL - complete:160220; pending: 118
+2015-05-23 23:07:26  [ main:5519 ] - [ INFO ]  Regular Fund ETLL - complete:160717; pending: 117
+2015-05-23 23:07:27  [ main:6031 ] - [ INFO ]  Regular Fund ETLL - complete:161610; pending: 116
+2015-05-23 23:07:27  [ main:6645 ] - [ INFO ]  Regular Fund ETLL - complete:160706; pending: 115
+2015-05-23 23:07:28  [ main:7260 ] - [ INFO ]  Regular Fund ETLL - complete:162703; pending: 114
+2015-05-23 23:07:29  [ main:7977 ] - [ INFO ]  Regular Fund ETLL - complete:160505; pending: 113
+2015-05-23 23:07:29  [ main:8693 ] - [ INFO ]  Regular Fund ETLL - complete:160610; pending: 112
+2015-05-23 23:07:30  [ main:9308 ] - [ INFO ]  Regular Fund ETLL - complete:160916; pending: 111
+2015-05-23 23:07:31  [ main:10024 ] - [ INFO ]  Regular Fund ETLL - complete:160716; pending: 110
+2015-05-23 23:07:31  [ main:10742 ] - [ INFO ]  Regular Fund ETLL - complete:161706; pending: 109
+2015-05-23 23:07:32  [ main:11353 ] - [ INFO ]  Regular Fund ETLL - complete:160607; pending: 108
+2015-05-23 23:07:33  [ main:11975 ] - [ INFO ]  Regular Fund ETLL - complete:160512; pending: 107
+2015-05-23 23:07:33  [ main:12584 ] - [ INFO ]  Regular Fund ETLL - complete:160311; pending: 106
+2015-05-23 23:07:34  [ main:13198 ] - [ INFO ]  Regular Fund ETLL - complete:160119; pending: 105
+2015-05-23 23:07:35  [ main:14736 ] - [ INFO ]  Regular Fund ETLL - complete:160216; pending: 104
+2015-05-23 23:07:36  [ main:15350 ] - [ INFO ]  Regular Fund ETLL - complete:163503; pending: 103
+2015-05-23 23:07:37  [ main:16066 ] - [ INFO ]  Regular Fund ETLL - complete:162605; pending: 102
+2015-05-23 23:07:37  [ main:16685 ] - [ INFO ]  Regular Fund ETLL - complete:160314; pending: 101
+2015-05-23 23:07:38  [ main:17398 ] - [ INFO ]  Regular Fund ETLL - complete:163801; pending: 100
+2015-05-23 23:07:39  [ main:18001 ] - [ INFO ]  Regular Fund ETLL - complete:163402; pending: 99
+2015-05-23 23:07:39  [ main:18626 ] - [ INFO ]  Regular Fund ETLL - complete:162607; pending: 98
+2015-05-23 23:07:40  [ main:19241 ] - [ INFO ]  Regular Fund ETLL - complete:166011; pending: 97
+2015-05-23 23:07:41  [ main:20674 ] - [ INFO ]  Regular Fund ETLL - complete:164815; pending: 96
+2015-05-23 23:07:42  [ main:21288 ] - [ INFO ]  Regular Fund ETLL - complete:166009; pending: 95
+2015-05-23 23:07:43  [ main:21902 ] - [ INFO ]  Regular Fund ETLL - complete:161005; pending: 94
+2015-05-23 23:07:43  [ main:22518 ] - [ INFO ]  Regular Fund ETLL - complete:165313; pending: 93
+2015-05-23 23:07:44  [ main:23235 ] - [ INFO ]  Regular Fund ETLL - complete:160611; pending: 92
+2015-05-23 23:07:45  [ main:23853 ] - [ INFO ]  Regular Fund ETLL - complete:160106; pending: 91
+2015-05-23 23:07:45  [ main:24567 ] - [ INFO ]  Regular Fund ETLL - complete:161607; pending: 90
+2015-05-23 23:07:46  [ main:25284 ] - [ INFO ]  Regular Fund ETLL - complete:160910; pending: 89
+2015-05-23 23:07:47  [ main:25901 ] - [ INFO ]  Regular Fund ETLL - complete:166001; pending: 88
+2015-05-23 23:07:49  [ main:28047 ] - [ INFO ]  Regular Fund ETLL - complete:163412; pending: 87
+2015-05-23 23:07:49  [ main:28667 ] - [ INFO ]  Regular Fund ETLL - complete:160211; pending: 86
+2015-05-23 23:07:50  [ main:29277 ] - [ INFO ]  Regular Fund ETLL - complete:166006; pending: 85
+2015-05-23 23:07:51  [ main:29993 ] - [ INFO ]  Regular Fund ETLL - complete:163302; pending: 84
+2015-05-23 23:07:51  [ main:30606 ] - [ INFO ]  Regular Fund ETLL - complete:161217; pending: 83
+2015-05-23 23:07:53  [ main:31837 ] - [ INFO ]  Regular Fund ETLL - complete:162207; pending: 82
+2015-05-23 23:07:53  [ main:32451 ] - [ INFO ]  Regular Fund ETLL - complete:165508; pending: 81
+2015-05-23 23:07:54  [ main:33168 ] - [ INFO ]  Regular Fund ETLL - complete:160805; pending: 80
+2015-05-23 23:07:55  [ main:33782 ] - [ INFO ]  Regular Fund ETLL - complete:162711; pending: 79
+2015-05-23 23:07:55  [ main:34397 ] - [ INFO ]  Regular Fund ETLL - complete:161810; pending: 78
+2015-05-23 23:07:56  [ main:35113 ] - [ INFO ]  Regular Fund ETLL - complete:162307; pending: 77
+2015-05-23 23:07:57  [ main:35830 ] - [ INFO ]  Regular Fund ETLL - complete:160616; pending: 76
+2015-05-23 23:07:57  [ main:36444 ] - [ INFO ]  Regular Fund ETLL - complete:160105; pending: 75
+2015-05-23 23:07:58  [ main:37060 ] - [ INFO ]  Regular Fund ETLL - complete:163409; pending: 74
+2015-05-23 23:07:59  [ main:38084 ] - [ INFO ]  Regular Fund ETLL - complete:161903; pending: 73
+2015-05-23 23:08:00  [ main:38806 ] - [ INFO ]  Regular Fund ETLL - complete:160212; pending: 72
+2015-05-23 23:08:00  [ main:39415 ] - [ INFO ]  Regular Fund ETLL - complete:165516; pending: 71
+2015-05-23 23:08:01  [ main:40745 ] - [ INFO ]  Regular Fund ETLL - complete:162006; pending: 70
+2015-05-23 23:08:03  [ main:41769 ] - [ INFO ]  Regular Fund ETLL - complete:163407; pending: 69
+2015-05-23 23:08:03  [ main:42384 ] - [ INFO ]  Regular Fund ETLL - complete:163415; pending: 68
+2015-05-23 23:08:04  [ main:43103 ] - [ INFO ]  Regular Fund ETLL - complete:160615; pending: 67
+2015-05-23 23:08:05  [ main:44330 ] - [ INFO ]  Regular Fund ETLL - complete:162510; pending: 66
+2015-05-23 23:08:06  [ main:45046 ] - [ INFO ]  Regular Fund ETLL - complete:160613; pending: 65
+2015-05-23 23:08:06  [ main:45763 ] - [ INFO ]  Regular Fund ETLL - complete:160215; pending: 64
+2015-05-23 23:08:07  [ main:46378 ] - [ INFO ]  Regular Fund ETLL - complete:161017; pending: 63
+2015-05-23 23:08:08  [ main:46993 ] - [ INFO ]  Regular Fund ETLL - complete:165309; pending: 62
+2015-05-23 23:08:08  [ main:47708 ] - [ INFO ]  Regular Fund ETLL - complete:161219; pending: 61
+2015-05-23 23:08:09  [ main:48425 ] - [ INFO ]  Regular Fund ETLL - complete:161907; pending: 60
+2015-05-23 23:08:10  [ main:49158 ] - [ INFO ]  Regular Fund ETLL - complete:167901; pending: 59
+2015-05-23 23:08:11  [ main:49861 ] - [ INFO ]  Regular Fund ETLL - complete:165512; pending: 58
+2015-05-23 23:08:11  [ main:50679 ] - [ INFO ]  Regular Fund ETLL - complete:160415; pending: 57
+2015-05-23 23:08:12  [ main:51396 ] - [ INFO ]  Regular Fund ETLL - complete:163110; pending: 56
+2015-05-23 23:08:13  [ main:52003 ] - [ INFO ]  Regular Fund ETLL - complete:160807; pending: 55
+2015-05-23 23:08:13  [ main:52727 ] - [ INFO ]  Regular Fund ETLL - complete:166007; pending: 54
+2015-05-23 23:08:14  [ main:53648 ] - [ INFO ]  Regular Fund ETLL - complete:161213; pending: 53
+2015-05-23 23:08:15  [ main:54366 ] - [ INFO ]  Regular Fund ETLL - complete:163821; pending: 52
+2015-05-23 23:08:16  [ main:55086 ] - [ INFO ]  Regular Fund ETLL - complete:165806; pending: 51
+2015-05-23 23:08:17  [ main:55799 ] - [ INFO ]  Regular Fund ETLL - complete:167701; pending: 50
+2015-05-23 23:08:17  [ main:56515 ] - [ INFO ]  Regular Fund ETLL - complete:166802; pending: 49
+2015-05-23 23:08:18  [ main:57435 ] - [ INFO ]  Regular Fund ETLL - complete:166005; pending: 48
+2015-05-23 23:08:19  [ main:58052 ] - [ INFO ]  Regular Fund ETLL - complete:166002; pending: 47
+2015-05-23 23:08:19  [ main:58666 ] - [ INFO ]  Regular Fund ETLL - complete:165707; pending: 46
+2015-05-23 23:08:20  [ main:59383 ] - [ INFO ]  Regular Fund ETLL - complete:165520; pending: 45
+2015-05-23 23:08:21  [ main:59997 ] - [ INFO ]  Regular Fund ETLL - complete:165519; pending: 44
+2015-05-23 23:08:21  [ main:60714 ] - [ INFO ]  Regular Fund ETLL - complete:165515; pending: 43
+2015-05-23 23:08:22  [ main:61431 ] - [ INFO ]  Regular Fund ETLL - complete:165511; pending: 42
+2015-05-23 23:08:23  [ main:62762 ] - [ INFO ]  Regular Fund ETLL - complete:165312; pending: 41
+2015-05-23 23:08:24  [ main:63376 ] - [ INFO ]  Regular Fund ETLL - complete:165310; pending: 40
+2015-05-23 23:08:25  [ main:64050 ] - [ INFO ]  Regular Fund ETLL - complete:164811; pending: 39
+2015-05-23 23:08:25  [ main:64709 ] - [ INFO ]  Regular Fund ETLL - complete:164809; pending: 38
+2015-05-23 23:08:26  [ main:65425 ] - [ INFO ]  Regular Fund ETLL - complete:163810; pending: 37
+2015-05-23 23:08:27  [ main:66039 ] - [ INFO ]  Regular Fund ETLL - complete:163809; pending: 36
+2015-05-23 23:08:27  [ main:66756 ] - [ INFO ]  Regular Fund ETLL - complete:163808; pending: 35
+2015-05-23 23:08:29  [ main:68190 ] - [ INFO ]  Regular Fund ETLL - complete:163807; pending: 34
+2015-05-23 23:08:30  [ main:68804 ] - [ INFO ]  Regular Fund ETLL - complete:163805; pending: 33
+2015-05-23 23:08:30  [ main:69418 ] - [ INFO ]  Regular Fund ETLL - complete:163804; pending: 32
+2015-05-23 23:08:31  [ main:70032 ] - [ INFO ]  Regular Fund ETLL - complete:163803; pending: 31
+2015-05-23 23:08:31  [ main:70647 ] - [ INFO ]  Regular Fund ETLL - complete:163406; pending: 30
+2015-05-23 23:08:32  [ main:71364 ] - [ INFO ]  Regular Fund ETLL - complete:163209; pending: 29
+2015-05-23 23:08:33  [ main:71942 ] - [ INFO ]  Regular Fund ETLL - complete:163111; pending: 28
+2015-05-23 23:08:33  [ main:72593 ] - [ INFO ]  Regular Fund ETLL - complete:163109; pending: 27
+2015-05-23 23:08:34  [ main:73316 ] - [ INFO ]  Regular Fund ETLL - complete:162907; pending: 26
+2015-05-23 23:08:35  [ main:74027 ] - [ INFO ]  Regular Fund ETLL - complete:162714; pending: 25
+2015-05-23 23:08:35  [ main:74744 ] - [ INFO ]  Regular Fund ETLL - complete:162509; pending: 24
+2015-05-23 23:08:36  [ main:75322 ] - [ INFO ]  Regular Fund ETLL - complete:162216; pending: 23
+2015-05-23 23:08:37  [ main:75972 ] - [ INFO ]  Regular Fund ETLL - complete:162107; pending: 22
+2015-05-23 23:08:37  [ main:76688 ] - [ INFO ]  Regular Fund ETLL - complete:162010; pending: 21
+2015-05-23 23:08:38  [ main:77406 ] - [ INFO ]  Regular Fund ETLL - complete:161910; pending: 20
+2015-05-23 23:08:39  [ main:78021 ] - [ INFO ]  Regular Fund ETLL - complete:161826; pending: 19
+2015-05-23 23:08:39  [ main:78737 ] - [ INFO ]  Regular Fund ETLL - complete:161819; pending: 18
+2015-05-23 23:08:40  [ main:79454 ] - [ INFO ]  Regular Fund ETLL - complete:161818; pending: 17
+2015-05-23 23:08:41  [ main:80068 ] - [ INFO ]  Regular Fund ETLL - complete:161816; pending: 16
+2015-05-23 23:08:44  [ main:82834 ] - [ INFO ]  Regular Fund ETLL - complete:161812; pending: 15
+2015-05-23 23:08:44  [ main:83551 ] - [ INFO ]  Regular Fund ETLL - complete:161811; pending: 14
+2015-05-23 23:08:45  [ main:84268 ] - [ INFO ]  Regular Fund ETLL - complete:161715; pending: 13
+2015-05-23 23:08:46  [ main:84984 ] - [ INFO ]  Regular Fund ETLL - complete:161507; pending: 12
+2015-05-23 23:08:46  [ main:85632 ] - [ INFO ]  Regular Fund ETLL - complete:161207; pending: 11
+2015-05-23 23:08:47  [ main:86232 ] - [ INFO ]  Regular Fund ETLL - complete:161118; pending: 10
+2015-05-23 23:08:48  [ main:86929 ] - [ INFO ]  Regular Fund ETLL - complete:160809; pending: 9
+2015-05-23 23:08:48  [ main:87646 ] - [ INFO ]  Regular Fund ETLL - complete:160808; pending: 8
+2015-05-23 23:08:49  [ main:88466 ] - [ INFO ]  Regular Fund ETLL - complete:160806; pending: 7
+2015-05-23 23:08:50  [ main:89080 ] - [ INFO ]  Regular Fund ETLL - complete:160620; pending: 6
+2015-05-23 23:08:51  [ main:89797 ] - [ INFO ]  Regular Fund ETLL - complete:160605; pending: 5
+2015-05-23 23:08:51  [ main:90514 ] - [ INFO ]  Regular Fund ETLL - complete:160603; pending: 4
+2015-05-23 23:08:52  [ main:91230 ] - [ INFO ]  Regular Fund ETLL - complete:160417; pending: 3
+2015-05-23 23:08:53  [ main:91948 ] - [ INFO ]  Regular Fund ETLL - complete:160219; pending: 2
+2015-05-23 23:08:53  [ main:92562 ] - [ INFO ]  Regular Fund ETLL - complete:160218; pending: 1
+2015-05-23 23:08:54  [ main:93157 ] - [ INFO ]  Regular Fund ETLL - complete:160127; pending: 0
+2015-05-23 23:08:54  [ main:93159 ] - [ INFO ]  DB Connection Closed

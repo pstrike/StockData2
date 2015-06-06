@@ -1,0 +1,4 @@
+2015-05-13 11:12:02  [ main:635537 ] - [ ERROR ]  Update Stock Data into MySQL Exception
+2015-05-13 11:12:02  [ main:635542 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 72,576 milliseconds ago.  The last packet sent successfully to the server was 72,575 milliseconds ago.

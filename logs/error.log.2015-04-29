@@ -1,0 +1,194 @@
+2015-04-29 21:31:15  [ main:10700 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:10701 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:10736 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:10737 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:10767 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:10767 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:10801 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:10801 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:10822 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:10822 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:10854 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:10855 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:10886 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:10886 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:10919 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:10921 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:10942 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:10942 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:10977 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:10978 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:11005 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:11005 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:11038 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:11038 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:11059 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:11059 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:11091 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:11092 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:11112 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:11112 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:11145 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:11145 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:15  [ main:11165 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:15  [ main:11166 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11199 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11200 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11227 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11228 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11261 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11261 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11281 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11281 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11313 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11313 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11334 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11334 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11366 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11366 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11385 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11385 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11419 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11419 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11441 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11442 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11473 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11473 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11491 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11491 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11525 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11525 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11543 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11543 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11573 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11573 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11591 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11591 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11625 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11626 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11647 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11647 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11677 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11678 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11694 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11694 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11727 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11727 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11747 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11748 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11778 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11778 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11795 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11795 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11829 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11829 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11869 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11869 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11899 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11899 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11920 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11920 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11952 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11953 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:11972 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:11972 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:12002 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:12002 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:12022 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:12022 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:12053 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:12053 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:12074 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:12074 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:12108 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:12108 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:12129 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:12129 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:16  [ main:12161 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:16  [ main:12161 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12186 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12186 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12217 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12217 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12237 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12237 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12266 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12266 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12284 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12284 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12320 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12321 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12341 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12342 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12373 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12373 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12391 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12391 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12439 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12439 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12461 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12461 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12493 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12493 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12513 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12514 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12546 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12546 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12564 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12564 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12596 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12597 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12616 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12616 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12647 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12647 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12666 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12666 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12694 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12695 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12716 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12716 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12747 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12747 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12772 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12772 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12810 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12810 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12837 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12837 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12869 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12869 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12891 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12891 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12920 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12920 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12940 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12940 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12970 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12970 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:12988 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:12989 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:13020 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:13021 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:13044 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:13045 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:13087 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:13087 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:13105 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:13105 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:13138 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:13138 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:17  [ main:13156 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:17  [ main:13156 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:18  [ main:13187 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:18  [ main:13188 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:18  [ main:13206 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:18  [ main:13206 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:18  [ main:13240 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:18  [ main:13241 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:18  [ main:13261 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:18  [ main:13262 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:18  [ main:13291 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:18  [ main:13291 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.
+2015-04-29 21:31:18  [ main:13309 ] - [ ERROR ]  Get Stock Data base on Date from MySQL Exception
+2015-04-29 21:31:18  [ main:13310 ] - [ ERROR ]  java.sql.SQLException: Illegal operation on empty result set.

@@ -1,0 +1,72 @@
+2015-05-23 16:08:51  [ main:1291 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 16:08:51  [ main:1292 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.2234 0.0024 0.20% 2015-05-22 15:00"
+2015-05-23 16:08:51  [ main:1644 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 16:08:51  [ main:1645 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "--- --- --- ---"
+2015-05-23 16:08:52  [ main:1819 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161610
+2015-05-23 16:08:52  [ main:1819 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.9549 0.0109 0.56% 2015-05-22 15:00"
+2015-05-23 16:08:52  [ main:1966 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160706
+2015-05-23 16:08:52  [ main:1967 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.3283 0.0282 2.17% 2015-05-22 15:00"
+2015-05-23 16:08:52  [ main:2219 ] - [ ERROR ]  Get Fund From TTJJ Exception: 162703
+2015-05-23 16:08:52  [ main:2219 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "3.9779 0.0439 1.12% 2015-05-22 15:00"
+2015-05-23 16:08:52  [ main:2404 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160505
+2015-05-23 16:08:52  [ main:2404 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "3.6267 0.1017 2.88% 2015-05-22 15:00"
+2015-05-23 16:08:52  [ main:2599 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160610
+2015-05-23 16:08:52  [ main:2600 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "2.1831 0.0241 1.12% 2015-05-22 15:00"
+2015-05-23 16:08:53  [ main:2770 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160916
+2015-05-23 16:08:53  [ main:2773 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "2.7185 0.0355 1.32% 2015-05-22 15:00"
+2015-05-23 16:08:53  [ main:2869 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160716
+2015-05-23 16:08:53  [ main:2869 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.4321 0.0447 3.22% 2015-05-22 15:00"
+2015-05-23 16:08:53  [ main:3127 ] - [ ERROR ]  Get Fund From TTJJ Exception: 161706
+2015-05-23 16:08:53  [ main:3127 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "2.5555 0.0179 0.71% 2015-05-22 15:00"
+2015-05-23 16:08:53  [ main:3263 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160607
+2015-05-23 16:08:53  [ main:3263 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.3967 0.0377 2.77% 2015-05-22 15:00"
+2015-05-23 16:08:53  [ main:3403 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160512
+2015-05-23 16:08:53  [ main:3403 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "2.5915 0.0425 1.67% 2015-05-22 15:00"
+2015-05-23 16:08:53  [ main:3528 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160311
+2015-05-23 16:08:53  [ main:3529 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.7219 0.0379 2.25% 2015-05-22 15:00"
+2015-05-23 16:08:54  [ main:3753 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160119
+2015-05-23 16:08:54  [ main:3753 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "2.2586 0.0349 1.57% 2015-05-22 15:00"
+2015-05-23 16:12:08  [ main:178574 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 16:12:08  [ main:178574 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.2234 0.0024 0.20% 2015-05-22 15:00"
+2015-05-23 16:13:52  [ main:48100 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 16:13:52  [ main:48100 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 16:19:50  [ main:30235 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 16:19:50  [ main:30236 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 16:22:27  [ main:8285 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 16:22:27  [ main:8286 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 17:05:59  [ main:4192 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 17:05:59  [ main:4193 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 17:06:03  [ main:8251 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160216
+2015-05-23 17:06:03  [ main:8252 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 17:06:05  [ main:10270 ] - [ ERROR ]  Get Fund From TTJJ Exception: 164815
+2015-05-23 17:06:05  [ main:10270 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 17:12:51  [ main:1764 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 17:12:51  [ main:1764 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 17:17:54  [ main:1460 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 17:17:54  [ main:1460 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "---"
+2015-05-23 17:26:19  [ main:2864 ] - [ ERROR ]  Regular Fund Data ETL Exception
+2015-05-23 17:26:19  [ main:2865 ] - [ ERROR ]  java.lang.NullPointerException
+2015-05-23 21:15:38  [ main:30172 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 21:15:38  [ main:30173 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:38  [ main:30175 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 21:15:38  [ main:30176 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:38  [ main:30179 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 21:15:38  [ main:30179 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:38  [ main:30181 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 21:15:38  [ main:30181 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:38  [ main:30183 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 21:15:38  [ main:30184 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:38  [ main:30186 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160220
+2015-05-23 21:15:38  [ main:30186 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:41  [ main:33153 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 21:15:41  [ main:33153 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:41  [ main:33158 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 21:15:41  [ main:33158 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:41  [ main:33160 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 21:15:41  [ main:33160 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:41  [ main:33162 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 21:15:41  [ main:33162 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:41  [ main:33164 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 21:15:41  [ main:33164 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com
+2015-05-23 21:15:41  [ main:33166 ] - [ ERROR ]  Get Fund From TTJJ Exception: 160717
+2015-05-23 21:15:41  [ main:33166 ] - [ ERROR ]  java.net.UnknownHostException: fund.eastmoney.com

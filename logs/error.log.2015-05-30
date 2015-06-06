@@ -1,0 +1,16 @@
+2015-05-30 13:34:33  [ main:497 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-30 13:34:33  [ main:499 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-05-30 13:34:33  [ main:509 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-30 13:34:33  [ main:509 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-05-30 13:34:33  [ main:519 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-30 13:34:33  [ main:519 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-05-30 13:34:33  [ main:528 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-30 13:34:33  [ main:528 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-05-30 13:34:34  [ main:2070 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-30 13:34:34  [ main:2070 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-05-30 13:34:34  [ main:2081 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-30 13:34:34  [ main:2081 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-05-30 13:34:34  [ main:2089 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-30 13:34:34  [ main:2090 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
+2015-05-30 13:34:34  [ main:2097 ] - [ ERROR ]  Update Fund to Finalize into MySQL Exception
+2015-05-30 13:34:34  [ main:2098 ] - [ ERROR ]  java.sql.SQLException: 'Infinity' is not a valid numeric or approximate numeric value
