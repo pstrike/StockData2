@@ -1,0 +1,336 @@
+2015-06-10 22:58:25  [ main:0 ] - [ INFO ]  DB Connection created
+2015-06-10 22:58:26  [ main:653 ] - [ INFO ]  Full Fund T - complete:160220; pending: 120
+2015-06-10 22:58:26  [ main:952 ] - [ INFO ]  Full Fund T - complete:160717; pending: 119
+2015-06-10 22:58:27  [ main:1340 ] - [ INFO ]  Full Fund T - complete:161610; pending: 118
+2015-06-10 22:58:27  [ main:1620 ] - [ INFO ]  Full Fund T - complete:160706; pending: 117
+2015-06-10 22:58:27  [ main:1927 ] - [ INFO ]  Full Fund T - complete:162703; pending: 116
+2015-06-10 22:58:27  [ main:2185 ] - [ INFO ]  Full Fund T - complete:160505; pending: 115
+2015-06-10 22:58:28  [ main:2465 ] - [ INFO ]  Full Fund T - complete:160610; pending: 114
+2015-06-10 22:58:28  [ main:2762 ] - [ INFO ]  Full Fund T - complete:160916; pending: 113
+2015-06-10 22:58:28  [ main:3024 ] - [ INFO ]  Full Fund T - complete:160716; pending: 112
+2015-06-10 22:58:29  [ main:3282 ] - [ INFO ]  Full Fund T - complete:161706; pending: 111
+2015-06-10 22:58:29  [ main:3680 ] - [ INFO ]  Full Fund T - complete:160607; pending: 110
+2015-06-10 22:58:29  [ main:3931 ] - [ INFO ]  Full Fund T - complete:160512; pending: 109
+2015-06-10 22:58:29  [ main:4184 ] - [ INFO ]  Full Fund T - complete:160311; pending: 108
+2015-06-10 22:58:30  [ main:4466 ] - [ INFO ]  Full Fund T - complete:160119; pending: 107
+2015-06-10 22:58:30  [ main:4788 ] - [ INFO ]  Full Fund T - complete:160216; pending: 106
+2015-06-10 22:58:30  [ main:5051 ] - [ INFO ]  Full Fund T - complete:163503; pending: 105
+2015-06-10 22:58:31  [ main:5349 ] - [ INFO ]  Full Fund T - complete:162605; pending: 104
+2015-06-10 22:58:31  [ main:5689 ] - [ INFO ]  Full Fund T - complete:160314; pending: 103
+2015-06-10 22:58:31  [ main:5963 ] - [ INFO ]  Full Fund T - complete:163801; pending: 102
+2015-06-10 22:58:32  [ main:6367 ] - [ INFO ]  Full Fund T - complete:163402; pending: 101
+2015-06-10 22:58:32  [ main:6671 ] - [ INFO ]  Full Fund T - complete:162607; pending: 100
+2015-06-10 22:58:32  [ main:6952 ] - [ INFO ]  Full Fund T - complete:166011; pending: 99
+2015-06-10 22:58:33  [ main:7259 ] - [ INFO ]  Full Fund T - complete:164815; pending: 98
+2015-06-10 22:58:33  [ main:7523 ] - [ INFO ]  Full Fund T - complete:166009; pending: 97
+2015-06-10 22:58:33  [ main:7820 ] - [ INFO ]  Full Fund T - complete:161005; pending: 96
+2015-06-10 22:58:33  [ main:8075 ] - [ INFO ]  Full Fund T - complete:165313; pending: 95
+2015-06-10 22:58:34  [ main:8390 ] - [ INFO ]  Full Fund T - complete:160611; pending: 94
+2015-06-10 22:58:34  [ main:8698 ] - [ INFO ]  Full Fund T - complete:160106; pending: 93
+2015-06-10 22:58:34  [ main:9005 ] - [ INFO ]  Full Fund T - complete:161607; pending: 92
+2015-06-10 22:58:35  [ main:9277 ] - [ INFO ]  Full Fund T - complete:160910; pending: 91
+2015-06-10 22:58:35  [ main:9757 ] - [ INFO ]  Full Fund T - complete:166001; pending: 90
+2015-06-10 22:58:35  [ main:10043 ] - [ INFO ]  Full Fund T - complete:163412; pending: 89
+2015-06-10 22:58:36  [ main:10338 ] - [ INFO ]  Full Fund T - complete:160211; pending: 88
+2015-06-10 22:58:36  [ main:10608 ] - [ INFO ]  Full Fund T - complete:166006; pending: 87
+2015-06-10 22:58:36  [ main:10876 ] - [ INFO ]  Full Fund T - complete:163302; pending: 86
+2015-06-10 22:58:36  [ main:11138 ] - [ INFO ]  Full Fund T - complete:161217; pending: 85
+2015-06-10 22:58:37  [ main:11499 ] - [ INFO ]  Full Fund T - complete:162207; pending: 84
+2015-06-10 22:58:37  [ main:11789 ] - [ INFO ]  Full Fund T - complete:165508; pending: 83
+2015-06-10 22:58:37  [ main:12039 ] - [ INFO ]  Full Fund T - complete:160805; pending: 82
+2015-06-10 22:58:38  [ main:12322 ] - [ INFO ]  Full Fund T - complete:162711; pending: 81
+2015-06-10 22:58:38  [ main:12663 ] - [ INFO ]  Full Fund T - complete:161810; pending: 80
+2015-06-10 22:58:38  [ main:12963 ] - [ INFO ]  Full Fund T - complete:162307; pending: 79
+2015-06-10 22:58:38  [ main:13244 ] - [ INFO ]  Full Fund T - complete:160616; pending: 78
+2015-06-10 22:58:39  [ main:13553 ] - [ INFO ]  Full Fund T - complete:160105; pending: 77
+2015-06-10 22:58:39  [ main:13894 ] - [ INFO ]  Full Fund T - complete:163409; pending: 76
+2015-06-10 22:58:40  [ main:14303 ] - [ INFO ]  Full Fund T - complete:161903; pending: 75
+2015-06-10 22:58:40  [ main:14598 ] - [ INFO ]  Full Fund T - complete:160212; pending: 74
+2015-06-10 22:58:40  [ main:14895 ] - [ INFO ]  Full Fund T - complete:165516; pending: 73
+2015-06-10 22:58:40  [ main:15163 ] - [ INFO ]  Full Fund T - complete:162006; pending: 72
+2015-06-10 22:58:41  [ main:15435 ] - [ INFO ]  Full Fund T - complete:163407; pending: 71
+2015-06-10 22:58:41  [ main:15729 ] - [ INFO ]  Full Fund T - complete:163415; pending: 70
+2015-06-10 22:58:41  [ main:16007 ] - [ INFO ]  Full Fund T - complete:160615; pending: 69
+2015-06-10 22:58:42  [ main:16299 ] - [ INFO ]  Full Fund T - complete:162510; pending: 68
+2015-06-10 22:58:42  [ main:16582 ] - [ INFO ]  Full Fund T - complete:160613; pending: 67
+2015-06-10 22:58:42  [ main:16866 ] - [ INFO ]  Full Fund T - complete:160215; pending: 66
+2015-06-10 22:58:42  [ main:17147 ] - [ INFO ]  Full Fund T - complete:161017; pending: 65
+2015-06-10 22:58:43  [ main:17478 ] - [ INFO ]  Full Fund T - complete:165309; pending: 64
+2015-06-10 22:58:43  [ main:17738 ] - [ INFO ]  Full Fund T - complete:161219; pending: 63
+2015-06-10 22:58:43  [ main:18038 ] - [ INFO ]  Full Fund T - complete:161907; pending: 62
+2015-06-10 22:58:44  [ main:18303 ] - [ INFO ]  Full Fund T - complete:167901; pending: 61
+2015-06-10 22:58:44  [ main:18666 ] - [ INFO ]  Full Fund T - complete:165512; pending: 60
+2015-06-10 22:58:44  [ main:18937 ] - [ INFO ]  Full Fund T - complete:160415; pending: 59
+2015-06-10 22:58:44  [ main:19195 ] - [ INFO ]  Full Fund T - complete:163110; pending: 58
+2015-06-10 22:58:45  [ main:19480 ] - [ INFO ]  Full Fund T - complete:160807; pending: 57
+2015-06-10 22:58:45  [ main:19745 ] - [ INFO ]  Full Fund T - complete:166007; pending: 56
+2015-06-10 22:58:45  [ main:19995 ] - [ INFO ]  Full Fund T - complete:161213; pending: 55
+2015-06-10 22:58:46  [ main:20251 ] - [ INFO ]  Full Fund T - complete:163821; pending: 54
+2015-06-10 22:58:46  [ main:20525 ] - [ INFO ]  Full Fund T - complete:165806; pending: 53
+2015-06-10 22:58:46  [ main:20783 ] - [ INFO ]  Full Fund T - complete:167701; pending: 52
+2015-06-10 22:58:46  [ main:21042 ] - [ INFO ]  Full Fund T - complete:166802; pending: 51
+2015-06-10 22:58:47  [ main:21321 ] - [ INFO ]  Full Fund T - complete:166005; pending: 50
+2015-06-10 22:58:47  [ main:21615 ] - [ INFO ]  Full Fund T - complete:166002; pending: 49
+2015-06-10 22:58:47  [ main:21868 ] - [ INFO ]  Full Fund T - complete:165707; pending: 48
+2015-06-10 22:58:47  [ main:22182 ] - [ INFO ]  Full Fund T - complete:165520; pending: 47
+2015-06-10 22:58:48  [ main:22501 ] - [ INFO ]  Full Fund T - complete:165519; pending: 46
+2015-06-10 22:58:48  [ main:22770 ] - [ INFO ]  Full Fund T - complete:165515; pending: 45
+2015-06-10 22:58:48  [ main:23017 ] - [ INFO ]  Full Fund T - complete:165511; pending: 44
+2015-06-10 22:58:49  [ main:23270 ] - [ INFO ]  Full Fund T - complete:165312; pending: 43
+2015-06-10 22:58:49  [ main:23540 ] - [ INFO ]  Full Fund T - complete:165310; pending: 42
+2015-06-10 22:58:49  [ main:23820 ] - [ INFO ]  Full Fund T - complete:164811; pending: 41
+2015-06-10 22:58:49  [ main:24063 ] - [ INFO ]  Full Fund T - complete:164809; pending: 40
+2015-06-10 22:58:50  [ main:24318 ] - [ INFO ]  Full Fund T - complete:163810; pending: 39
+2015-06-10 22:58:50  [ main:24592 ] - [ INFO ]  Full Fund T - complete:163809; pending: 38
+2015-06-10 22:58:50  [ main:24845 ] - [ INFO ]  Full Fund T - complete:163808; pending: 37
+2015-06-10 22:58:50  [ main:25115 ] - [ INFO ]  Full Fund T - complete:163807; pending: 36
+2015-06-10 22:58:51  [ main:25378 ] - [ INFO ]  Full Fund T - complete:163805; pending: 35
+2015-06-10 22:58:51  [ main:25660 ] - [ INFO ]  Full Fund T - complete:163804; pending: 34
+2015-06-10 22:58:51  [ main:25908 ] - [ INFO ]  Full Fund T - complete:163803; pending: 33
+2015-06-10 22:58:51  [ main:26219 ] - [ INFO ]  Full Fund T - complete:163406; pending: 32
+2015-06-10 22:58:52  [ main:26562 ] - [ INFO ]  Full Fund T - complete:163209; pending: 31
+2015-06-10 22:58:52  [ main:26831 ] - [ INFO ]  Full Fund T - complete:163111; pending: 30
+2015-06-10 22:58:52  [ main:27091 ] - [ INFO ]  Full Fund T - complete:163109; pending: 29
+2015-06-10 22:58:53  [ main:27334 ] - [ INFO ]  Full Fund T - complete:162907; pending: 28
+2015-06-10 22:58:53  [ main:27578 ] - [ INFO ]  Full Fund T - complete:162714; pending: 27
+2015-06-10 22:58:53  [ main:27822 ] - [ INFO ]  Full Fund T - complete:162509; pending: 26
+2015-06-10 22:58:53  [ main:28101 ] - [ INFO ]  Full Fund T - complete:162216; pending: 25
+2015-06-10 22:58:54  [ main:28349 ] - [ INFO ]  Full Fund T - complete:162107; pending: 24
+2015-06-10 22:58:54  [ main:28594 ] - [ INFO ]  Full Fund T - complete:162010; pending: 23
+2015-06-10 22:58:54  [ main:28837 ] - [ INFO ]  Full Fund T - complete:161910; pending: 22
+2015-06-10 22:58:54  [ main:29085 ] - [ INFO ]  Full Fund T - complete:161826; pending: 21
+2015-06-10 22:58:55  [ main:29382 ] - [ INFO ]  Full Fund T - complete:161819; pending: 20
+2015-06-10 22:58:55  [ main:29644 ] - [ INFO ]  Full Fund T - complete:161818; pending: 19
+2015-06-10 22:58:55  [ main:29903 ] - [ INFO ]  Full Fund T - complete:161816; pending: 18
+2015-06-10 22:58:55  [ main:30153 ] - [ INFO ]  Full Fund T - complete:161812; pending: 17
+2015-06-10 22:58:56  [ main:30503 ] - [ INFO ]  Full Fund T - complete:161811; pending: 16
+2015-06-10 22:58:56  [ main:30744 ] - [ INFO ]  Full Fund T - complete:161715; pending: 15
+2015-06-10 22:58:56  [ main:31133 ] - [ INFO ]  Full Fund T - complete:161507; pending: 14
+2015-06-10 22:58:57  [ main:31437 ] - [ INFO ]  Full Fund T - complete:161207; pending: 13
+2015-06-10 22:58:57  [ main:31681 ] - [ INFO ]  Full Fund T - complete:161118; pending: 12
+2015-06-10 22:58:57  [ main:31926 ] - [ INFO ]  Full Fund T - complete:160809; pending: 11
+2015-06-10 22:58:57  [ main:32169 ] - [ INFO ]  Full Fund T - complete:160808; pending: 10
+2015-06-10 22:58:58  [ main:32412 ] - [ INFO ]  Full Fund T - complete:160806; pending: 9
+2015-06-10 22:58:58  [ main:32720 ] - [ INFO ]  Full Fund T - complete:160620; pending: 8
+2015-06-10 22:58:58  [ main:32988 ] - [ INFO ]  Full Fund T - complete:160605; pending: 7
+2015-06-10 22:58:59  [ main:33350 ] - [ INFO ]  Full Fund T - complete:160603; pending: 6
+2015-06-10 22:58:59  [ main:33596 ] - [ INFO ]  Full Fund T - complete:160417; pending: 5
+2015-06-10 22:58:59  [ main:33839 ] - [ INFO ]  Full Fund T - complete:160219; pending: 4
+2015-06-10 22:58:59  [ main:34075 ] - [ INFO ]  Full Fund T - complete:160218; pending: 3
+2015-06-10 22:59:00  [ main:34412 ] - [ INFO ]  Full Fund T - complete:160127; pending: 2
+2015-06-10 22:59:00  [ main:34575 ] - [ INFO ]  Full Fund T - complete:160133; pending: 1
+2015-06-10 22:59:00  [ main:34724 ] - [ INFO ]  Full Fund T - complete:161224; pending: 0
+2015-06-10 22:59:00  [ main:34726 ] - [ INFO ]  DB Connection Closed
+2015-06-10 22:59:42  [ main:0 ] - [ INFO ]  Regular Fund ROI Calculation Begin
+2015-06-10 22:59:43  [ main:368 ] - [ INFO ]  DB Connection created
+2015-06-10 22:59:43  [ main:514 ] - [ INFO ]  Full Fund ROI Calculation - complete:160220; pending: 120
+2015-06-10 22:59:43  [ main:548 ] - [ INFO ]  Full Fund ROI Calculation - complete:160717; pending: 119
+2015-06-10 22:59:43  [ main:584 ] - [ INFO ]  Full Fund ROI Calculation - complete:161610; pending: 118
+2015-06-10 22:59:43  [ main:634 ] - [ INFO ]  Full Fund ROI Calculation - complete:160706; pending: 117
+2015-06-10 22:59:43  [ main:678 ] - [ INFO ]  Full Fund ROI Calculation - complete:162703; pending: 116
+2015-06-10 22:59:43  [ main:731 ] - [ INFO ]  Full Fund ROI Calculation - complete:160505; pending: 115
+2015-06-10 22:59:43  [ main:778 ] - [ INFO ]  Full Fund ROI Calculation - complete:160610; pending: 114
+2015-06-10 22:59:43  [ main:832 ] - [ INFO ]  Full Fund ROI Calculation - complete:160916; pending: 113
+2015-06-10 22:59:43  [ main:876 ] - [ INFO ]  Full Fund ROI Calculation - complete:160716; pending: 112
+2015-06-10 22:59:43  [ main:927 ] - [ INFO ]  Full Fund ROI Calculation - complete:161706; pending: 111
+2015-06-10 22:59:43  [ main:976 ] - [ INFO ]  Full Fund ROI Calculation - complete:160607; pending: 110
+2015-06-10 22:59:43  [ main:1026 ] - [ INFO ]  Full Fund ROI Calculation - complete:160512; pending: 109
+2015-06-10 22:59:43  [ main:1075 ] - [ INFO ]  Full Fund ROI Calculation - complete:160311; pending: 108
+2015-06-10 22:59:43  [ main:1129 ] - [ INFO ]  Full Fund ROI Calculation - complete:160119; pending: 107
+2015-06-10 22:59:44  [ main:1173 ] - [ INFO ]  Full Fund ROI Calculation - complete:160216; pending: 106
+2015-06-10 22:59:44  [ main:1223 ] - [ INFO ]  Full Fund ROI Calculation - complete:163503; pending: 105
+2015-06-10 22:59:44  [ main:1273 ] - [ INFO ]  Full Fund ROI Calculation - complete:162605; pending: 104
+2015-06-10 22:59:44  [ main:1323 ] - [ INFO ]  Full Fund ROI Calculation - complete:160314; pending: 103
+2015-06-10 22:59:44  [ main:1351 ] - [ INFO ]  Full Fund ROI Calculation - complete:163801; pending: 102
+2015-06-10 22:59:44  [ main:1378 ] - [ INFO ]  Full Fund ROI Calculation - complete:163402; pending: 101
+2015-06-10 22:59:44  [ main:1427 ] - [ INFO ]  Full Fund ROI Calculation - complete:162607; pending: 100
+2015-06-10 22:59:44  [ main:1481 ] - [ INFO ]  Full Fund ROI Calculation - complete:166011; pending: 99
+2015-06-10 22:59:44  [ main:1542 ] - [ INFO ]  Full Fund ROI Calculation - complete:164815; pending: 98
+2015-06-10 22:59:44  [ main:1578 ] - [ INFO ]  Full Fund ROI Calculation - complete:166009; pending: 97
+2015-06-10 22:59:44  [ main:1628 ] - [ INFO ]  Full Fund ROI Calculation - complete:161005; pending: 96
+2015-06-10 22:59:44  [ main:1677 ] - [ INFO ]  Full Fund ROI Calculation - complete:165313; pending: 95
+2015-06-10 22:59:44  [ main:1728 ] - [ INFO ]  Full Fund ROI Calculation - complete:160611; pending: 94
+2015-06-10 22:59:44  [ main:1779 ] - [ INFO ]  Full Fund ROI Calculation - complete:160106; pending: 93
+2015-06-10 22:59:44  [ main:1828 ] - [ INFO ]  Full Fund ROI Calculation - complete:161607; pending: 92
+2015-06-10 22:59:44  [ main:1877 ] - [ INFO ]  Full Fund ROI Calculation - complete:160910; pending: 91
+2015-06-10 22:59:44  [ main:1927 ] - [ INFO ]  Full Fund ROI Calculation - complete:166001; pending: 90
+2015-06-10 22:59:44  [ main:1977 ] - [ INFO ]  Full Fund ROI Calculation - complete:163412; pending: 89
+2015-06-10 22:59:44  [ main:2030 ] - [ INFO ]  Full Fund ROI Calculation - complete:160211; pending: 88
+2015-06-10 22:59:44  [ main:2077 ] - [ INFO ]  Full Fund ROI Calculation - complete:166006; pending: 87
+2015-06-10 22:59:44  [ main:2127 ] - [ INFO ]  Full Fund ROI Calculation - complete:163302; pending: 86
+2015-06-10 22:59:45  [ main:2174 ] - [ INFO ]  Full Fund ROI Calculation - complete:161217; pending: 85
+2015-06-10 22:59:45  [ main:2203 ] - [ INFO ]  Full Fund ROI Calculation - complete:162207; pending: 84
+2015-06-10 22:59:45  [ main:2229 ] - [ INFO ]  Full Fund ROI Calculation - complete:165508; pending: 83
+2015-06-10 22:59:45  [ main:2280 ] - [ INFO ]  Full Fund ROI Calculation - complete:160805; pending: 82
+2015-06-10 22:59:45  [ main:2331 ] - [ INFO ]  Full Fund ROI Calculation - complete:162711; pending: 81
+2015-06-10 22:59:45  [ main:2385 ] - [ INFO ]  Full Fund ROI Calculation - complete:161810; pending: 80
+2015-06-10 22:59:45  [ main:2432 ] - [ INFO ]  Full Fund ROI Calculation - complete:162307; pending: 79
+2015-06-10 22:59:45  [ main:2479 ] - [ INFO ]  Full Fund ROI Calculation - complete:160616; pending: 78
+2015-06-10 22:59:45  [ main:2530 ] - [ INFO ]  Full Fund ROI Calculation - complete:160105; pending: 77
+2015-06-10 22:59:45  [ main:2579 ] - [ INFO ]  Full Fund ROI Calculation - complete:163409; pending: 76
+2015-06-10 22:59:45  [ main:2628 ] - [ INFO ]  Full Fund ROI Calculation - complete:161903; pending: 75
+2015-06-10 22:59:45  [ main:2678 ] - [ INFO ]  Full Fund ROI Calculation - complete:160212; pending: 74
+2015-06-10 22:59:45  [ main:2729 ] - [ INFO ]  Full Fund ROI Calculation - complete:165516; pending: 73
+2015-06-10 22:59:45  [ main:2779 ] - [ INFO ]  Full Fund ROI Calculation - complete:162006; pending: 72
+2015-06-10 22:59:45  [ main:2829 ] - [ INFO ]  Full Fund ROI Calculation - complete:163407; pending: 71
+2015-06-10 22:59:45  [ main:2878 ] - [ INFO ]  Full Fund ROI Calculation - complete:163415; pending: 70
+2015-06-10 22:59:45  [ main:2929 ] - [ INFO ]  Full Fund ROI Calculation - complete:160615; pending: 69
+2015-06-10 22:59:45  [ main:2978 ] - [ INFO ]  Full Fund ROI Calculation - complete:162510; pending: 68
+2015-06-10 22:59:45  [ main:3028 ] - [ INFO ]  Full Fund ROI Calculation - complete:160613; pending: 67
+2015-06-10 22:59:45  [ main:3078 ] - [ INFO ]  Full Fund ROI Calculation - complete:160215; pending: 66
+2015-06-10 22:59:45  [ main:3128 ] - [ INFO ]  Full Fund ROI Calculation - complete:161017; pending: 65
+2015-06-10 22:59:46  [ main:3161 ] - [ INFO ]  Full Fund ROI Calculation - complete:165309; pending: 64
+2015-06-10 22:59:46  [ main:3197 ] - [ INFO ]  Full Fund ROI Calculation - complete:161219; pending: 63
+2015-06-10 22:59:46  [ main:3248 ] - [ INFO ]  Full Fund ROI Calculation - complete:161907; pending: 62
+2015-06-10 22:59:46  [ main:3295 ] - [ INFO ]  Full Fund ROI Calculation - complete:167901; pending: 61
+2015-06-10 22:59:46  [ main:3394 ] - [ INFO ]  Full Fund ROI Calculation - complete:165512; pending: 60
+2015-06-10 22:59:46  [ main:3416 ] - [ INFO ]  Full Fund ROI Calculation - complete:160415; pending: 59
+2015-06-10 22:59:46  [ main:3467 ] - [ INFO ]  Full Fund ROI Calculation - complete:163110; pending: 58
+2015-06-10 22:59:46  [ main:3517 ] - [ INFO ]  Full Fund ROI Calculation - complete:160807; pending: 57
+2015-06-10 22:59:46  [ main:3567 ] - [ INFO ]  Full Fund ROI Calculation - complete:166007; pending: 56
+2015-06-10 22:59:46  [ main:3618 ] - [ INFO ]  Full Fund ROI Calculation - complete:161213; pending: 55
+2015-06-10 22:59:46  [ main:3668 ] - [ INFO ]  Full Fund ROI Calculation - complete:163821; pending: 54
+2015-06-10 22:59:46  [ main:3722 ] - [ INFO ]  Full Fund ROI Calculation - complete:165806; pending: 53
+2015-06-10 22:59:46  [ main:3745 ] - [ INFO ]  Full Fund ROI Calculation - complete:167701; pending: 52
+2015-06-10 22:59:46  [ main:3772 ] - [ INFO ]  Full Fund ROI Calculation - complete:166802; pending: 51
+2015-06-10 22:59:46  [ main:3820 ] - [ INFO ]  Full Fund ROI Calculation - complete:166005; pending: 50
+2015-06-10 22:59:46  [ main:3844 ] - [ INFO ]  Full Fund ROI Calculation - complete:166002; pending: 49
+2015-06-10 22:59:46  [ main:3872 ] - [ INFO ]  Full Fund ROI Calculation - complete:165707; pending: 48
+2015-06-10 22:59:46  [ main:3921 ] - [ INFO ]  Full Fund ROI Calculation - complete:165520; pending: 47
+2015-06-10 22:59:46  [ main:3944 ] - [ INFO ]  Full Fund ROI Calculation - complete:165519; pending: 46
+2015-06-10 22:59:46  [ main:3971 ] - [ INFO ]  Full Fund ROI Calculation - complete:165515; pending: 45
+2015-06-10 22:59:46  [ main:3993 ] - [ INFO ]  Full Fund ROI Calculation - complete:165511; pending: 44
+2015-06-10 22:59:46  [ main:4021 ] - [ INFO ]  Full Fund ROI Calculation - complete:165312; pending: 43
+2015-06-10 22:59:46  [ main:4072 ] - [ INFO ]  Full Fund ROI Calculation - complete:165310; pending: 42
+2015-06-10 22:59:46  [ main:4096 ] - [ INFO ]  Full Fund ROI Calculation - complete:164811; pending: 41
+2015-06-10 22:59:46  [ main:4123 ] - [ INFO ]  Full Fund ROI Calculation - complete:164809; pending: 40
+2015-06-10 22:59:47  [ main:4173 ] - [ INFO ]  Full Fund ROI Calculation - complete:163810; pending: 39
+2015-06-10 22:59:47  [ main:4195 ] - [ INFO ]  Full Fund ROI Calculation - complete:163809; pending: 38
+2015-06-10 22:59:47  [ main:4223 ] - [ INFO ]  Full Fund ROI Calculation - complete:163808; pending: 37
+2015-06-10 22:59:47  [ main:4273 ] - [ INFO ]  Full Fund ROI Calculation - complete:163807; pending: 36
+2015-06-10 22:59:47  [ main:4296 ] - [ INFO ]  Full Fund ROI Calculation - complete:163805; pending: 35
+2015-06-10 22:59:47  [ main:4322 ] - [ INFO ]  Full Fund ROI Calculation - complete:163804; pending: 34
+2015-06-10 22:59:47  [ main:4360 ] - [ INFO ]  Full Fund ROI Calculation - complete:163803; pending: 33
+2015-06-10 22:59:47  [ main:4427 ] - [ INFO ]  Full Fund ROI Calculation - complete:163406; pending: 32
+2015-06-10 22:59:47  [ main:4476 ] - [ INFO ]  Full Fund ROI Calculation - complete:163209; pending: 31
+2015-06-10 22:59:47  [ main:4500 ] - [ INFO ]  Full Fund ROI Calculation - complete:163111; pending: 30
+2015-06-10 22:59:47  [ main:4528 ] - [ INFO ]  Full Fund ROI Calculation - complete:163109; pending: 29
+2015-06-10 22:59:47  [ main:4577 ] - [ INFO ]  Full Fund ROI Calculation - complete:162907; pending: 28
+2015-06-10 22:59:47  [ main:4598 ] - [ INFO ]  Full Fund ROI Calculation - complete:162714; pending: 27
+2015-06-10 22:59:47  [ main:4626 ] - [ INFO ]  Full Fund ROI Calculation - complete:162509; pending: 26
+2015-06-10 22:59:47  [ main:4664 ] - [ INFO ]  Full Fund ROI Calculation - complete:162216; pending: 25
+2015-06-10 22:59:47  [ main:4699 ] - [ INFO ]  Full Fund ROI Calculation - complete:162107; pending: 24
+2015-06-10 22:59:47  [ main:4748 ] - [ INFO ]  Full Fund ROI Calculation - complete:162010; pending: 23
+2015-06-10 22:59:47  [ main:4770 ] - [ INFO ]  Full Fund ROI Calculation - complete:161910; pending: 22
+2015-06-10 22:59:47  [ main:4798 ] - [ INFO ]  Full Fund ROI Calculation - complete:161826; pending: 21
+2015-06-10 22:59:47  [ main:4847 ] - [ INFO ]  Full Fund ROI Calculation - complete:161819; pending: 20
+2015-06-10 22:59:47  [ main:4870 ] - [ INFO ]  Full Fund ROI Calculation - complete:161818; pending: 19
+2015-06-10 22:59:47  [ main:4897 ] - [ INFO ]  Full Fund ROI Calculation - complete:161816; pending: 18
+2015-06-10 22:59:47  [ main:4922 ] - [ INFO ]  Full Fund ROI Calculation - complete:161812; pending: 17
+2015-06-10 22:59:47  [ main:4961 ] - [ INFO ]  Full Fund ROI Calculation - complete:161811; pending: 16
+2015-06-10 22:59:47  [ main:4998 ] - [ INFO ]  Full Fund ROI Calculation - complete:161715; pending: 15
+2015-06-10 22:59:47  [ main:5023 ] - [ INFO ]  Full Fund ROI Calculation - complete:161507; pending: 14
+2015-06-10 22:59:47  [ main:5048 ] - [ INFO ]  Full Fund ROI Calculation - complete:161207; pending: 13
+2015-06-10 22:59:47  [ main:5097 ] - [ INFO ]  Full Fund ROI Calculation - complete:161118; pending: 12
+2015-06-10 22:59:47  [ main:5126 ] - [ INFO ]  Full Fund ROI Calculation - complete:160809; pending: 11
+2015-06-10 22:59:47  [ main:5148 ] - [ INFO ]  Full Fund ROI Calculation - complete:160808; pending: 10
+2015-06-10 22:59:48  [ main:5197 ] - [ INFO ]  Full Fund ROI Calculation - complete:160806; pending: 9
+2015-06-10 22:59:48  [ main:5228 ] - [ INFO ]  Full Fund ROI Calculation - complete:160620; pending: 8
+2015-06-10 22:59:48  [ main:5250 ] - [ INFO ]  Full Fund ROI Calculation - complete:160605; pending: 7
+2015-06-10 22:59:48  [ main:5272 ] - [ INFO ]  Full Fund ROI Calculation - complete:160603; pending: 6
+2015-06-10 22:59:48  [ main:5301 ] - [ INFO ]  Full Fund ROI Calculation - complete:160417; pending: 5
+2015-06-10 22:59:48  [ main:5364 ] - [ INFO ]  Full Fund ROI Calculation - complete:160219; pending: 4
+2015-06-10 22:59:48  [ main:5435 ] - [ INFO ]  Full Fund ROI Calculation - complete:160218; pending: 3
+2015-06-10 22:59:48  [ main:5456 ] - [ INFO ]  Full Fund ROI Calculation - complete:160127; pending: 2
+2015-06-10 22:59:48  [ main:5505 ] - [ INFO ]  Full Fund ROI Calculation - complete:160133; pending: 1
+2015-06-10 22:59:48  [ main:5537 ] - [ INFO ]  Full Fund ROI Calculation - complete:161224; pending: 0
+2015-06-10 22:59:48  [ main:5564 ] - [ INFO ]  上升: Win No:35,46.666666666666664%; Deal Pct:4.071661237785016%; Expectation: 0.019001085776330074
+2015-06-10 22:59:48  [ main:5582 ] - [ INFO ]  上升: Win No:35,46.666666666666664%; Deal Pct:4.071661237785016%; Expectation: 0.019001085776330074
+2015-06-10 22:59:48  [ main:5599 ] - [ INFO ]  上升: Win No:53,42.06349206349206%; Deal Pct:6.840390879478828%; Expectation: 0.028773072747014117
+2015-06-10 22:59:48  [ main:5616 ] - [ INFO ]  上升: Win No:86,68.25396825396825%; Deal Pct:6.840390879478828%; Expectation: 0.04668838219326819
+2015-06-10 22:59:48  [ main:5633 ] - [ INFO ]  下降: Win No:18,47.368421052631575%; Deal Pct:2.0629750271444083%; Expectation: 0.009771986970684038
+2015-06-10 22:59:48  [ main:5654 ] - [ INFO ]  下降: Win No:20,52.63157894736842%; Deal Pct:2.0629750271444083%; Expectation: 0.010857763300760041
+2015-06-10 22:59:48  [ main:5672 ] - [ INFO ]  下降: Win No:32,38.55421686746988%; Deal Pct:4.505971769815418%; Expectation: 0.01737242128121607
+2015-06-10 22:59:48  [ main:5690 ] - [ INFO ]  下降: Win No:45,54.21686746987952%; Deal Pct:4.505971769815418%; Expectation: 0.024429967426710095
+2015-06-10 22:59:48  [ main:5709 ] - [ INFO ]  上升: Win No:24,66.66666666666666%; Deal Pct:1.9543973941368076%; Expectation: 0.013029315960912051
+2015-06-10 22:59:48  [ main:5725 ] - [ INFO ]  上升: Win No:7,19.444444444444446%; Deal Pct:1.9543973941368076%; Expectation: 0.0038002171552660147
+2015-06-10 22:59:48  [ main:5749 ] - [ INFO ]  上升: Win No:28,27.722772277227726%; Deal Pct:5.483170466883822%; Expectation: 0.01520086862106406
+2015-06-10 22:59:48  [ main:5767 ] - [ INFO ]  上升: Win No:72,71.28712871287128%; Deal Pct:5.483170466883822%; Expectation: 0.03908794788273615
+2015-06-10 22:59:48  [ main:5783 ] - [ INFO ]  下降: Win No:16,66.66666666666666%; Deal Pct:1.3029315960912053%; Expectation: 0.008686210640608035
+2015-06-10 22:59:48  [ main:5801 ] - [ INFO ]  下降: Win No:7,29.166666666666668%; Deal Pct:1.3029315960912053%; Expectation: 0.0038002171552660156
+2015-06-10 22:59:48  [ main:5819 ] - [ INFO ]  下降: Win No:71,36.787564766839374%; Deal Pct:10.477741585233442%; Expectation: 0.03854505971769815
+2015-06-10 22:59:48  [ main:5838 ] - [ INFO ]  下降: Win No:134,69.43005181347151%; Deal Pct:10.477741585233442%; Expectation: 0.0727470141150923
+2015-06-10 22:59:48  [ main:5856 ] - [ INFO ]  上升: Win No:14,60.86956521739131%; Deal Pct:1.248642779587405%; Expectation: 0.007600434310532031
+2015-06-10 22:59:48  [ main:5873 ] - [ INFO ]  上升: Win No:9,39.130434782608695%; Deal Pct:1.248642779587405%; Expectation: 0.00488599348534202
+2015-06-10 22:59:48  [ main:5891 ] - [ INFO ]  上升: Win No:3,25.0%; Deal Pct:0.6514657980456027%; Expectation: 0.0016286644951140066
+2015-06-10 22:59:48  [ main:5909 ] - [ INFO ]  上升: Win No:10,83.33333333333334%; Deal Pct:0.6514657980456027%; Expectation: 0.005428881650380022
+2015-06-10 22:59:48  [ main:5943 ] - [ INFO ]  下降: Win No:6,60.0%; Deal Pct:0.5428881650380022%; Expectation: 0.0032573289902280127
+2015-06-10 22:59:48  [ main:5986 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.5428881650380022%; Expectation: 0.0
+2015-06-10 22:59:48  [ main:6012 ] - [ INFO ]  下降: Win No:22,29.72972972972973%; Deal Pct:4.017372421281216%; Expectation: 0.011943539630836048
+2015-06-10 22:59:48  [ main:6046 ] - [ INFO ]  下降: Win No:61,82.43243243243244%; Deal Pct:4.017372421281216%; Expectation: 0.03311617806731813
+2015-06-10 22:59:48  [ main:6063 ] - [ INFO ]  上升: Win No:8,80.0%; Deal Pct:0.5428881650380022%; Expectation: 0.004343105320304018
+2015-06-10 22:59:48  [ main:6080 ] - [ INFO ]  上升: Win No:3,30.0%; Deal Pct:0.5428881650380022%; Expectation: 0.0016286644951140064
+2015-06-10 22:59:48  [ main:6097 ] - [ INFO ]  上升: Win No:1,100.0%; Deal Pct:0.05428881650380022%; Expectation: 5.428881650380022E-4
+2015-06-10 22:59:48  [ main:6115 ] - [ INFO ]  上升: Win No:1,100.0%; Deal Pct:0.05428881650380022%; Expectation: 5.428881650380022E-4
+2015-06-10 22:59:48  [ main:6132 ] - [ INFO ]  下降: Win No:3,37.5%; Deal Pct:0.43431053203040176%; Expectation: 0.0016286644951140066
+2015-06-10 22:59:48  [ main:6156 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.43431053203040176%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6176 ] - [ INFO ]  下降: Win No:9,50.0%; Deal Pct:0.9771986970684038%; Expectation: 0.004885993485342019
+2015-06-10 22:59:49  [ main:6194 ] - [ INFO ]  下降: Win No:18,100.0%; Deal Pct:0.9771986970684038%; Expectation: 0.009771986970684038
+2015-06-10 22:59:49  [ main:6212 ] - [ INFO ]  上升: Win No:14,100.0%; Deal Pct:0.760043431053203%; Expectation: 0.00760043431053203
+2015-06-10 22:59:49  [ main:6229 ] - [ INFO ]  上升: Win No:4,28.57142857142857%; Deal Pct:0.760043431053203%; Expectation: 0.0021715526601520083
+2015-06-10 22:59:49  [ main:6251 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6268 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6285 ] - [ INFO ]  下降: Win No:1,50.0%; Deal Pct:0.10857763300760044%; Expectation: 5.428881650380022E-4
+2015-06-10 22:59:49  [ main:6301 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.10857763300760044%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6319 ] - [ INFO ]  下降: Win No:2,100.0%; Deal Pct:0.10857763300760044%; Expectation: 0.0010857763300760044
+2015-06-10 22:59:49  [ main:6336 ] - [ INFO ]  下降: Win No:2,100.0%; Deal Pct:0.10857763300760044%; Expectation: 0.0010857763300760044
+2015-06-10 22:59:49  [ main:6353 ] - [ INFO ]  上升: Win No:3,60.0%; Deal Pct:0.2714440825190011%; Expectation: 0.0016286644951140064
+2015-06-10 22:59:49  [ main:6373 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.2714440825190011%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6393 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6418 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6469 ] - [ INFO ]  下降: Win No:1,33.33333333333333%; Deal Pct:0.16286644951140067%; Expectation: 5.428881650380022E-4
+2015-06-10 22:59:49  [ main:6517 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.16286644951140067%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6559 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6657 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6696 ] - [ INFO ]  上升: Win No:6,85.71428571428571%; Deal Pct:0.3800217155266015%; Expectation: 0.0032573289902280127
+2015-06-10 22:59:49  [ main:6714 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.3800217155266015%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6731 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6748 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6767 ] - [ INFO ]  下降: Win No:2,66.66666666666666%; Deal Pct:0.16286644951140067%; Expectation: 0.0010857763300760044
+2015-06-10 22:59:49  [ main:6784 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.16286644951140067%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6801 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6817 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6834 ] - [ INFO ]  上升: Win No:4,100.0%; Deal Pct:0.21715526601520088%; Expectation: 0.002171552660152009
+2015-06-10 22:59:49  [ main:6851 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.21715526601520088%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6870 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6886 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6903 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.10857763300760044%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6920 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.10857763300760044%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6937 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6954 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:6973 ] - [ INFO ]  上升: Win No:3,100.0%; Deal Pct:0.16286644951140067%; Expectation: 0.0016286644951140066
+2015-06-10 22:59:49  [ main:6990 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.16286644951140067%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:7007 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:7023 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:7040 ] - [ INFO ]  下降: Win No:1,50.0%; Deal Pct:0.10857763300760044%; Expectation: 5.428881650380022E-4
+2015-06-10 22:59:49  [ main:7057 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.10857763300760044%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:7079 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:7095 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:7113 ] - [ INFO ]  上升: Win No:2,100.0%; Deal Pct:0.10857763300760044%; Expectation: 0.0010857763300760044
+2015-06-10 22:59:49  [ main:7129 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.10857763300760044%; Expectation: 0.0
+2015-06-10 22:59:49  [ main:7146 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:50  [ main:7173 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:50  [ main:7190 ] - [ INFO ]  下降: Win No:1,50.0%; Deal Pct:0.10857763300760044%; Expectation: 5.428881650380022E-4
+2015-06-10 22:59:50  [ main:7222 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.10857763300760044%; Expectation: 0.0
+2015-06-10 22:59:50  [ main:7240 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:50  [ main:7272 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:50  [ main:7299 ] - [ INFO ]  上升: Win No:23,76.66666666666667%; Deal Pct:1.6286644951140066%; Expectation: 0.01248642779587405
+2015-06-10 22:59:50  [ main:7325 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:1.6286644951140066%; Expectation: 0.0
+2015-06-10 22:59:50  [ main:7362 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:50  [ main:7392 ] - [ INFO ]  上升: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:50  [ main:7411 ] - [ INFO ]  下降: Win No:5,62.5%; Deal Pct:0.43431053203040176%; Expectation: 0.002714440825190011
+2015-06-10 22:59:50  [ main:7432 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.43431053203040176%; Expectation: 0.0
+2015-06-10 22:59:50  [ main:7455 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:50  [ main:7489 ] - [ INFO ]  下降: Win No:0,0.0%; Deal Pct:0.0%; Expectation: 0.0
+2015-06-10 22:59:50  [ main:7489 ] - [ INFO ]  Regular Fund ROI Calculation End
+2015-06-10 22:59:50  [ main:7492 ] - [ INFO ]  DB Connection Closed

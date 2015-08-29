@@ -3,6 +3,10 @@ package runner;
 import java.text.ParseException;
 import java.util.ArrayList;
 
+import autodeal.Broker;
+import autodeal.DealBuy;
+import autodeal.DealSell;
+import autodeal.Holding;
 import model.StockDeal;
 import model.StockROI;
 import controller.FullStockROICalculationController;
@@ -60,12 +64,58 @@ public class TestRunner {
 		
 		for(String s : stringList)
 			System.out.println(s);
-		*/
+		
 		
 		GetFundDataController sc = new GetFundDataController();
 		sc.action(null, null);
+		*/
 		
+		testAutoDeal();
+	}
+	
+	public static void testAutoDeal()
+	{
+		ArrayList<DealBuy> buyDeals = new ArrayList<DealBuy>();
 		
+		DealBuy buyDeal1 = new DealBuy();
+		buyDeal1.setId("000001");
+		buyDeal1.setPrice(13.5);
+		buyDeal1.setVolume(500);
+		
+		buyDeals.add(buyDeal1);
+		
+		DealBuy buyDeal2 = new DealBuy();
+		buyDeal2.setId("000002");
+		buyDeal2.setPrice(23.5);
+		buyDeal2.setVolume(200);
+		
+		buyDeals.add(buyDeal2);
+		
+		ArrayList<DealSell> sellDeals = new ArrayList<DealSell>();
+		
+		DealSell sellDeal1 = new DealSell();
+		sellDeal1.setId("000003");
+		sellDeal1.setPrice(3.5);
+		sellDeal1.setVolume(300);
+		
+		sellDeals.add(sellDeal1);
+		
+		DealSell sellDeal2 = new DealSell();
+		sellDeal2.setId("000004");
+		sellDeal2.setPrice(50.5);
+		sellDeal2.setVolume(2000);
+		
+		sellDeals.add(sellDeal2);
+		
+		Broker broker = new Broker();
+		broker.buy(buyDeals);
+		broker.sell(sellDeals);
+		
+		ArrayList<Holding> holdings = broker.getBalance();
+		for(Holding holding : holdings)
+		{
+			System.out.println(holding.getId());
+		}
 	}
 	
 }

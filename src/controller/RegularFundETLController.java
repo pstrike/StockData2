@@ -269,6 +269,7 @@ public class RegularFundETLController extends Controller {
 								if(fund.getFundDealARoi()>0)
 								{
 									roi.setWinTxnNo(roi.getWinTxnNo()+1);
+									roi.setRoi(roi.getRoi()+fund.getFundDealARoi());
 								}
 								roi.setDealTxnNo(roi.getDealTxnNo()+1);
 							}
@@ -278,6 +279,7 @@ public class RegularFundETLController extends Controller {
 								if(fund.getFundDealBRoi()>0)
 								{
 									roi.setWinTxnNo(roi.getWinTxnNo()+1);
+									roi.setRoi(roi.getRoi()+fund.getFundDealBRoi());
 								}
 								roi.setDealTxnNo(roi.getDealTxnNo()+1);
 							}
@@ -302,6 +304,11 @@ public class RegularFundETLController extends Controller {
 			for(FundROI roi : roiList)
 			{
 				roi.setTotalTxnNo(totalFundNo);
+				
+				if(roi.getWinTxnNo()>0)
+				{
+					roi.setRoi(roi.getRoi()/roi.getWinTxnNo());
+				}
 				
 				fundRoiDbDao.insertFundROI(roi);
 

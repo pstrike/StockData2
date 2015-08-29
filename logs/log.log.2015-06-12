@@ -1,0 +1,499 @@
+2015-06-12 22:09:37  [ main:0 ] - [ ERROR ]  Get Stock 3 Id from East Money Exception
+2015-06-12 22:09:37  [ main:4 ] - [ ERROR ]  java.util.regex.PatternSyntaxException: Unclosed group near index 1
+(
+ ^
+2015-06-12 22:49:02  [ main:0 ] - [ INFO ]  DB Connection created
+2015-06-12 22:49:04  [ main:1848 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:1848 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:1865 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:1866 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:1896 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:1896 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:1913 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:1913 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:1931 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:1931 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:1949 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:1950 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:1970 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:1970 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:1988 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:1990 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2013 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2014 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2032 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2032 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2049 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2049 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2065 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2066 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2083 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2083 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2099 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2100 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2118 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2118 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2135 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2136 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2153 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2154 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2172 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2172 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2189 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2189 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2208 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2208 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2225 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2225 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2245 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2246 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2263 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2264 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2283 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2283 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2302 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2303 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2323 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2323 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2339 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2339 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2356 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2356 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2373 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2373 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2389 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2389 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2406 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2406 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2424 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2424 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2441 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2442 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2458 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2458 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2474 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2474 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:04  [ main:2490 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:04  [ main:2491 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2508 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2508 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2526 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2526 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2543 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2543 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2560 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2560 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2578 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2578 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2595 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2596 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2612 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2613 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2628 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2628 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2647 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2648 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2663 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2664 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2679 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2680 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2711 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2711 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2729 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2729 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2747 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2747 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2764 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2764 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2781 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2781 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2797 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2797 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2814 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2815 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2832 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2832 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2850 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2850 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2867 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2867 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2883 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2884 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2901 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2901 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2917 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2917 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2934 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2934 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2952 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2952 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2969 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2969 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:2987 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:2987 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3005 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3005 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3021 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3021 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3037 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3037 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3054 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3055 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3071 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3071 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3087 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3087 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3103 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3103 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3122 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3122 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3140 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3140 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3157 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3158 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3173 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3173 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3190 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3190 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3205 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3206 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3224 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3224 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3240 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3240 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3257 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3257 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3273 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3273 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3291 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3292 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3310 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3310 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3327 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3328 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3344 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3345 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3370 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3370 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3385 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3386 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3403 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3403 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3420 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3420 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3437 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3438 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3456 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3457 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3473 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3474 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:05  [ main:3490 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:05  [ main:3490 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3508 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3508 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3526 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3526 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3545 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3546 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3562 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3563 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3579 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3579 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3598 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3598 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3614 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3615 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3634 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3634 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3650 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3651 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3666 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3666 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3682 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3682 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3699 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3699 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3716 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3716 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3735 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3736 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3753 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3753 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3772 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3772 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3789 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3789 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3806 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3806 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3823 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3823 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3842 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3842 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3857 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3857 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3874 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3874 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3891 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3891 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3907 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3907 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3924 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3924 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3941 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3941 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3958 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3959 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3976 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3976 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:3994 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:3995 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4011 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4012 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4029 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4029 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4048 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4048 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4065 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4065 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4081 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4081 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4097 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4098 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4114 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4114 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4130 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4130 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4146 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4147 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4164 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4164 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4183 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4183 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4199 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4200 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4216 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4216 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4233 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4233 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4252 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4252 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4267 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4268 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4285 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4285 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4301 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4302 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4317 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4317 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4333 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4333 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4350 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4351 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4368 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4368 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4387 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4387 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4403 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4404 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4422 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4422 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4439 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4439 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4456 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4457 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:06  [ main:4489 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:06  [ main:4489 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:07  [ main:4509 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:07  [ main:4509 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:07  [ main:4526 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:07  [ main:4526 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:07  [ main:4542 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:07  [ main:4542 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:07  [ main:4561 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:07  [ main:4562 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:07  [ main:4577 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:07  [ main:4578 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:07  [ main:4593 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:07  [ main:4593 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:07  [ main:4610 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:07  [ main:4610 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:07  [ main:4626 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:07  [ main:4626 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:07  [ main:4645 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:07  [ main:4645 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:49:07  [ main:4665 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:49:07  [ main:4665 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'category' cannot be null
+2015-06-12 22:53:07  [ main:0 ] - [ INFO ]  DB Connection created
+2015-06-12 22:53:09  [ main:1372 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1372 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1400 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1401 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1428 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1429 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1457 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1457 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1484 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1485 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1511 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1512 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1539 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1540 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1567 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1570 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1597 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1597 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1626 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1626 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1655 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1656 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1684 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1685 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1713 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1713 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1741 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1741 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1771 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1771 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1801 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1801 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1830 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1830 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1860 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1861 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1889 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1889 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1918 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1918 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1947 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1947 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:1976 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:1976 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:2006 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:2006 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:2036 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:2036 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:2065 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:2065 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:2093 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:2094 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:2122 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:2122 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:09  [ main:2149 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:09  [ main:2150 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2199 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2199 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2230 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2231 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2258 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2258 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2286 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2286 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2313 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2313 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2343 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2343 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2373 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2373 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2400 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2400 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2428 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2428 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2455 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2456 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2482 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2482 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2511 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2511 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2538 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2538 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2564 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2565 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2591 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2592 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2618 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2618 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2647 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2647 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2674 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2675 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2701 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2701 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2728 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2728 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2758 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2758 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2784 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2784 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2810 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2811 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2839 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2840 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2867 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2867 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2894 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2895 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2922 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2922 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2953 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2953 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:2983 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:2983 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:3011 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:3012 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:3038 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:3038 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:3065 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:3066 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:3094 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:3094 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:3136 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:3137 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:10  [ main:3163 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:10  [ main:3163 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3192 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3192 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3219 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3220 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3246 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3247 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3273 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3274 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3301 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3301 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3330 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3330 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3357 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3358 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3387 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3387 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3413 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3414 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3439 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3439 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3465 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3466 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3493 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3493 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3519 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3519 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3545 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3545 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3572 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3572 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3598 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3599 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3625 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3625 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3650 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3650 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:11  [ main:3678 ] - [ ERROR ]  Insert Stock 3 ID into MySQL Exception
+2015-06-12 22:53:11  [ main:3678 ] - [ ERROR ]  java.sql.SQLException: No value specified for parameter 5
+2015-06-12 22:53:23  [ main:0 ] - [ INFO ]  DB Connection created
+2015-06-12 22:54:31  [ main:67660 ] - [ INFO ]  DB Connection Closed
+2015-06-12 22:54:39  [ main:0 ] - [ INFO ]  DB Connection created
+2015-06-12 22:54:41  [ main:2223 ] - [ INFO ]  DB Connection Closed
+2015-06-12 22:55:10  [ main:0 ] - [ INFO ]  DB Connection created
+2015-06-12 22:55:13  [ main:2326 ] - [ ERROR ]  Insert Stock 3 Id: 201000
+2015-06-12 22:55:13  [ main:2381 ] - [ INFO ]  DB Connection Closed
+2015-06-12 22:55:33  [ main:0 ] - [ INFO ]  DB Connection created
+2015-06-12 22:55:35  [ main:2023 ] - [ INFO ]  DB Connection Closed

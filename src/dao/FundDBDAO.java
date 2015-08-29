@@ -113,8 +113,8 @@ public class FundDBDAO
             	
             	fund.setFundValueTmr(rs.getDouble("fund_value_tmr"));
             	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d0_avg"));
-            	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d1_avg"));
-            	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d2_avg"));
+            	fund.setFundPriceD1Avg(rs.getDouble("fund_price_d1_avg"));
+            	fund.setFundPriceD2Avg(rs.getDouble("fund_price_d2_avg"));
             	fund.setFundDealARoi(rs.getDouble("fund_deal_a_roi"));
             	fund.setFundDealBRoi(rs.getDouble("fund_deal_b_roi"));
             	
@@ -190,8 +190,8 @@ public class FundDBDAO
             	
             	fund.setFundValueTmr(rs.getDouble("fund_value_tmr"));
             	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d0_avg"));
-            	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d1_avg"));
-            	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d2_avg"));
+            	fund.setFundPriceD1Avg(rs.getDouble("fund_price_d1_avg"));
+            	fund.setFundPriceD2Avg(rs.getDouble("fund_price_d2_avg"));
             	fund.setFundDealARoi(rs.getDouble("fund_deal_a_roi"));
             	fund.setFundDealBRoi(rs.getDouble("fund_deal_b_roi"));
             	
@@ -267,8 +267,8 @@ public class FundDBDAO
             	
             	fund.setFundValueTmr(rs.getDouble("fund_value_tmr"));
             	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d0_avg"));
-            	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d1_avg"));
-            	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d2_avg"));
+            	fund.setFundPriceD1Avg(rs.getDouble("fund_price_d1_avg"));
+            	fund.setFundPriceD2Avg(rs.getDouble("fund_price_d2_avg"));
             	fund.setFundDealARoi(rs.getDouble("fund_deal_a_roi"));
             	fund.setFundDealBRoi(rs.getDouble("fund_deal_b_roi"));
             	
@@ -344,8 +344,8 @@ public class FundDBDAO
             	
             	fund.setFundValueTmr(rs.getDouble("fund_value_tmr"));
             	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d0_avg"));
-            	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d1_avg"));
-            	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d2_avg"));
+            	fund.setFundPriceD1Avg(rs.getDouble("fund_price_d1_avg"));
+            	fund.setFundPriceD2Avg(rs.getDouble("fund_price_d2_avg"));
             	fund.setFundDealARoi(rs.getDouble("fund_deal_a_roi"));
             	fund.setFundDealBRoi(rs.getDouble("fund_deal_b_roi"));
             	
@@ -423,8 +423,8 @@ public class FundDBDAO
             	
             	fund.setFundValueTmr(rs.getDouble("fund_value_tmr"));
             	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d0_avg"));
-            	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d1_avg"));
-            	fund.setFundPriceD0Avg(rs.getDouble("fund_price_d2_avg"));
+            	fund.setFundPriceD1Avg(rs.getDouble("fund_price_d1_avg"));
+            	fund.setFundPriceD2Avg(rs.getDouble("fund_price_d2_avg"));
             	fund.setFundDealARoi(rs.getDouble("fund_deal_a_roi"));
             	fund.setFundDealBRoi(rs.getDouble("fund_deal_b_roi"));
             	

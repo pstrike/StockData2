@@ -1,88 +1,10 @@
-2015-06-06 23:24:34  [ main:4813 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:4820 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:4950 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:4951 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5029 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5029 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5038 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5038 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5063 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5063 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5074 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5075 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5086 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5086 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5112 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5113 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5122 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5122 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5131 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5132 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5157 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5157 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5165 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5166 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5177 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5177 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5205 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5205 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5214 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5215 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5223 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5223 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5247 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5247 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5257 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5258 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5266 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5266 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5291 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5292 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5300 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5300 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5308 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5309 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5317 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5317 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5326 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5326 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5335 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5335 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5344 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5344 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5370 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5371 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5382 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5382 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5404 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5404 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5431 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5431 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:34  [ main:5441 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:34  [ main:5441 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:35  [ main:5450 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:35  [ main:5450 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:35  [ main:5476 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:35  [ main:5476 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:35  [ main:5489 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:35  [ main:5489 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:35  [ main:5497 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:35  [ main:5497 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:35  [ main:5524 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:35  [ main:5524 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:35  [ main:5532 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:35  [ main:5533 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:35  [ main:5541 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:35  [ main:5542 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:35  [ main:5568 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:35  [ main:5569 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:35  [ main:5577 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:35  [ main:5577 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:35  [ main:5587 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:35  [ main:5588 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:35  [ main:5616 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:35  [ main:5616 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:35  [ main:5625 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:35  [ main:5625 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
-2015-06-06 23:24:35  [ main:5633 ] - [ ERROR ]  Insert Fund ROI into MySQL Exception
-2015-06-06 23:24:35  [ main:5634 ] - [ ERROR ]  java.sql.SQLException: 'NaN' is not a valid numeric or approximate numeric value
+2015-06-14 09:49:16  [ main:5435 ] - [ ERROR ]  Get Stock 3 Id from East Money Exception
+2015-06-14 09:49:16  [ main:5436 ] - [ ERROR ]  java.net.SocketTimeoutException: Read timed out
+2015-06-14 09:59:03  [ main:55805 ] - [ ERROR ]  Get Stock 3 Category from East Money Exception
+2015-06-14 09:59:03  [ main:55805 ] - [ ERROR ]  java.net.SocketTimeoutException: Read timed out
+2015-06-14 09:59:08  [ main:61366 ] - [ ERROR ]  Get Stock 3 Category from East Money Exception
+2015-06-14 09:59:08  [ main:61366 ] - [ ERROR ]  java.net.SocketTimeoutException: Read timed out
+2015-06-14 09:59:52  [ main:105344 ] - [ ERROR ]  Get Stock 3 Category from East Money Exception
+2015-06-14 09:59:52  [ main:105344 ] - [ ERROR ]  java.net.SocketTimeoutException: Read timed out
+2015-06-14 10:00:03  [ main:116032 ] - [ ERROR ]  Get Stock 3 Category from East Money Exception
+2015-06-14 10:00:03  [ main:116033 ] - [ ERROR ]  java.net.SocketTimeoutException: Read timed out
